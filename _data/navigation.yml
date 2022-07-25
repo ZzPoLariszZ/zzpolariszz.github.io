@@ -9,10 +9,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Education"
-    url: /Education/
+    url: /education/
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
+  - title: "Publications"
+    url: /publications
   - title: "Blog"
-    url: /Blog/
+    url: /blog/
   - title: "CV"
     url:
