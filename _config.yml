@@ -110,10 +110,10 @@ author:
   location         : "London, UK"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa fa-envelope"
       url: "mailto:zzpolariszz.research@outlook.com"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-github"
       url: "https://github.com/ZzPoLariszZ"
     - label: "Google Scholar"
       icon: "fa fa-university"
