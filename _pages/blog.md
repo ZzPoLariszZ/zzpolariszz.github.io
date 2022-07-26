@@ -1,5 +1,5 @@
 ---
 permalink: /blog/
-layout: posts
+layout: tags
 author_profile: true
 ---
