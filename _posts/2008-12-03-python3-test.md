@@ -1,7 +1,7 @@
 ---
 layout: single
 excerpt_separator: <!--more-->
-tags: python test
+tags: Python Test
 author_profile: true
 read_time: true
 toc: true
