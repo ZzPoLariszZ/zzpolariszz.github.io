@@ -1,5 +1,7 @@
 ---
+layout: collection
+title: "Projects"
+collection: projects
 permalink: /projects/
-layout: archive
 author_profile: true
 ---
