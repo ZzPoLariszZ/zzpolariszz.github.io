@@ -116,7 +116,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ZzPoLariszZ"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-university"
+      icon: "fa fa-university"
       url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
