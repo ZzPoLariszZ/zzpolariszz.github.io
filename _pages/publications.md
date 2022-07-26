@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Publications"
-collection: Publications
-permalink: /Publications/
+collection: publications
+permalink: /publications/
 author_profile: true
 ---
