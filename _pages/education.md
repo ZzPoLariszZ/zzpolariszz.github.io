@@ -19,7 +19,7 @@ classes: wide
 
     **Theis: *Autonomous Network Defence using Reinforcement Learning***
 
-    **Supervisors: Vasilios Mavroudis, Chris Hicks, Steven Murdoch**
+    **Supervisors: *Vasilios Mavroudis, Chris Hicks, Steven Murdoch***
 
 *Term 2*
 
@@ -56,7 +56,7 @@ classes: wide
 
     **Theis: *Enhancing Geographic Routing in Vehicular Delay Tolerant Network***
 
-    **Supervisor: Yue Cao**
+    **Supervisor: *Yue Cao***
 
 - CNSCC.311: Distributed System
 
