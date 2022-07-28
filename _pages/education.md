@@ -17,9 +17,9 @@ classes: wide
 
 - [COMP0064: MSc Information Security Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-information-security-dissertation-COMP0064)
 
-    Theis: *Autonomous Network Defence using Reinforcement Learning*
+    **Theis: *Autonomous Network Defence using Reinforcement Learning***
 
-    Supervisors: Vasilios Mavroudis, Chris Hicks, Steven Murdoch
+    **Supervisors: Vasilios Mavroudis, Chris Hicks, Steven Murdoch**
 
 *Term 2*
 
@@ -54,9 +54,9 @@ classes: wide
 
 - CNSCC.300: Final Year Project
 
-    Theis: *Enhancing Geographic Routing in Vehicular Delay Tolerant Network*
+    **Theis: *Enhancing Geographic Routing in Vehicular Delay Tolerant Network***
 
-    Supervisor: Yue Cao
+    **Supervisor: Yue Cao**
 
 - CNSCC.311: Distributed System
 
