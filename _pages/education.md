@@ -9,8 +9,9 @@ classes: wide
 <h3 style="font-size:22px">
     2021 - 2022 <br> <span style="color: red">MSc Information Security</span> <br> University College London, United Kingdom
 </h3>
+---
 
-**Predicted Degree Classification: Distinction**
+**Predicted Degree Classification: <span style="color: red">Distinction</span>**
 
 *Term 3*
 
@@ -45,8 +46,9 @@ classes: wide
 <h3 style="font-size:22px">
     2016 - 2020 <br> <span style="color: red">BSc Computer Science</span> <br> Lancaster University College at Beijing JiaoTong University, China
 </h3>
+---
 
-**Degree Classification: Upper Second Class Honours**
+**Degree Classification: <span style="color: red">Upper Second Class Honours</span>**
 
 *Year 4*
 
