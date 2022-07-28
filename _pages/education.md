@@ -8,6 +8,8 @@ classes: wide
 
 ##### 2021 - 2022 <br> <span style="color: red">MSc Information Security</span> <br> University College London, United Kingdom
 
+**Predicted Degree Classification: Distinction**
+
 *Term 3*
 
 - [COMP0064: MSc Information Security Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-information-security-dissertation-COMP0064)
@@ -36,4 +38,46 @@ classes: wide
 
 - [COMP0143: Cryptocurrencies](https://www.ucl.ac.uk/module-catalogue/modules/cryptocurrencies/COMP0143)
 
+---
+
 ##### 2016 - 2020 <br> <span style="color: red">BSc Computer Science</span> <br> Lancaster University College at Beijing JiaoTong University, China
+
+**Degree Classification: Upper Second Class Honours**
+
+*Year 4*
+
+- CNSCC.300: Final Year Project
+
+    Theis: *Enhancing Geographic Routing in Vehicular Delay Tolerant Network*
+
+    Supervisor: Yue Cao
+
+- CNSCC.311: Distributed System
+
+- CNSCC.312: Languages and Compilation
+
+- CNSCC.360: Computer Science Seminars
+
+- CNSCC.361: Artificial Intelligence
+
+- CNSCC.363: Security and Risk
+
+- CNSCC.365: Advanced Networking
+
+*Year 3*
+
+- CNSCC.201: Databases
+
+- CNSCC.202: Human-Computer Interaction
+
+- CNSCC.203: Computer Networks
+
+- CNSCC.204: Software Design
+
+- CNSCC.205: Professional Issues and Research Methods
+
+- CNSCC.210: Group Project
+
+- CNSCC.211: Operating Systems
+
+- CNSCC.212: Advanced Programming
