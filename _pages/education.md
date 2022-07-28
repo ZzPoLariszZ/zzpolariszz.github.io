@@ -3,9 +3,10 @@ permalink: /education/
 title: "Education"
 layout: single
 author_profile: true
+classes: wide
 ---
 
-###### 2021 - 2022 <br> <span style="color: red">MSc Information Security</span> <br> University College London, United Kingdom
+##### 2021 - 2022 <br> <span style="color: red">MSc Information Security</span> <br> University College London, United Kingdom
 
 *Term 3*
 
@@ -35,4 +36,4 @@ author_profile: true
 
 - [COMP0143: Cryptocurrencies](https://www.ucl.ac.uk/module-catalogue/modules/cryptocurrencies/COMP0143)
 
-###### 2016 - 2020 <br> <span style="color: red">BSc Computer Science</span> <br> Lancaster University College at Beijing JiaoTong University, China
+##### 2016 - 2020 <br> <span style="color: red">BSc Computer Science</span> <br> Lancaster University College at Beijing JiaoTong University, China
