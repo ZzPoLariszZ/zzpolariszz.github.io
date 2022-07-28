@@ -15,7 +15,7 @@ classes: wide
 
 *Term 3*
 
-- [COMP0064: MSc Information Security Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-information-security-dissertation-COMP0064)
+- **[COMP0064: MSc Information Security Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-information-security-dissertation-COMP0064)**
 
     **Theis: *Autonomous Network Defence using Reinforcement Learning***
 
@@ -52,7 +52,7 @@ classes: wide
 
 *Year 4*
 
-- CNSCC.300: Final Year Project
+- **CNSCC.300: Final Year Project**
 
     **Theis: *Enhancing Geographic Routing in Vehicular Delay Tolerant Network***
 
