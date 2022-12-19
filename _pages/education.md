@@ -11,7 +11,7 @@ classes: wide
 </h3>
 ---
 
-**Degree Classification: <span style="color: red">Distinction</span>**
+**Degree Classification: <span style="color: red">Distinction</span>** *([MSc Transcript](/assets/MSc-Transcript.pdf))*
 
 *Term 3*
 
@@ -48,7 +48,7 @@ classes: wide
 </h3>
 ---
 
-**Degree Classification: <span style="color: red">Upper Second Class Honours</span>**
+**Degree Classification: <span style="color: red">Upper Second Class Honours</span>** *([BSc Transcript](/assets/BSc-Transcript.pdf))*
 
 *Year 4*
 
