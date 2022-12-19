@@ -11,7 +11,7 @@ classes: wide
 </h3>
 ---
 
-**Predicted Degree Classification: <span style="color: red">Distinction</span>**
+**Degree Classification: <span style="color: red">Distinction</span>**
 
 *Term 3*
 
