@@ -48,7 +48,7 @@ classes: wide
 </h3>
 ---
 
-**Degree Classification: <span style="color: red">Upper Second Class Honours</span>** *([BSc Transcript](/assets/BSc-Transcript.pdf))*
+**Degree Classification: <span style="color: red">Upper Second Honours</span>** *([BSc Transcript](/assets/BSc-Transcript.pdf))*
 
 *Year 4*
 
