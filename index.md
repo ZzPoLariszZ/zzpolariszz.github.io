@@ -15,7 +15,7 @@ related: true
 
 ## Research Interests
 
-I am applying for the PhD degree related to
+I am applying for the PhD/RA position related to
 
 - Privacy Enhancing Technologies
 
