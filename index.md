@@ -17,12 +17,12 @@ related: true
 
 I am applying for the PhD degree related to
 
-- Systems Security
-
 - Privacy Enhancing Technologies
+
+- Blockchain
 
 - AI for Security and Privacy
 
-- Safe and Trusty AI
+- Systems Security
 
 - Robustness and Resilience
