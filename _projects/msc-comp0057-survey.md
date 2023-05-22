@@ -7,7 +7,7 @@ read_time: true
 toc: true
 ---
 
-Literature Review completed in COMP0057 Research in Information Security Course at UCL
+Literature Review completed in *COMP0057 Research in Information Security* at UCL
 
 <!--more-->
 
