@@ -10,7 +10,7 @@ related: true
 ## WHO AM I?
 
 <p style="font-size:18px">
-    I am a 2021-2022 MSc Information Security student at <a href="https://www.ucl.ac.uk/">UCL</a>.
+    I am an MSc Information Security student who have graduated from  <a href="https://www.ucl.ac.uk/">University College London(UCL)</a> with Distinction.
 </p>
 
 ## Research Interests
