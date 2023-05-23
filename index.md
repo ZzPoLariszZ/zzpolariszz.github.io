@@ -10,12 +10,12 @@ related: true
 ## WHO AM I?
 
 <p style="font-size:18px">
-    I am an MSc Information Security student who have graduated from  <a href="https://www.ucl.ac.uk/">University College London(UCL)</a> with Distinction.
+    I am an MSc Information Security student who has graduated from  <a href="https://www.ucl.ac.uk/">University College London(UCL)</a> with Distinction.
 </p>
 
 ## Research Interests
 
-I am applying for the PhD/RA position related to
+I am looking for opportunities for a PhD/RA position related to
 
 - Privacy Enhancing Technologies
 
