@@ -25,8 +25,8 @@ related: true
 ## Recent News
 
 <ul>
-    <li  style="font-size:20px">[01/15/2024] &nbsp; Become a Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (24 Spring)</li>
-    <li  style="font-size:20px">[01/08/2024] &nbsp; Join the <a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">Centre for Cyber Security and Privacy</a> at the University of Birmingham as a first-year Ph.D. student</li>
+    <li  style="font-size:20px"><b>[01/15/2024]</b> &nbsp; Become a Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (24 Spring)</li>
+    <li  style="font-size:20px"><b>[01/08/2024]</b> &nbsp; Join the <a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">Centre for Cyber Security and Privacy</a> at the University of Birmingham as a first-year Ph.D. student</li>
 </ul>
 
 ## Miscellaneous
