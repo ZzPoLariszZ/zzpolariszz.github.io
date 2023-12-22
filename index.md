@@ -16,23 +16,23 @@ related: true
 ## Research Interests
 
 <ul style="font-size:20px">
-    <li>Blockchain (Security & Privacy in Interoperability)
-    <li>Distributed Systems (Systems Security)
-    <li>Cryptography (Privacy Enhancing Technologies)
-    <li>AI for Security and Privacy
+    <li>Blockchain (Security & Privacy in Interoperability)</li>
+    <li>Distributed Systems (Systems Security)</li>
+    <li>Cryptography (Privacy Enhancing Technologies)</li>
+    <li>AI for Security and Privacy</li>
 </ul>
 
 ## Recent News
 
 <ul style="font-size:20px">
-    <li>[01/15/2024] &nbsp; Become a Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (24 Spring)
-    <li>[01/08/2024] &nbsp; Join the <a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">Centre for Cyber Security and Privacy</a> at the University of Birmingham as a first-year Ph.D. student
+    <li>[01/15/2024] &nbsp; Become a Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (24 Spring)</li>
+    <li>[01/08/2024] &nbsp; Join the <a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">Centre for Cyber Security and Privacy</a> at the University of Birmingham as a first-year Ph.D. student</li>
 </ul>
 
 ## Miscellaneous
 
 <ul style="font-size:20px">
-    <li>Enjoy cooking and tasting (keep dining at restaurants selected by the <a href="https://guide.michelin.com/gb/en">MICHELIN Guide</a>)
-    <li>Plan to learn freestyle stroke (already learnt breaststroke)
-    <li>Currently practising <a href="https://en.wikipedia.org/wiki/Chromatic_harmonica">chromatic harmonica</a> (a tiny instrument that can just be held in your hands)
+    <li>Enjoy cooking and tasting (keep dining at restaurants selected by the <a href="https://guide.michelin.com/gb/en">MICHELIN Guide</a>)</li>
+    <li>Plan to learn freestyle stroke (already learnt breaststroke)</li>
+    <li>Currently practising <a href="https://en.wikipedia.org/wiki/Chromatic_harmonica">chromatic harmonica</a> (a tiny instrument that can just be held in your hands)</li>
 </ul>
