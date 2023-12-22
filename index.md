@@ -45,6 +45,6 @@ related: true
 
 - Plan to learn freestyle stroke (already learnt breaststroke)
 
-- Currently practising <a href="https://en.wikipedia.org/wiki/Chromatic_harmonica">chromatic harmonica</a> (a tiny instrument can just hold in your hands)
+- Currently practising <a href="https://en.wikipedia.org/wiki/Chromatic_harmonica">chromatic harmonica</a> (a tiny instrument that can just be held in your hands)
 
 </p>
