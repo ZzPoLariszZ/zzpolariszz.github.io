@@ -13,14 +13,16 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 <!--more-->
 
-## 2024
+---
+### 2024
 
 **[Interoperability - S&P]** [Sweep-UC: Swapping Coins Privately](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a081/1RjEaPOsrde)
 
 **[Privacy - NDSS]** [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/)
 
 
-## 2023
+---
+### 2023
 
 **[Privacy - TIFS]** [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/abstract/document/10292691)
 
