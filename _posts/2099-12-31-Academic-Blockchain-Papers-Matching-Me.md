@@ -42,7 +42,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
 
-[“Act natural!”: Exchanging Private Messages on Public Blockchains](https://ieeexplore.ieee.org/document/10190519) - EuroS&P
+[Act Natural: Exchanging Private Messages on Public Blockchains](https://ieeexplore.ieee.org/document/10190519) - EuroS&P
 
 [Revelio: A Network-Level Privacy Attack in the Lightning Network](https://ieeexplore.ieee.org/document/10190502) - EuroS&P
 
