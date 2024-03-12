@@ -42,10 +42,18 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
 
+[“Act natural!”: Exchanging Private Messages on Public Blockchains](https://ieeexplore.ieee.org/document/10190519) - EuroS&P
+
+[Revelio: A Network-Level Privacy Attack in the Lightning Network](https://ieeexplore.ieee.org/document/10190502) - EuroS&P
+
 **[Scalability]** 
+
+[BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://ieeexplore.ieee.org/document/10179427) - S&P
 
 [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/) - NDSS
 
 **[Security]** 
 
 [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
+
+[Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
