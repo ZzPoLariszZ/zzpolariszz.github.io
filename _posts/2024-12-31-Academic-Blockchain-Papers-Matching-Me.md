@@ -3,6 +3,7 @@ layout: single
 title: "Academic Blockchain Papers Matching Me"
 excerpt_separator: <!--more-->
 tags: Blockchain
+published: true
 author_profile: true
 read_time: true
 toc: true
