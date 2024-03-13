@@ -139,3 +139,27 @@ A List of Academic Blockchain Papers Matching My Research Interests
 [Why Do My Blockchain Transactions Fail?: A Study of Hyperledger Fabric](https://dl.acm.org/doi/10.1145/3448016.3452823) - SIGMOD
 
 [Congestion Attacks in Payment Channel Networks](https://link.springer.com/chapter/10.1007/978-3-662-64331-0_9) - FC
+
+
+---
+### 2020
+
+**[Privacy]**
+
+[Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/conference/usenixsecurity20/presentation/tramer) - Security
+
+[Address Clustering Heuristics for Ethereum](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_33) - FCß
+
+**[Scalability]** 
+
+[Snappy: Fast On-chain Payments with Practical Collaterals](https://www.ndss-symposium.org/ndss-paper/snappy-fast-on-chain-payments-with-practical-collaterals/) - NDSS
+
+[Online Payments by Merely Broadcasting Messages](https://arxiv.org/abs/2004.13184) - DSN
+
+[SoK: Layer-Two Blockchain Protocols](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_12) - FC
+
+**[Security]** 
+
+[Characterizing Code Clones in the Ethereum Smart Contract Ecosystem](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_35) - FC
+
+[LockDown: Balance Availability Attack against Lightning Network Channels](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_14) - FC
