@@ -144,11 +144,15 @@ A List of Academic Blockchain Papers Matching My Research Interests
 ---
 ### 2020
 
+**[Interoperability]** 
+
+[Privacy-Preserving Cross-Chain Atomic Swaps](https://link.springer.com/chapter/10.1007/978-3-030-54455-3_38) - FC
+
 **[Privacy]**
 
 [Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/conference/usenixsecurity20/presentation/tramer) - Security
 
-[Address Clustering Heuristics for Ethereum](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_33) - FCß
+[Address Clustering Heuristics for Ethereum](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_33) - FC
 
 **[Scalability]** 
 
