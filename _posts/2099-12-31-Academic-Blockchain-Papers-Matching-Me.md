@@ -30,9 +30,13 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Interoperability]** 
 
+[Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
+
 [LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
 
 [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
+
+[A Survey on Privacy Preservation Techniques for Blockchain Interoperability](https://www.sciencedirect.com/science/article/pii/S1383762123000711) - JSA
 
 **[Privacy]**  
 
@@ -56,4 +60,36 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
 
+[SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/abstract/document/10179435) - S&P
+
 [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
+
+
+---
+### 2022
+
+**[Interoperability]** 
+
+[zkBridge: Trustless Cross-chain Bridges Made Practical](https://dl.acm.org/doi/10.1145/3548606.3560652) - CCS
+
+[Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains](https://ieeexplore.ieee.org/abstract/document/9833731) - S&P
+
+**[Privacy]**
+
+[Watch Your Back: Identifying Cybercrime Financial Relationships through Back-and-Forth Exploration](https://dl.acm.org/doi/10.1145/3548606.3560587) - CCS
+
+[How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/conference/usenixsecurity22/presentation/kappos) - Security
+
+[Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan) - Security
+
+[Resurrecting Address Clustering in Bitcoin](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_19) - FC
+
+**[Scalability]** 
+
+[Sleepy Channels: Bi-directional Payment Channels without Watchtowers](https://dl.acm.org/doi/10.1145/3548606.3559370) - CCS
+
+[Thora: Atomic and Privacy-Preserving Multi-Channel Updates](https://dl.acm.org/doi/abs/10.1145/3548606.3560556) - CCS
+
+[BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding](https://ieeexplore.ieee.org/document/9796859) - INFOCOM
+
+[HIDE & SEEK: Privacy-Preserving Rebalancing on Payment Channel Networks](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_17) - FC
