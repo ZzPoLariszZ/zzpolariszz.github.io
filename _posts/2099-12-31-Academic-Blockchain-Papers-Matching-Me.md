@@ -76,7 +76,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Privacy]**
 
-[Watch Your Back: Identifying Cybercrime Financial Relationships through Back-and-Forth Exploration](https://dl.acm.org/doi/10.1145/3548606.3560587) - CCS
+[Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://dl.acm.org/doi/10.1145/3548606.3560587) - CCS
 
 [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/conference/usenixsecurity22/presentation/kappos) - Security
 
