@@ -40,7 +40,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Privacy]**  
 
-[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/abstract/document/10292691) - TIFS
+[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
 
 [Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
 
@@ -60,7 +60,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
 
-[SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/abstract/document/10179435) - S&P
+[SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/document/10179435) - S&P
 
 [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
 
@@ -72,7 +72,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [zkBridge: Trustless Cross-chain Bridges Made Practical](https://dl.acm.org/doi/10.1145/3548606.3560652) - CCS
 
-[Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains](https://ieeexplore.ieee.org/abstract/document/9833731) - S&P
+[Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains](https://ieeexplore.ieee.org/document/9833731) - S&P
 
 **[Privacy]**
 
@@ -82,17 +82,29 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan) - Security
 
+[SoK: Privacy-Preserving Computing in the Blockchain Era](https://ieeexplore.ieee.org/document/9797340) - EuroS&P
+
 [Resurrecting Address Clustering in Bitcoin](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_19) - FC
 
 **[Scalability]** 
 
 [Sleepy Channels: Bi-directional Payment Channels without Watchtowers](https://dl.acm.org/doi/10.1145/3548606.3559370) - CCS
 
-[Thora: Atomic and Privacy-Preserving Multi-Channel Updates](https://dl.acm.org/doi/abs/10.1145/3548606.3560556) - CCS
+[Thora: Atomic and Privacy-Preserving Multi-Channel Updates](https://dl.acm.org/doi/10.1145/3548606.3560556) - CCS
 
 [BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding](https://ieeexplore.ieee.org/document/9796859) - INFOCOM
 
+[S-Store:: A Scalable Data Store towards Permissioned Blockchain Sharding](https://ieeexplore.ieee.org/document/9796800) - INFOCOM
+
 [HIDE & SEEK: Privacy-Preserving Rebalancing on Payment Channel Networks](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_17) - FC
+
+**[Security]** 
+
+[Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security](https://dl.acm.org/doi/10.1145/3548606.3559341) - CCS
+
+[Quantifying Blockchain Extractable Value: How Dark is the Forest?](https://ieeexplore.ieee.org/document/9833734) - S&P
+
+[ An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns](https://dl.acm.org/doi/10.1145/3540250.3549105) - ESEC/FSE
 
 
 ---
@@ -100,7 +112,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Interoperability]** 
 
-[MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](https://ieeexplore.ieee.org/abstract/document/9519476) - S&P
+[MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](https://ieeexplore.ieee.org/document/9519476) - S&P
 
 [Burn-to-Claim: An Asset Transfer Protocol for Blockchain Interoperability](https://www.sciencedirect.com/science/article/pii/S1389128621004369) - CN
 
@@ -132,6 +144,10 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs](https://ieeexplore.ieee.org/document/9519431) - S&P
 
+[Practical Smart Contract Sharding with Ownership and Commutativity Analysis](https://dl.acm.org/doi/10.1145/3453483.3454112) - PLDI
+
+[SharPer: Sharding Permissioned Blockchains Over Network Clusters](https://dl.acm.org/doi/10.1145/3448016.3452807) - SIGMOD
+
 [Payment Trees: Low Collateral Payments for Payment Channel Networks](https://link.springer.com/chapter/10.1007/978-3-662-64331-0_10) -  FC
 
 **[Security]** 
@@ -158,12 +174,60 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Snappy: Fast On-chain Payments with Practical Collaterals](https://www.ndss-symposium.org/ndss-paper/snappy-fast-on-chain-payments-with-practical-collaterals/) - NDSS
 
-[Online Payments by Merely Broadcasting Messages](https://arxiv.org/abs/2004.13184) - DSN
+[Online Payments by Merely Broadcasting Messages](https://ieeexplore.ieee.org/document/9153430) - DSN
 
 [SoK: Layer-Two Blockchain Protocols](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_12) - FC
 
 **[Security]** 
 
+[Accountability in a Permissioned Blockchain: Formal Analysis of Hyperledger Fabric](https://ieeexplore.ieee.org/document/9230387) -  EuroS&P
+
+[Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](https://ieeexplore.ieee.org/document/9230373) - EuroS&P
+
 [Characterizing Code Clones in the Ethereum Smart Contract Ecosystem](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_35) - FC
 
 [LockDown: Balance Availability Attack against Lightning Network Channels](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_14) - FC
+
+
+---
+### 2019
+
+**[Interoperability]** 
+
+[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains](https://dl.acm.org/doi/10.1145/3319535.3355503) - CCS
+
+[Proof-of-Stake Sidechains](https://ieeexplore.ieee.org/document/8835275) - S&P
+
+[XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://ieeexplore.ieee.org/document/8835387) - S&P
+
+[Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/ndss-paper/anonymous-multi-hop-locks-for-blockchain-scalability-and-interoperability/) - NDSS
+
+[Proof-of-Work Sidechains](https://link.springer.com/chapter/10.1007/978-3-030-43725-1_3) - FC Workshop
+
+**[Privacy]**
+
+[Tracing Transactions Across Cryptocurrency Ledgers](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf) - Security
+
+[Deanonymization and Linkability of Cryptocurrency Transactions Based on Network Analysis](https://ieeexplore.ieee.org/document/8806723) - EuroS&P
+
+[New Empirical Traceability Analysis of CryptoNote-Style Blockchains](https://link.springer.com/chapter/10.1007/978-3-030-32101-7_9) - FC
+
+**[Scalability]** 
+
+[Atomic Multi-Channel Updates with Constant Collateral in Bitcoin-Compatible Payment-Channel Networks](https://dl.acm.org/doi/10.1145/3319535.3345666) - CCS
+
+[Perun: Virtual Payment Hubs over Cryptocurrencies](https://ieeexplore.ieee.org/document/8835315) - S&P
+
+[Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://dl.acm.org/doi/10.1145/3341301.3359627) - SOSP
+
+[Towards Scaling Blockchain Systems via Sharding](https://dl.acm.org/doi/10.1145/3299869.3319889) - SIGMOD
+
+[Trusted Computing Meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585) - SRDS
+
+[OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](https://ieeexplore.ieee.org/document/8884909) - ICDCS
+
+[Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://link.springer.com/chapter/10.1007/978-3-030-32101-7_30) - FC
+
+**[Security]** 
+
+[Temporary Censorship Attacks in the Presence of Rational Miners](https://ieeexplore.ieee.org/document/8802377) - EuroS&P Workshop
