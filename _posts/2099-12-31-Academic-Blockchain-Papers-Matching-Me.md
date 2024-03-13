@@ -93,3 +93,49 @@ A List of Academic Blockchain Papers Matching My Research Interests
 [BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding](https://ieeexplore.ieee.org/document/9796859) - INFOCOM
 
 [HIDE & SEEK: Privacy-Preserving Rebalancing on Payment Channel Networks](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_17) - FC
+
+
+---
+### 2021
+
+**[Interoperability]** 
+
+[MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](https://ieeexplore.ieee.org/abstract/document/9519476) - S&P
+
+[Burn-to-Claim: An Asset Transfer Protocol for Blockchain Interoperability](https://www.sciencedirect.com/science/article/pii/S1389128621004369) - CN
+
+[Hedging Against Sore Loser Attacks in Cross-Chain Transactions](https://dl.acm.org/doi/10.1145/3465084.3467904) - PODC 
+
+[Tracking Counterfeit Cryptocurrency End-to-End](https://dl.acm.org/doi/10.1145/3428335) - SIGMETRICS
+
+[Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains](https://ieeexplore.ieee.org/document/9603540) - SRDC
+
+[SoK: Communication Across Distributed Ledgers](https://link.springer.com/chapter/10.1007/978-3-662-64331-0_1) - FC
+
+[Timelocked Bribing](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_3) - FC
+
+[A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://dl.acm.org/doi/10.1145/3471140) - CSUR
+
+**[Privacy]**
+
+[DIV: Resolving the Dynamic Issues of Zero-knowledge Set Membership Proof in the Blockchain](https://dl.acm.org/doi/10.1145/3448016.3457248) - SIGMOD
+
+[Analysis of Cryptocurrency Transactions from a Network Perspective: An Overview](https://www.sciencedirect.com/science/article/pii/S1084804521001557) - JNCA
+
+[Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask)](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_6) - FC
+
+[An Empirical Analysis of Privacy in the Lightning Network](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_8) - FC
+
+[The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_10) - FC
+
+**[Scalability]** 
+
+[A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs](https://ieeexplore.ieee.org/document/9519431) - S&P
+
+[Payment Trees: Low Collateral Payments for Payment Channel Networks](https://link.springer.com/chapter/10.1007/978-3-662-64331-0_10) -  FC
+
+**[Security]** 
+
+[Why Do My Blockchain Transactions Fail?: A Study of Hyperledger Fabric](https://dl.acm.org/doi/10.1145/3448016.3452823) - SIGMOD
+
+[Congestion Attacks in Payment Channel Networks](https://link.springer.com/chapter/10.1007/978-3-662-64331-0_9) - FC
