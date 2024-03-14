@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Academic Blockchain Papers Matching Me"
+title: "Academic Blockchain Papers"
 excerpt_separator: <!--more-->
 tags: Blockchain
 author_profile: true
