@@ -118,6 +118,20 @@ Ref: [GitHub](https://github.com/sigp/lighthouse) & [Docs](https://lighthouse-bo
     RUST_LOG=info reth node
     ```
 
+    > If you want to enable all JSON-RPC namespaces on the HTTP server, you can add:
+    > ```
+    > --http --http.api all
+    > ```
+    > then, you can use `localhost:8545` to interact with Reth Execution Node over JSON-RPC
+
+    > If you want to view metrics of Reth Nxecution Node, you can add:
+    > ```
+    > --metrics localhost:9001
+    > ```
+    > then, you can use **Prometheus** to collect metrics off of the endpoint  
+    > and use **Grafana** to scrape the metrics from Prometheus and define a dashboard to visualize them  
+    > Detailed instructions can be found in [Metrics](https://paradigmxyz.github.io/reth/run/observability.html) Page
+
 2. Run **Lighthouse** Consensus Client
 
     ```
@@ -138,3 +152,31 @@ Ref: [GitHub](https://github.com/sigp/lighthouse) & [Docs](https://lighthouse-bo
     > ```
     > which will disable the syncing of deposit logs from the execution node  
     > and sync the chain as fast as possible without caring about validator performance issues
+
+
+Note that the beta version of Reth has some issues: it might be stuck or killed (i.e., OOM) unexpectedly during syncing
+
+Please re-execute Step 4 to restart both Reth Execution Client and Lighthouse Consensus Client when issues happen
+
+You should also use `htop` to monitor CPU and Memory usage (and `smartctl` to monitor SSD health information)
+
+---
+### Step 5 - Test JSON-RPC APIs
+
+After the syncing completes, you can use the following command in Terminal:
+
+```
+curl localhost:8545 \ 
+-X POST \ 
+-H "Content-Type: application/json" \ 
+--data '{"method":"eth_chainId","params":[],"id":1,"jsonrpc":"2.0"}'
+```
+
+The response should be
+
+```
+{"jsonrpc":"2.0","result":"0x1","id":1}
+```
+
+---
+### ALL DONE!!!
