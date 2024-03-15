@@ -124,7 +124,7 @@ Ref: [GitHub](https://github.com/sigp/lighthouse) & [Docs](https://lighthouse-bo
     > ```
     > then, you can use `localhost:8545` to interact with Reth Execution Node over JSON-RPC
 
-    > If you want to view metrics of Reth Nxecution Node, you can add:
+    > If you want to view metrics of Reth Execution Node, you can add:
     > ```
     > --metrics localhost:9001
     > ```
