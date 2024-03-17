@@ -180,3 +180,26 @@ The response should be
 
 ---
 ### ALL DONE!!!
+
+---
+### What if You Want to Update Reth
+
+1. Fetch the latest **Reth** version 
+
+    ```
+    cd reth
+    git fetch
+    git checkout ${VERSION}
+    ```
+
+2. Build **Reth**
+
+    ```
+    cargo install --locked --path bin/reth --bin reth
+    ```
+
+3. Check **Reth** version after installation completes:
+
+    ```
+    reth --version
+    ```
