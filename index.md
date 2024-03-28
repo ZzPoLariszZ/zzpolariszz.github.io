@@ -15,7 +15,7 @@ related: true
 
 ## Research Interests
 
-**Too Much Privacy For Criminals, Too Little Privacy For General Users**
+**<u>Too Much Privacy For Criminals, Too Little Privacy For General Users</u>**
 
 <ul>
     <li style="font-size:20px">Blockchain (Security & Privacy in Interoperability)</li>
