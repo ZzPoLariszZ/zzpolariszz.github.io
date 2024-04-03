@@ -24,7 +24,7 @@ The Instructions for Setting Remote Access to PostgreSQL Database
 
 #### Step 1 - Necessary File Modifications
 
-- For the file `/etc/postgresql/14/main/postgresql.conf`:
+- For the file `postgresql.conf`:
 
     ```
     sudo nano /etc/postgresql/14/main/postgresql.conf
@@ -44,7 +44,7 @@ The Instructions for Setting Remote Access to PostgreSQL Database
 
     which allows PostgreSQL to listen on all available IP addresses
 
-- For the file `/etc/postgresql/14/main/pg_hba.conf`:
+- For the file `pg_hba.conf`:
 
     ```
     sudo nano /etc/postgresql/14/main/pg_hba.conf
