@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "UoB: Security and Networks (24 Spring)"
+title: "UoB-PGTA: Security and Networks (24 Spring)"
 excerpt_separator: <!--more-->
 author_profile: true
 read_time: true
