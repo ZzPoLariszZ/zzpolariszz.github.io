@@ -284,7 +284,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  activities:
     output: true
     permalink: /:collection/:path/
 
