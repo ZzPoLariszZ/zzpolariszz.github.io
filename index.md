@@ -29,7 +29,7 @@ related: true
 <ul style="font-size: 20px;">
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[04/21/2024]</span></b> &nbsp; Artifact Evaluation Committee at <em>18th USENIX WOOT Conference on Offensive Technologies</em> (<a href="https://www.usenix.org/conference/woot24">WOOT '24</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/15/2024]</span></b> &nbsp; Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (24 Spring)</li>
-    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/08/2024]</span></b> &nbsp; First-year PhD student at <a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">UoB Centre for Cyber Security and Privacy</a></li>
+    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/08/2024]</span></b> &nbsp; First-year PhD student at <em>University of Birmingham - Centre for Cyber Security and Privacy</em> (<a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">UoB-CCSP</a>)</li>
 </ul>
 
 ## Miscellaneous
