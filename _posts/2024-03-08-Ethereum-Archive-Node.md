@@ -182,7 +182,24 @@ The response should be
 ### ALL DONE!!!
 
 ---
-### What if You Want to Update Reth
+
+### What if You want to Update Rust
+
+1. Re-install **Rust** using [rustup](https://rustup.rs/):
+
+    ```
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+    ```
+
+    During installation, enter 1 for the default installation when prompted
+
+2. Check **Cargo** version after **Rust** installation completes:
+
+    ```
+    cargo version
+    ```
+
+### What if You want to Update Reth
 
 1. Fetch the latest **Reth** version 
 
@@ -191,6 +208,8 @@ The response should be
     git fetch
     git checkout ${VERSION}
     ```
+
+    e.g., `git checkout v1.0.0`
 
 2. Build **Reth**
 
@@ -202,4 +221,28 @@ The response should be
 
     ```
     reth --version
+    ```
+
+### What if You want to Update Lighthouse
+
+1. Fetch the latest **Lighthouse** version
+
+    ```
+    cd lighthouse
+    git fetch
+    git checkout ${VERSION}
+    ```
+
+    e.g., `git checkout v5.2.0`
+
+2. Build **Lighthouse**
+
+    ```
+    make
+    ```
+
+3. Check **Lighthouse** version after installation completes:
+
+    ```
+    lighthouse --version
     ```
