@@ -148,10 +148,8 @@ Ref: [GitHub](https://github.com/sigp/lighthouse) & [Docs](https://lighthouse-bo
     > If you do not want to become validators on your node, you can add:  
     > ```
     > --disable-deposit-contract-sync
-    > --disable-backfill-rate-limiting
     > ```
-    > which will disable the syncing of deposit logs from the execution node  
-    > and sync the chain as fast as possible without caring about validator performance issues
+    > which will disable the syncing of deposit logs from the execution node
 
 
 Note that the beta version of Reth has some issues: it might be stuck or killed (i.e., OOM) unexpectedly during syncing
