@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tor Project"
+title: "Tor Project (Tor Browser + Debian Repository)"
 excerpt_separator: <!--more-->
 tags: Privacy
 author_profile: true
