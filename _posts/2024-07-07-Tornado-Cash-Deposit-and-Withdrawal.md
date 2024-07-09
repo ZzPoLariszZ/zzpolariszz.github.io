@@ -178,12 +178,12 @@ Use the following command:
 
 ```
 node cli.js deposit <currency> <amount> \ 
---rpc <rpc-url> --tor <tor-port> --private-key <private-key>
+--rpc <rpc-url> --tor <tor-port> --private-key <private-key> --gas-speed <gas-speed>
 ```
 
 - Parameter `<currency>`: set it to `ETH` for depositing ETH
 
-- Parameter `<amount>`: support `0.1`, `1`, `10`, `100` when depositing ETH
+- Parameter `<amount>`: select from `[ 0.1, 1, 10, 100 ]` when depositing ETH
 
 - Parameter `<rpc-url>`: set it to the URL of RPC provider
 
@@ -196,6 +196,8 @@ node cli.js deposit <currency> <amount> \
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
 - Parameter `<private-key>`: set it to the private key of Ethereum Account who sends deposit transaction
+
+- Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
 
 A successful deposit process looks like this:
 
@@ -228,7 +230,7 @@ Use the following command:
 
 ```
 node cli.js withdraw <deposit-note> <recipient> \
---rpc <rpc-url> --tor <tor-port> --relayer <relayer-url>
+--rpc <rpc-url> --tor <tor-port> --relayer <relayer-url>  --gas-speed <gas-speed>
 ```
 
 **<span style="color:Red">For the first withdrawal to new ethereum account without ETH Balance</span>**
@@ -248,6 +250,8 @@ node cli.js withdraw <deposit-note> <recipient> \
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
 - Parameter `<relayer-url>`: set it to the URL of Tornado Cash Relayer on Ethereum. 
+
+- Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
 
     Here are some active relayers (unverified):
 
@@ -302,7 +306,7 @@ Use the following command:
 
 ```
 node cli.js withdraw <deposit-note> <recipient> \
---rpc <rpc-url> --tor <tor-port> --private-key <private-key>
+--rpc <rpc-url> --tor <tor-port> --private-key <private-key>  --gas-speed <gas-speed>
 ```
 
 **<span style="color:Red">Warning: This will link the recipient and the sender of withdrawal transaction</span>**
@@ -322,6 +326,8 @@ node cli.js withdraw <deposit-note> <recipient> \
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
 - Parameter `<private-key>`: set it to the private key of Ethereum Account who sends withdrawal transaction
+
+- Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
 
 
 ---
