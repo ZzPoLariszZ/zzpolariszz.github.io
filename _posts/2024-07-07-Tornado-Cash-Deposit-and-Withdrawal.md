@@ -138,7 +138,7 @@ node cli.js deposit <currency> <amount> \
 
     Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
-- Parameter `<private-key>`: set it to the private key of Ethereum Account who sends deposit transaction
+- Parameter `<private-key>`: set it to the private key of Ethereum Account who sends deposit transaction (Pay Tx Fee)
 
 - Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
 
@@ -196,7 +196,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
     Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
-- Parameter `<relayer-url>`: set it to the URL of Tornado Cash Relayer on Ethereum. 
+- Parameter `<relayer-url>`: set it to the URL of Tornado Cash Relayer on Ethereum (Pay Tx Fee). 
 
 - Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
 
@@ -276,7 +276,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
     Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
-- Parameter `<private-key>`: set it to the private key of Ethereum Account who sends withdrawal transaction
+- Parameter `<private-key>`: set it to the private key of Ethereum Account who sends withdrawal transaction (Pay Tx Fee)
 
 - Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
 
