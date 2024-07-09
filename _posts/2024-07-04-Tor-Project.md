@@ -120,7 +120,7 @@ Intel x86-64 + Ubuntu 22.04.4 LTS + Linux 6.5.0-25-generic
 
     ```
     deb     [arch=amd64 signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
-    deb-src [arch=amd54 signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
+    deb-src [arch=amd64 signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
     ```
 
     Note that you can replace `amd64` if you use a different CPU architecture.
