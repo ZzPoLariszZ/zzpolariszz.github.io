@@ -195,6 +195,10 @@ node cli.js deposit <currency> <amount> \
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
+    **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
+
+    Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
+
 - Parameter `<private-key>`: set it to the private key of Ethereum Account who sends deposit transaction
 
 - Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
@@ -248,6 +252,10 @@ node cli.js withdraw <deposit-note> <recipient> \
     **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
+
+    **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
+
+    Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
 - Parameter `<relayer-url>`: set it to the URL of Tornado Cash Relayer on Ethereum. 
 
@@ -324,6 +332,10 @@ node cli.js withdraw <deposit-note> <recipient> \
     **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
+
+    **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
+
+    Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
 - Parameter `<private-key>`: set it to the private key of Ethereum Account who sends withdrawal transaction
 
