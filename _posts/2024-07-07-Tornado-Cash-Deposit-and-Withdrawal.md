@@ -111,7 +111,9 @@ Ref-2: [Community-Repository](https://git.tornado.ws/tornadocash/tornado-cli) & 
 
 
 ---
-### Step 3 - Enable Tor Service (Tor Browser)
+### Step 3 - Enable Tor Service 
+
+#### Using Tor Browser
 
 1. Download the Tor Browser:
 
@@ -171,6 +173,63 @@ Ref-2: [Community-Repository](https://git.tornado.ws/tornadocash/tornado-cli) & 
    
    **<span style="color:Green">Congratulations. This browser is configured to use Tor.</span>**
 
+#### Using Tor Package Repository
+
+1. Switch to the Root User
+
+    ```
+    sudo su
+    whoami
+    ```
+
+    which should display `root` after entering the password
+
+2. Install `apt-transport-https` Package
+
+    ```
+    apt install apt-transport-https
+    ```
+
+3. Create a New File and Add Entries
+
+    ```
+    touch /etc/apt/sources.list.d/tor.list
+    sudo vim /etc/apt/sources.list.d/tor.list
+    ```
+
+    ```
+    deb     [arch=amd64 signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
+    deb-src [arch=amd54 signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
+    ```
+
+4. Add the gpg Key used to Sign the Packages
+
+    ```
+    deb.torproject.org/torproject.org/A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89.asc | gpg --dearmor | tee /usr/share/keyrings/tor-archive-keyring.gpg >/dev/null
+    ```
+
+5. Install Tor and Keyring
+
+    ```
+    apt update
+    apt install tor deb.torproject.org-keyring
+    ```
+
+6. Exit the Root User
+
+    ```
+    exit
+    ```
+
+7. Start, Enable, Verify Status, and Stop Tor
+
+    ```
+    sudo systemctl start tor
+    sudo systemctl enable tor
+    sudo systemctl status tor
+    sudo systemctl stop tor
+    ```
+
 ---
 ### Step 4 - Deposit ETH into Tornado Cash
 
@@ -193,7 +252,7 @@ node cli.js deposit <currency> <amount> \
 
     **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
-- Parameter `<tor-port>`: set it to `9150` when using Tor Browser
+- Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
     **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
 
@@ -251,7 +310,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
     **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
-- Parameter `<tor-port>`: set it to `9150` when using Tor Browser
+- Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
     **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
 
@@ -331,7 +390,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
     **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
-- Parameter `<tor-port>`: set it to `9150` when using Tor Browser
+- Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
     **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
 
