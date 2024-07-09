@@ -329,7 +329,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - There is a website [https://ipfs.io/ipns/tornadocash.eth](https://ipfs.io/ipns/tornadocash.eth) deployed on IPFS by Tornado Cash Community (unsure safety)
 
-- Plan to check the difference between community versions ([v1](https://git.tornado.ws/tornadocash/tornado-cli) + [v2](https://git.tornado.ws/tornadocontrib/tornado-cli)) and official version ([public archive](https://github.com/tornadocash/tornado-cli/))
+- Plan to check the difference between community versions ([v1](https://git.tornado.ws/tornadocash/tornado-cli) + [v2](https://git.tornado.ws/tornadocontrib/tornado-cli)) and the official version ([public archive](https://github.com/tornadocash/tornado-cli/))
 
 - Be aware of any ***<span style="color:Red">suspected phishing attempts</span>*** (which could steal your money and identity)
 
