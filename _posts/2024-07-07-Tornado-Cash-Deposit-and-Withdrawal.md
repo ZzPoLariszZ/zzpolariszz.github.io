@@ -126,7 +126,7 @@ node cli.js deposit <currency> <amount> \
 
 - Parameter `<rpc-url>`: set it to the URL of RPC provider
 
-    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) 
+    which can be selected from RPC Server Address under Ethereum on [ChainList](https://chainlist.org/) 
     
     Please choose the ones that ensure privacy since many RPC providers (i.e., [Infura](https://www.infura.io/) & [Alchemy](https://www.alchemy.com/)) censor Tornado Cash.
 
@@ -135,8 +135,6 @@ node cli.js deposit <currency> <amount> \
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
     **<span style="color:Red">Highly recommend</span>** to use [Tor Project](https://zzpolariszz.github.io/Tor-Project/) when you are using a public RPC provider to hide your IP Address
-
-    Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
 - Parameter `<private-key>`: set it to the private key of Ethereum Account who sends deposit transaction (Pay Tx Fee)
 
@@ -184,7 +182,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Parameter `<rpc-url>`: set it to the URL of RPC provider
 
-    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) 
+    which can be selected from RPC Server Address under Ethereum on [ChainList](https://chainlist.org/) 
     
     Please choose the ones that ensure privacy since many RPC providers (i.e., [Infura](https://www.infura.io/) & [Alchemy](https://www.alchemy.com/)) censor Tornado Cash.
 
@@ -193,8 +191,6 @@ node cli.js withdraw <deposit-note> <recipient> \
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
     **<span style="color:Red">Highly recommend</span>** to use [Tor Project](https://zzpolariszz.github.io/Tor-Project/) when you are using a public RPC provider to hide your IP Address
-
-    Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
 - Parameter `<relayer-url>`: set it to the URL of Tornado Cash Relayer on Ethereum (Pay Tx Fee). 
 
@@ -264,7 +260,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Parameter `<rpc-url>`: set it to the URL of RPC provider
 
-    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) 
+    which can be selected from RPC Server Address under Ethereum on [ChainList](https://chainlist.org/) 
     
     Please choose the ones that ensure privacy since many RPC providers (i.e., [Infura](https://www.infura.io/) & [Alchemy](https://www.alchemy.com/)) censor Tornado Cash.
 
@@ -274,8 +270,6 @@ node cli.js withdraw <deposit-note> <recipient> \
 
     **<span style="color:Red">Highly recommend</span>** to use [Tor Project](https://zzpolariszz.github.io/Tor-Project/) when you are using a public RPC provider to hide your IP Address
 
-    Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
-
 - Parameter `<private-key>`: set it to the private key of Ethereum Account who sends withdrawal transaction (Pay Tx Fee)
 
 - Parameter `gas-speed`: select from `[ instant, fast, standard, low ]` 
@@ -283,6 +277,8 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 ---
 ### Miscellaneous
+
+- It needs more modifications and configurations if you want to access your own Ethereum Archive Node when using Tor. It is obvious since you cannot visit `localhost` directly inside the Tor network. 
 
 - Parameter `gas-speed` seems not to work. Please ignore it and choose a low gas price to deposit and withdraw.
 
