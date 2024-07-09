@@ -22,7 +22,7 @@ The Instructions for Tornado Cash Deposit and Withdrawal via CLI
 
 - This blog is for **<span style="color:Red">Research Purposes ONLY</span>**. 
 
--  <span style="color:Red"><b><u>ALL CRIMES WILL BE BROUGHT TO JUSTICE.</u></b></span>
+-  <span style="color: red; text-decoration: underline; text-decoration-color: red;"><b><u>ALL CRIMES WILL BE BROUGHT TO JUSTICE.</u></b></span>
 
 
 ---
