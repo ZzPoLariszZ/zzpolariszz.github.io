@@ -183,19 +183,19 @@ The response should be
 
 ### What if You want to Update Rust
 
-1. Re-install **Rust** using [rustup](https://rustup.rs/):
+1. Update **Rust** using [rustup](https://rustup.rs/):
 
     ```
-    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+    rustup update stable
     ```
-
-    During installation, enter 1 for the default installation when prompted
 
 2. Check **Cargo** version after **Rust** installation completes:
 
     ```
     cargo version
     ```
+
+    e.g., `cargo 1.79.0 (ffa9cf99a 2024-06-03)`
 
 ### What if You want to Update Reth
 
