@@ -14,11 +14,11 @@ The Instructions for Tornado Cash Deposit and Withdrawal via CLI
 <!--more-->
 
 ---
-### WARNING
+### Declaration
 
 - Tornado Cash was sanctioned by the [U.S. Treasury](https://home.treasury.gov/news/press-releases/jy0916) on 08/08/2022,
     
-    making it **illegal for US citizens to interact with the core and governance contracts**.
+    making it **illegal for U.S. citizens to interact with the core and governance contracts**.
 
 - This blog is for **<span style="color:Red">Research Purposes ONLY</span>**. 
 
@@ -28,7 +28,7 @@ The Instructions for Tornado Cash Deposit and Withdrawal via CLI
 ---
 ### System Information
 
-Ubuntu 22.04.4 LTS + Linux 6.5.0-25-generic
+Intel x86-64 + Ubuntu 22.04.4 LTS + Linux 6.5.0-25-generic
 
 
 ---
@@ -105,7 +105,7 @@ Ref-2: [Community-Repository](https://git.tornado.ws/tornadocash/tornado-cli) & 
     npm install 
     ```
 
-    Note that the official version has issues with the function `fetchGasPrice()` in the file `cli.js` (Line 702) due to the lack of necessary maintenance. **<span style="color:Red">If you do not trust modifications made by Tornado Cash Community, please fix the issues yourself.</span>**
+    Note that the official version has issues with the function `fetchGasPrice()` in the file `cli.js` (Line 702) due to the lack of necessary maintenance. **<span style="color:Red">If you do not trust Tornado Cash Community, please fix the issues by yourself.</span>**
 
     All the following steps are run on the community version but should also work with the official version.
 
@@ -167,9 +167,9 @@ Ref-2: [Community-Repository](https://git.tornado.ws/tornadocash/tornado-cli) & 
 
 6. Verify Tor Browser is Working
 
-   Please visit the website [check.torproject.org](https://check.torproject.org/), Tor Browser is working when the page shows the following text in green:
+   Please visit the website [check.torproject.org](https://check.torproject.org/), Tor Browser is working when the page shows the following text:
    
-   `Congratulations. This browser is configured to use Tor.`
+   **<span style="color:Green">Congratulations. This browser is configured to use Tor.</span>**
 
 ---
 ### Step 4 - Deposit ETH into Tornado Cash
@@ -316,3 +316,15 @@ node cli.js withdraw <deposit-note> <recipient> \
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
 - Parameter `<private-key>`: set it to the private key of Ethereum Account who sends withdrawal transaction
+
+
+---
+### Miscellaneous
+
+- There is a [website](https://ipfs.io/ipns/tornadocash.eth) deployed on IPFS by Tornado Cash Community (not sure its safety)
+
+- Plan to check the difference between community versions ([v1](https://git.tornado.ws/tornadocash/tornado-cli) + [v2](https://git.tornado.ws/tornadocontrib/tornado-cli)) and official version ([public archive](https://github.com/tornadocash/tornado-cli/))
+
+- Be aware of any ***<span style="color:Red">suspected phishing attempts</span>*** (which could steal your money and identity)
+
+    **<span style="color:Red">Even if they are Tornado Cash Community, Tornado Cash Relayer, and THIS BLOG</span>** 
