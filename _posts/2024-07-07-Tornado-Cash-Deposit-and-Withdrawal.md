@@ -22,7 +22,7 @@ The Instructions for Tornado Cash Deposit and Withdrawal via CLI
 
 - This blog is for **<span style="color:Red">Research Purposes ONLY</span>**. 
 
--  **<span style="color:Red">ALL CRIMES WILL BE BROUGHT TO JUSTICE.</span>**
+-  <span style="color:Red"><b><u>ALL CRIMES WILL BE BROUGHT TO JUSTICE.</u></b></span>
 
 
 ---
@@ -105,9 +105,9 @@ Ref-2: [Community-Repository](https://git.tornado.ws/tornadocash/tornado-cli) & 
     npm install 
     ```
 
-    Note that the official version has issues with the function `fetchGasPrice()` in the file `cli.js` (Line 702) due to the lack of necessary maintenance. **<span style="color:Red">If you do not trust Tornado Cash Community, please fix the issues by yourself.</span>**
+    Note that the official version has issues with the function `fetchGasPrice()` in the file `cli.js` (Line 702) due to the lack of necessary maintenance. **<span style="color:Red">If you do not trust Tornado Cash Community, please fix all possible issues by yourself.</span>**
 
-    All the following steps are run on the community version but should also work with the official version.
+    <b><u>All the following steps are run on the community version but should also work with the official version.</u></b>
 
 
 ---
@@ -187,9 +187,11 @@ node cli.js deposit <currency> <amount> \
 
 - Parameter `<rpc-url>`: set it to the URL of RPC provider
 
-    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) (choose the ones that ensure privacy).
+    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) 
+    
+    Please choose the ones that ensure privacy since many RPC providers (i.e., [Infura](https://www.infura.io/) & [Alchemy](https://www.alchemy.com/)) censor Tornado Cash.
 
-    <span style="color:Red">Highly recommend</span> to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
+    **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
@@ -237,9 +239,11 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Parameter `<rpc-url>`: set it to the URL of RPC provider
 
-    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) (choose the ones that ensure privacy).
+    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) 
+    
+    Please choose the ones that ensure privacy since many RPC providers (i.e., [Infura](https://www.infura.io/) & [Alchemy](https://www.alchemy.com/)) censor Tornado Cash.
 
-    <span style="color:Red">Highly recommend</span> to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
+    **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
@@ -247,12 +251,12 @@ node cli.js withdraw <deposit-note> <recipient> \
 
     Here are some active relayers (unverified):
 
-    | URL                               | ENS            | ADDR                                                                                     | FEE   |
+    | Relayer-URL                       | ENS Name       | Address                                                                                     | Service Fee   |
     |-----------------------------------|----------------|------------------------------------------------------------------------------------------|-------|
-    | https://black-hardy.com/          | k-relayer.eth  | [0xC494...e35c](https://etherscan.io/address/0xC49415493eB3Ec64a0F13D8AA5056f1CfC4ce35c) | 0.43% |
-    | https://eth.t-relayer.com/        | t-relayer.eth  | [0x0000...74fe](https://etherscan.io/address/0x000000Cd6521Ed1a65FAe0678eA15aF4EEAD74fe) | 0.43% |
-    | https://torn.relayersdao.finance/ | relayer007.eth | [0xa010...f012](https://etherscan.io/address/0xa0109274F53609f6Be97ec5f3052C659AB80f012) | 0.39% |
-    | https://eth.reltor.su/            | reltor.eth     | [0x4750...29C5](https://etherscan.io/address/0x4750BCfcC340AA4B31be7e71fa072716d28c29C5) | 0.42% |
+    | https://black-hardy.com/          | k-relayer.eth  | [0xC494...e35c](https://etherscan.io/address/0xC49415493eB3Ec64a0F13D8AA5056f1CfC4ce35c) | &nbsp; &nbsp; 0.43% |
+    | https://eth.t-relayer.com/        | t-relayer.eth  | [0x0000...74fe](https://etherscan.io/address/0x000000Cd6521Ed1a65FAe0678eA15aF4EEAD74fe) | &nbsp; &nbsp; 0.43% |
+    | https://torn.relayersdao.finance/ | relayer007.eth | [0xa010...f012](https://etherscan.io/address/0xa0109274F53609f6Be97ec5f3052C659AB80f012) | &nbsp; &nbsp; 0.39% |
+    | https://eth.reltor.su/            | reltor.eth     | [0x4750...29C5](https://etherscan.io/address/0x4750BCfcC340AA4B31be7e71fa072716d28c29C5) | &nbsp; &nbsp; 0.42% |
     
 A successful withdrawal process using a relayer looks like this:
 
@@ -309,9 +313,11 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Parameter `<rpc-url>`: set it to the URL of RPC provider
 
-    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) (choose the ones that ensure privacy).
+    which can be selected from RPC Server Address under Ethereum on [chainlist](https://chainlist.org/) 
+    
+    Please choose the ones that ensure privacy since many RPC providers (i.e., [Infura](https://www.infura.io/) & [Alchemy](https://www.alchemy.com/)) censor Tornado Cash.
 
-    <span style="color:Red">Highly recommend</span> to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
+    **<span style="color:Red">Highly recommend</span>** to use [Ethereum Archive Node](https://zzpolariszz.github.io/Ethereum-Archive-Node/) built by yourself as the RPC provider: `http://localhost:8545`
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser
 
@@ -321,7 +327,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 ---
 ### Miscellaneous
 
-- There is a [website](https://ipfs.io/ipns/tornadocash.eth) deployed on IPFS by Tornado Cash Community (not sure its safety)
+- There is a website [https://ipfs.io/ipns/tornadocash.eth](https://ipfs.io/ipns/tornadocash.eth) deployed on IPFS by Tornado Cash Community (unsure safety)
 
 - Plan to check the difference between community versions ([v1](https://git.tornado.ws/tornadocash/tornado-cli) + [v2](https://git.tornado.ws/tornadocontrib/tornado-cli)) and official version ([public archive](https://github.com/tornadocash/tornado-cli/))
 
