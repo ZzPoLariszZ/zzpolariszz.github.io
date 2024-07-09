@@ -111,127 +111,7 @@ Ref-2: [Community-Repository](https://git.tornado.ws/tornadocash/tornado-cli) & 
 
 
 ---
-### Step 3 - Enable Tor Service 
-
-#### Using Tor Browser
-
-1. Download the Tor Browser:
-
-    ```
-    wget https://www.torproject.org/dist/torbrowser/13.5/tor-browser-linux-x86_64-13.5.tar.xz
-    ```
-
-2. Verify Tor Browser's Signature:
-
-    2.1 Download the Tor Browser Signature:
-
-    ```
-    wget https://www.torproject.org/dist/torbrowser/13.5/tor-browser-linux-x86_64-13.5.tar.xz.asc
-    ```
-
-    2.2 Fetching the Tor Developers Key:
-   
-    ```
-    gpg --auto-key-locate nodefault,wkd --locate-keys torbrowser@torproject.org
-    ```
-
-    2.3 Generate the Keyring:
-
-    ```
-    gpg --output ./tor.keyring --export 0xEF6E286DDA85EA2A4BA7DE684E2C6E8793298290
-    ```
-
-    2.4 Verify the Signature:
-
-    ```
-    gpgv --keyring ./tor.keyring \
-    ./tor-browser-linux-x86_64-13.5.tar.xz.asc ./tor-browser-linux-x86_64-13.5.tar.xz
-    ```
-
-    which should display  
-    
-    `gpgv: Good signature from "Tor Browser Developers (signing key) <torbrowser@torproject.org>"`
-
-3. Extract Tor Browser:
-
-    ```
-    tar -xvf tor-browser-linux-x86_64-13.5.tar.xz 
-    ```
-
-4. Run Tor Browser:
-
-    ```
-    cd cd tor-browser
-    ./start-tor-browser.desktop
-    ```
-
-5. Click the **Connect** Button in Tor Browser
-
-6. Verify Tor Browser is Working
-
-   Please visit the website [check.torproject.org](https://check.torproject.org/), Tor Browser is working when the page shows the following text:
-   
-   **<span style="color:Green">Congratulations. This browser is configured to use Tor.</span>**
-
-#### Using Tor Package Repository
-
-1. Switch to the Root User
-
-    ```
-    sudo su
-    whoami
-    ```
-
-    which should display `root` after entering the password
-
-2. Install `apt-transport-https` Package
-
-    ```
-    apt install apt-transport-https
-    ```
-
-3. Create a New File and Add Entries
-
-    ```
-    touch /etc/apt/sources.list.d/tor.list
-    sudo vim /etc/apt/sources.list.d/tor.list
-    ```
-
-    ```
-    deb     [arch=amd64 signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
-    deb-src [arch=amd54 signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
-    ```
-
-4. Add the gpg Key used to Sign the Packages
-
-    ```
-    deb.torproject.org/torproject.org/A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89.asc | gpg --dearmor | tee /usr/share/keyrings/tor-archive-keyring.gpg >/dev/null
-    ```
-
-5. Install Tor and Keyring
-
-    ```
-    apt update
-    apt install tor deb.torproject.org-keyring
-    ```
-
-6. Exit the Root User
-
-    ```
-    exit
-    ```
-
-7. Start, Enable, Verify Status, and Stop Tor
-
-    ```
-    sudo systemctl start tor
-    sudo systemctl enable tor
-    sudo systemctl status tor
-    sudo systemctl stop tor
-    ```
-
----
-### Step 4 - Deposit ETH into Tornado Cash
+### Step 3 - Deposit ETH into Tornado Cash
 
 Use the following command:
 
@@ -254,7 +134,7 @@ node cli.js deposit <currency> <amount> \
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
-    **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
+    **<span style="color:Red">Highly recommend</span>** to use [Tor Project](https://zzpolariszz.github.io/Tor-Project/) when you are using a public RPC provider to hide your IP Address
 
     Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
@@ -285,7 +165,7 @@ Sender account balance is YYY2 ETH
 ```
 
 ---
-### Step 5 - Withdraw ETH from Tornado Cash
+### Step 4 - Withdraw ETH from Tornado Cash
 
 #### If you DO use Tornado Cash Relayer
 
@@ -312,7 +192,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
-    **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
+    **<span style="color:Red">Highly recommend</span>** to use [Tor Project](https://zzpolariszz.github.io/Tor-Project/) when you are using a public RPC provider to hide your IP Address
 
     Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
@@ -392,7 +272,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Parameter `<tor-port>`: set it to `9150` when using Tor Browser, or `9050` when using Tor standalone
 
-    **<span style="color:Red">Highly recommend</span>** to use Tor when you are using a public RPC provider to hide your IP Address
+    **<span style="color:Red">Highly recommend</span>** to use [Tor Project](https://zzpolariszz.github.io/Tor-Project/) when you are using a public RPC provider to hide your IP Address
 
     Note that you do not have access to your own Ethereum Archive Node when using Tor (need more configuration)
 
@@ -403,6 +283,8 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 ---
 ### Miscellaneous
+
+- Parameter `gas-speed` seems not to work. Please ignore it and choose a low gas price to deposit and withdraw.
 
 - There is a website [https://ipfs.io/ipns/tornadocash.eth](https://ipfs.io/ipns/tornadocash.eth) deployed on IPFS by Tornado Cash Community (unsure safety)
 
