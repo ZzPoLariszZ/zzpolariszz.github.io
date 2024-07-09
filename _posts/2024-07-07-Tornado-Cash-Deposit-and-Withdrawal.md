@@ -278,7 +278,8 @@ node cli.js withdraw <deposit-note> <recipient> \
 ---
 ### Miscellaneous
 
-- It needs more modifications and configurations if you want to access your own Ethereum Archive Node when using Tor. It is obvious since you cannot visit `localhost` directly inside the Tor network. 
+- It needs more modifications and configurations if you want to access your own Ethereum Archive Node when using Tor.  
+  It is obvious since you cannot visit `localhost` directly when you are inside the Tor network. 
 
 - Parameter `gas-speed` seems not to work. Please ignore it and choose a low gas price to deposit and withdraw.
 
@@ -286,6 +287,5 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Plan to check the difference between community versions ([v1](https://git.tornado.ws/tornadocash/tornado-cli) + [v2](https://git.tornado.ws/tornadocontrib/tornado-cli)) and the official version ([public archive](https://github.com/tornadocash/tornado-cli/))
 
-- Be aware of any ***<span style="color:Red">suspected phishing attempts</span>*** (which could steal your money and identity)
-
-    **<span style="color:Red">Even if they are Tornado Cash Community, Tornado Cash Relayer, and THIS BLOG</span>** 
+- Be aware of any ***<span style="color:Red">suspected phishing attempts</span>*** (which could steal your money and identity)  
+  **<span style="color:Red">Even if they are Tornado Cash Community, Tornado Cash Relayer, and THIS BLOG!!!</span>** 
