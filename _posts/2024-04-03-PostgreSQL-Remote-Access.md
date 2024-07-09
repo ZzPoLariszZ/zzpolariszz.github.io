@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "PostgreSQL Remote Access"
+title: "PostgreSQL Remote Access (Linux + macOS)"
 excerpt_separator: <!--more-->
 tags: Database
 author_profile: true
