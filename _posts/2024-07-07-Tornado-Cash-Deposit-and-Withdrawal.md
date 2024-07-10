@@ -281,12 +281,14 @@ node cli.js withdraw <deposit-note> <recipient> \
 - It needs more modifications and configurations if you want to access your own Ethereum Archive Node when using Tor.  
   It is obvious since you cannot visit `localhost` directly when you are inside the Tor network. 
 
-- Parameter `gas-speed` seems not to work. Please ignore it and choose a low gas price (can be generated automatically or filled manually based on [Ethereum Gas Tracker](https://etherscan.io/gastracker)) to deposit and withdraw. Here is an example to set gas price to 3.3 gwei in `cli.js` (Line 170-172):
+- Parameter `gas-speed` seems not to work. Please ignore it and choose a low gas price (can be generated automatically or filled manually based on [Ethereum Gas Tracker](https://etherscan.io/gastracker)/[Time-based Gas Price Strategy](https://web3py.readthedocs.io/en/v5/gas_price.html#module-web3.gas_strategies.rpc)) to deposit and withdraw.  
 
-    ``` JavaScript
+    Here is an example to set gas price to 3.3 gwei in `cli.js` (Line 170-172):
+
+    ```
     const { gasPrice_tmp, gasLimit } = await feeOracle.getGasParams({ tx: incompletedTx, txType });
-  const gasPrice = '0x00C4B20100';
-  const gasCosts = toBN(gasPrice).mul(toBN(gasLimit));
+    const gasPrice = '0x00C4B20100';
+    const gasCosts = toBN(gasPrice).mul(toBN(gasLimit));
     ```
 
 - There is a website [https://ipfs.io/ipns/tornadocash.eth](https://ipfs.io/ipns/tornadocash.eth) deployed on IPFS by Tornado Cash Community (unsure safety)
