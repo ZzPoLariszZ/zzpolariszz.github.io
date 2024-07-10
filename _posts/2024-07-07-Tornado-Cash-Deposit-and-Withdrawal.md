@@ -285,9 +285,9 @@ node cli.js withdraw <deposit-note> <recipient> \
 
     Here is an example to set gas price to 3.3 gwei in `cli.js` (Line 170-172):
 
-    ```
+    ``` js
     const { gasPrice_tmp, gasLimit } = await feeOracle.getGasParams({ tx: incompletedTx, txType });
-    const gasPrice = '0x00C4B20100';
+    const gasPrice = '0x00C4B20100';  // 3300000000
     const gasCosts = toBN(gasPrice).mul(toBN(gasLimit));
     ```
 
