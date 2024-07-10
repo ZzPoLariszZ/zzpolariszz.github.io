@@ -283,7 +283,7 @@ node cli.js withdraw <deposit-note> <recipient> \
 
 - Parameter `gas-speed` seems not to work. Please ignore it and choose a low gas price (can be generated automatically or filled manually based on [Ethereum Gas Tracker](https://etherscan.io/gastracker)/[Time-based Gas Price Strategy](https://web3py.readthedocs.io/en/v5/gas_price.html#module-web3.gas_strategies.rpc)) to deposit and withdraw.  
 
-    Here is an example to set gas price to 3.3 gwei in `cli.js` (Line 170-172):
+    Here is an example of setting the gas price manually to 3.3 gwei in `cli.js` (Line 170-172):
 
     ``` js
     const { gasPrice_tmp, gasLimit } = await feeOracle.getGasParams({ tx: incompletedTx, txType });
