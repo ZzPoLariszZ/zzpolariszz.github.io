@@ -16,9 +16,8 @@ The Instructions for Tornado Cash Deposit and Withdrawal via CLI
 ---
 ### Declaration
 
-- Tornado Cash was sanctioned by the [U.S. Treasury](https://home.treasury.gov/news/press-releases/jy0916) on 08/08/2022,
-    
-    making it **illegal for U.S. citizens to interact with the core and governance contracts**.
+- Tornado Cash was sanctioned by the [U.S. Treasury](https://home.treasury.gov/news/press-releases/jy0916) on 08/08/2022,  
+making it **illegal for U.S. citizens to interact with the core and governance contracts**.
 
 - This blog is for **<span style="color:Red">Research Purposes ONLY</span>**. 
 
