@@ -295,4 +295,6 @@ node cli.js withdraw <deposit-note> <recipient> \
 - Plan to check the difference between community versions ([v1](https://git.tornado.ws/tornadocash/tornado-cli) + [v2](https://git.tornado.ws/tornadocontrib/tornado-cli)) and the official version ([public archive](https://github.com/tornadocash/tornado-cli/))
 
 - Be aware of any ***<span style="color:Red">suspected phishing attempts</span>*** (which could steal your money and identity)  
-  **<span style="color:Red">Even if they are Tornado Cash Community, Tornado Cash Relayer, and THIS BLOG!!!</span>** 
+  **<span style="color:Red">Even if they are Tornado Cash Community, Tornado Cash Relayer, and THIS BLOG!!!</span>**  
+
+  Here is [the latest report of Tornado Cash Backend Exploit](https://www.coindesk.com/business/2024/02/26/tornado-cash-reportedly-suffers-backend-exploit-user-deposits-at-risk/).
