@@ -124,10 +124,15 @@ Ref: [GitHub](https://github.com/sigp/lighthouse) & [Docs](https://lighthouse-bo
     > ```
     > then, you can use `localhost:8545` to interact with Reth Execution Node over JSON-RPC
 
+    > If you want fine-grained JSON-RPC namespaces on the server, you can use:
+    > ```
+    > --http --http.api eth,web3,net,txpool,debug,trace
+    > ```
+
     > If you want to allow any application local to your node will be able to access the RPC server,  
     > which means allowing any domains for Cross-Origin requests, you can add:
     > ```
-    > --http --http.corsdomain "*"
+    > --http.corsdomain "*"
     > ```
 
     > If you want to view metrics of Reth Execution Node, you can add:
