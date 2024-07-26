@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Web3 Ecosystem Contribution"
+title: "Web3 Ecosystem Contributions"
 excerpt_separator: <!--more-->
 tags: Blockchain
 author_profile: true
