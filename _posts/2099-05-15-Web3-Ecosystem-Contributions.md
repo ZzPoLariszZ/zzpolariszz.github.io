@@ -17,9 +17,13 @@ A List of My Contributions to Web3 Ecosystem
 
 ### 2024
 
+- Pull Request (Merged): [paradigmxyz/revm-inspectors#172](https://github.com/paradigmxyz/revm-inspectors/pull/172)
+
+    fix: Parity state diff when creating SC with balance
+
 - Pull Request (Merged): [paradigmxyz/reth#9761](https://github.com/paradigmxyz/reth/pull/9761)
 
-    fix(rpc/rpc): gas and gasUsed in trace root only for Parity trace (2/2)
+    fix: gas and gasUsed in trace root only for Parity trace (2/2)
 
 - Pull Request (Merged): [paradigmxyz/revm-inspectors#171](https://github.com/paradigmxyz/revm-inspectors/pull/171)
 
