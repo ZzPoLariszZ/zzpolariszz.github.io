@@ -19,16 +19,16 @@ A List of My Contributions to Web3 Ecosystem
 
 - Pull Request (Merged): [paradigmxyz/revm-inspectors#172](https://github.com/paradigmxyz/revm-inspectors/pull/172)
 
-    fix: Parity state diff when creating SC with balance
+    <span style="color:Red">fix: Parity state diff when creating SC with balance</span>
 
 - Pull Request (Merged): [paradigmxyz/reth#9761](https://github.com/paradigmxyz/reth/pull/9761)
 
-    fix: gas and gasUsed in trace root only for Parity trace (2/2)
+    <span style="color:Red">fix: gas and gasUsed in trace root only for Parity trace (2/2)</span>
 
 - Pull Request (Merged): [paradigmxyz/revm-inspectors#171](https://github.com/paradigmxyz/revm-inspectors/pull/171)
 
-    fix: gas and gasUsed in trace root only for Parity trace (1/2)
+    <span style="color:Red">fix: gas and gasUsed in trace root only for Parity trace (1/2)</span>
 
 - Pull Request (Merged): [paradigmxyz/revm-inspectors#170](https://github.com/paradigmxyz/revm-inspectors/pull/170)
 
-    fix: self-destruct disorder
+    <span style="color:Red">fix: self-destruct disorder</span>
