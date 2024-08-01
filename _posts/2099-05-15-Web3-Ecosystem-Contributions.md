@@ -17,6 +17,10 @@ A List of My Contributions to Web3 Ecosystem
 
 ### 2024
 
+- Pull Request (Merged): [paradigmxyz/revm-inspectors#173] (https://github.com/paradigmxyz/revm-inspectors/pull/173)
+
+    <span style="color:Red">fix: Geth trace inconsistence with self-destruct</span>
+
 - Pull Request (Merged): [paradigmxyz/revm-inspectors#172](https://github.com/paradigmxyz/revm-inspectors/pull/172)
 
     <span style="color:Red">fix: Parity state diff when creating SC with balance</span>
