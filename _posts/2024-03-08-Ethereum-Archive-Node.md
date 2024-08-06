@@ -195,18 +195,42 @@ You should also use `htop` to monitor CPU and Memory usage (and `smartctl` to mo
 
 After the syncing completes, you can use the following command in Terminal:
 
-```
-curl localhost:8545 \ 
--X POST \ 
--H "Content-Type: application/json" \ 
---data '{"method":"eth_chainId","params":[],"id":1,"jsonrpc":"2.0"}'
-```
+**For HTTP Server**
 
-The response should be
+- Request 
 
-```
-{"jsonrpc":"2.0","result":"0x1","id":1}
-```
+    ```
+    curl http://localhost:8545 \ 
+    -X POST \ 
+    -H "Content-Type: application/json" \ 
+    --data '{"method":"eth_chainId","params":[],"id":1,"jsonrpc":"2.0"}'
+    ```
+
+- Response
+
+    ```
+    {"jsonrpc":"2.0","result":"0x1","id":1}
+    ```
+
+**For WebSocket Server**
+
+- Connect
+
+    ```
+    websocat ws://localhost:8546
+    ```
+
+- Request 
+  
+    ```
+    {"jsonrpc":"2.0","id":1,"method":"eth_chainId","params":[]}
+    ```
+
+- Response
+
+    ```
+    {"jsonrpc":"2.0","result":"0x1","id":1}
+    ```
 
 ---
 ### ALL DONE!!!
