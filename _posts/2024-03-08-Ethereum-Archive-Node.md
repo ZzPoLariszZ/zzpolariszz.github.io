@@ -118,15 +118,32 @@ Ref: [GitHub](https://github.com/sigp/lighthouse) & [Docs](https://lighthouse-bo
     RUST_LOG=info reth node
     ```
 
-    > If you want to enable all JSON-RPC namespaces on the HTTP server, you can add:
+    > If you want to enable all JSON-RPC namespaces on the HTTP or WebSocket server, you can add:
     > ```
     > --http --http.api all
     > ```
-    > then, you can use `localhost:8545` to interact with Reth Execution Node over JSON-RPC
+    > then, you can use `localhost:8545` to interact with Reth Execution Node over HTTP JSON-RPC, OR
+    > ```
+    > --ws --ws.api all
+    > ```
+    > then, you can use `localhost:8546` to interact with Reth Execution Node over WebSocket JSON-RPC
 
     > If you want fine-grained JSON-RPC namespaces on the server, you can use:
     > ```
     > --http --http.api eth,web3,net,txpool,debug,trace
+    > ```
+    > Similarly,
+    > ```
+    > --ws --ws.api eth,web3,net,txpool,debug,trace
+    > ```
+
+    > If you want to configure the listen address and port, you can add:
+    > ```
+    > --http.addr <IP_ADDRESS> --http.port <PORT_NUM>
+    > ```
+    > Similarly,
+    > ```
+    > --ws.addr <IP_ADDRESS> --ws.port <PORT_NUM>
     > ```
 
     > If you want to allow any application local to your node will be able to access the RPC server,  
@@ -134,13 +151,17 @@ Ref: [GitHub](https://github.com/sigp/lighthouse) & [Docs](https://lighthouse-bo
     > ```
     > --http.corsdomain "*"
     > ```
+    > Similarly,
+    > ```
+    > --ws.origins "*"
+    > ```
 
     > If you want to view metrics of Reth Execution Node, you can add:
     > ```
     > --metrics localhost:9001
     > ```
-    > then, you can use **Prometheus** to collect metrics off of the endpoint  
-    > and use **Grafana** to scrape the metrics from Prometheus and define a dashboard to visualize them  
+    > You can use **Prometheus** to collect metrics off of the endpoint  
+    > and use **Grafana** to scrape the metrics from Prometheus   
     > Detailed instructions can be found in [Metrics](https://paradigmxyz.github.io/reth/run/observability.html) Page
 
 2. Run **Lighthouse** Consensus Client
