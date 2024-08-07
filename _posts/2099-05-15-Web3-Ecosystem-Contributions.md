@@ -17,6 +17,8 @@ A List of My Contributions to Web3 Ecosystem
 
 ### 2024
 
+**The following fixings are included in the release of [Reth v1.0.4](https://github.com/paradigmxyz/reth/releases/tag/v1.0.4) on Aug 06, 2024:**
+
 - Pull Request (Merged): [paradigmxyz/revm-inspectors#173](https://github.com/paradigmxyz/revm-inspectors/pull/173)
 
     <span style="color:Red">fix: Geth trace inconsistence with self-destruct</span>
