@@ -217,7 +217,7 @@ After the syncing completes, you can use the following command in Terminal:
 - Connect
 
     ```
-    websocat ws://localhost:8546
+    wscat -c ws://localhost:8546
     ```
 
 - Request 
