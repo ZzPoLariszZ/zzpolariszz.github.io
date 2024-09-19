@@ -27,7 +27,10 @@ related: true
 ## Recent News
 
 <ul style="font-size: 20px;">
+    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[09/18/2024]</span></b> &nbsp; Sub-reviewing at Cycle 1 of <em>34th USENIX Security Symposium</em> (<a href="https://www.usenix.org/conference/usenixsecurity25">Security '25</a>)</li>
+    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[09/11/2024]</span></b> &nbsp; Sub-reviewing at Issue 2 of <em>25th Privacy Enhancing Technologies Symposium</em> (<a href="https://petsymposium.org/cfp25.php">PETS '25</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[07/24/2024]</span></b> &nbsp; First Contribution to Web3 Ecosystem: <a href="https://github.com/paradigmxyz/reth/pull/9761">paradigmxyz/reth#9761</a>, <a href="https://github.com/paradigmxyz/revm-inspectors/pull/171">paradigmxyz/revm-inspectors#171</a>, and <a href="https://github.com/paradigmxyz/revm-inspectors/pull/170">paradigmxyz/revm-inspectors#170</a> (Ethereum Execution Client)</li>
+    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[07/05/2024]</span></b> &nbsp; Sub-reviewing at Issue 1 of <em>25th Privacy Enhancing Technologies Symposium</em> (<a href="https://petsymposium.org/cfp25.php">PETS '25</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[04/21/2024]</span></b> &nbsp; Artifact Evaluation Committee at <em>18th USENIX WOOT Conference on Offensive Technologies</em> (<a href="https://www.usenix.org/conference/woot24">WOOT '24</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/15/2024]</span></b> &nbsp; Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (24 Spring)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/08/2024]</span></b> &nbsp; First-year PhD student at <em>University of Birmingham - Centre for Cyber Security and Privacy</em> (<a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">UoB-CCSP</a>)</li>
