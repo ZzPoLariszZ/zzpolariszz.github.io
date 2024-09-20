@@ -39,7 +39,9 @@ related: true
 ## Miscellaneous
 
 <ul style="font-size: 20px;">
-    <li>Enjoy cooking and tasting (keep dining at restaurants selected by the <a href="https://guide.michelin.com/gb/en">MICHELIN Guide</a>)</li>
-    <li>Plan to learn freestyle stroke (already learnt breaststroke)</li>
-    <li>Currently practising <a href="https://en.wikipedia.org/wiki/Chromatic_harmonica">chromatic harmonica</a> (a tiny instrument that can just be held in your hands)</li>
+    <li>Enjoy cooking and tasting <br>
+    (keep dining at restaurants selected by the <a href="https://guide.michelin.com/gb/en">MICHELIN Guide</a>)</li>
+    <li>Currently practising <a href="https://en.wikipedia.org/wiki/Chromatic_harmonica">chromatic harmonica</a> <br>
+    (a tiny instrument that can just be held in your hands)</li>
+    <li>Plan to learn freestyle stroke</li>
 </ul>
