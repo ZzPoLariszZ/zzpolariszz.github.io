@@ -24,6 +24,12 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
+[Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
+
+
+**[Security]** 
+
+[Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
 
 ---
 ### 2023
@@ -78,9 +84,9 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://dl.acm.org/doi/10.1145/3548606.3560587) - CCS
 
-[How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/conference/usenixsecurity22/presentation/kappos) - Security
+[How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/conference/usenixsecurity22/presentation/kappos) - USENIX
 
-[Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan) - Security
+[Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan) - USENIX
 
 [SoK: Privacy-Preserving Computing in the Blockchain Era](https://ieeexplore.ieee.org/document/9797340) - EuroS&P
 
@@ -166,7 +172,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Privacy]**
 
-[Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/conference/usenixsecurity20/presentation/tramer) - Security
+[Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/conference/usenixsecurity20/presentation/tramer) - USENIX
 
 [Address Clustering Heuristics for Ethereum](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_33) - FC
 
@@ -206,7 +212,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Privacy]**
 
-[Tracing Transactions Across Cryptocurrency Ledgers](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf) - Security
+[Tracing Transactions Across Cryptocurrency Ledgers](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf) - USENIX
 
 [Deanonymization and Linkability of Cryptocurrency Transactions Based on Network Analysis](https://ieeexplore.ieee.org/document/8806723) - EuroS&P
 
