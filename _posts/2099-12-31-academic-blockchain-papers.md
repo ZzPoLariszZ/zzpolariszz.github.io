@@ -22,7 +22,11 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Sweep-UC: Swapping Coins Privately](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a081/1RjEaPOsrde) - S&P
 
+[Atomic and Fair Data Exchange via Blockchain]() - CCS
+
 **[Privacy]** 
+
+[Blind Multi-Signatures for Anonymous Tokens with Decentralized Issuance and Public Verifiability]() - CCSß
 
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
@@ -30,9 +34,15 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Scalability]** 
 
-- [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a171/1V5U7c5x1Li) - S&P
+[Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a171/1V5U7c5x1Li) - S&P
 
-- [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
+[Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
+
+[Sui Lutris: A Blockchain Combining Broadcast and Consensus]() - CCS
+
+[High-Throughput Three-Party DPFs with Applications to ORAM and Digital Currencies]() - CCS
+
+[Reckle Trees: Updatable Merkle Batch Proofs with Applications]() - CCS
 
 
 **[Security]** 
@@ -52,6 +62,20 @@ A List of Academic Blockchain Papers Matching My Research Interests
 [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a220/1WPcYKIy2NG) - S&P
 
 [Non-Atomic Arbitrage in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a224/1WPcYNItiZW) - S&P
+
+[Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network]() - CCS
+
+[Blockchain Bribing Attacks and the Efficacy of Counterincentives]() - CCS
+
+[Defying the Odds: Solana’s Unexpected Resilience in Spite of the Security Challenges Faced by Developers]() - CCS
+
+[Securing Lightning Channels against Rational Miners]() - CCS
+
+[Characterizing Ethereum Address Poisoning Attack]() - CCS
+
+[Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]() - CCS
+
+[TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() - CCSß
 
 [Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
 
