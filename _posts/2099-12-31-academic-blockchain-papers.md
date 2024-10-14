@@ -18,6 +18,8 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Interoperability]**  
 
+[SoK: Security and Privacy of Blockchain Interoperability](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a234/1WPcYVyZLWw) - S&P
+
 [Sweep-UC: Swapping Coins Privately](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a081/1RjEaPOsrde) - S&P
 
 **[Privacy]** 
@@ -26,8 +28,30 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
+**[Scalability]** 
+
+- [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a171/1V5U7c5x1Li) - S&P
+
+- [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
+
 
 **[Security]** 
+
+[Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a156/1Ub24dUICVq)
+
+[Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a125/1Ub23FE54kw) - S&P
+
+[Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a146/1Ub2446HQje) - S&P
+
+[PriDe CT: Towards Public Consensus, Private Transactions, and Forward Secrecy in Decentralized Payments](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a179/1V28Z3Eg3p6) - S&P
+
+[POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a240/1WPcYZSX6Jq) - S&P
+
+[Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a209/1WPcYBjemv6) - S&P
+
+[Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a220/1WPcYKIy2NG) - S&P
+
+[Non-Atomic Arbitrage in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a224/1WPcYNItiZW) - S&P
 
 [Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
 
