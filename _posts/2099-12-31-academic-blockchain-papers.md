@@ -58,6 +58,8 @@ Included Journals: TDSC, TIPS
 
 [Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
 
+[DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs](https://dl.acm.org/doi/10.1145/3589334.3645692) - WWW
+
 [Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
 
 [PrivData Network: A Privacy-Preserving On-Chain Data Factory and Trading Market]() - TDSC
@@ -99,6 +101,8 @@ Included Journals: TDSC, TIPS
 [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](https://www.ndss-symposium.org/ndss-paper/front-running-attack-in-sharded-blockchains-and-fair-cross-shard-consensus/) - NDSS
 
 [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://www.ndss-symposium.org/ndss-paper/a-two-layer-blockchain-sharding-protocol-leveraging-safety-and-liveness-for-enhanced-performance/) - NDSS
+
+[Advancing Web 3.0: Making Smart Contracts Smarter on Blockchain](https://dl.acm.org/doi/10.1145/3589334.3645319) - WWW
 
 [Anonymous Multi-Hop Payment for Payment Channel Networks](https://ieeexplore.ieee.org/document/10083241) - TDSC
 
@@ -211,6 +215,16 @@ Included Journals: TDSC, TIPS
 
 [Verifying Declarative Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/203/Verifying-Declarative-Smart-Contracts) - ICSE
 
+[Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets](https://dl.acm.org/doi/10.1145/3589334.3645348) - WWW
+
+[ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain](https://dl.acm.org/doi/10.1145/3589334.3645352) - WWW
+
+[Identifying Risky Vendors in Cryptocurrency P2P Marketplaces](https://dl.acm.org/doi/10.1145/3589334.3645475) - WWW
+
+[Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications](https://dl.acm.org/doi/abs/10.1145/3589334.3645640) - WWW
+
+[Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet](https://dl.acm.org/doi/10.1145/3589335.3651573) - WWW Short-Paper
+
 [xFuzz: Machine Learning Guided Cross-Contract Fuzzing](https://ieeexplore.ieee.org/document/9795233) - TDSC
 
 [Secure Redactable Blockchain With Dynamic Support](https://ieeexplore.ieee.org/document/10082897) - TDSC
@@ -282,6 +296,12 @@ Included Journals: TDSC, TIPS
 [Secure Multiparty Computation of Threshold Signatures Made More Efficient](https://www.ndss-symposium.org/ndss-paper/secure-multiparty-computation-of-threshold-signatures-made-more-efficient/) - NDSS
 
 [Separation is Good: A Faster Order-Fairness Byzantine Consensus](https://www.ndss-symposium.org/ndss-paper/separation-is-good-a-faster-order-fairness-byzantine-consensus/) - NDSS
+
+[BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated Learning Framework](https://dl.acm.org/doi/10.1145/3589334.3645425) - WWW
+
+[Investigations of Top-Level Domain Name Collisions in Blockchain Naming Services](https://dl.acm.org/doi/10.1145/3589334.3645459) - WWW
+
+[Unveiling the Paradox of NFT Prosperity](https://dl.acm.org/doi/10.1145/3589334.3645566) - WWW
 
 [SodsBC: A Post-Quantum by Design Asynchronous Blockchain Framework](https://ieeexplore.ieee.org/document/10041785) - TDSC
 
