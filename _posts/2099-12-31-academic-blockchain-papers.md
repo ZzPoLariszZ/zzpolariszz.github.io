@@ -26,7 +26,7 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Privacy]** 
 
-[Blind Multi-Signatures for Anonymous Tokens with Decentralized Issuance and Public Verifiability]() - CCSß
+[Blind Multi-Signatures for Anonymous Tokens with Decentralized Issuance and Public Verifiability]() - CCS
 
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
@@ -47,17 +47,27 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 **[Security]** 
 
-[Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a156/1Ub24dUICVq)
+[Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a109/1Ub23heRtUA) - S&P
+
+[Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a156/1Ub24dUICVq) - S&P
 
 [Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a125/1Ub23FE54kw) - S&P
 
 [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a146/1Ub2446HQje) - S&P
+
+[SMARTINV: Multimodal Learning for Smart Contract Invariant Inference](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a126/1Ub23GNTAeQ) - S&P
 
 [PriDe CT: Towards Public Consensus, Private Transactions, and Forward Secrecy in Decentralized Payments](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a179/1V28Z3Eg3p6) - S&P
 
 [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a240/1WPcYZSX6Jq) - S&P
 
 [Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a209/1WPcYBjemv6) - S&P
+
+[Towards Smart Contract Fuzzing on GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a195/1WPcYmDLzKo) - S&P
+
+[Routing Attacks on Cryptocurrency Mining Pools](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a190/1WPcYj8kQ6Y) - S&P
+
+[Larger-scale Nakamoto-style Blockchains Don’t Necessarily Offer Better Security](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a208/1WPcYAt0aze) - S&P
 
 [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a220/1WPcYKIy2NG) - S&P
 
@@ -75,9 +85,29 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]() - CCS
 
-[TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() - CCSß
+[TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() - CCS
 
 [Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
+
+**[Zero-Knowledge Proof]**
+
+[Efficient Zero-Knowledge Arguments For Paillier Cryptosystem](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a093/1Ub231Cm86s) - S&P
+
+[Scalable Verification of Zero-Knowledge Protocols](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a133/1Ub23QzVaWA) - S&P
+
+[SwiftRange: A Short and Efficient Zero-Knowledge Range Argument For Confidential Transactions and More](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a054/1RjEatoqLfi) - S&P
+
+[Certifying Zero-Knowledge Circuits with Refinement Types](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a078/1RjEaNkBQIg) - S&P
+
+[Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a086/1RjEaU3iZEY) - S&P
+
+[Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
+
+**[Other]**
+
+[Optimal Flexible Consensus and its Application to Ethereum](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a135/1Ub23SzoGwE) - S&P
+
+
 
 ---
 ### 2023
