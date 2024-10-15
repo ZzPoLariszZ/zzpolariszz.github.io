@@ -11,11 +11,15 @@ classes: wide
 
 A List of Academic Blockchain Papers
 
-Included Conferences: S&P, CCS, USENIX, NDSS, PETS, ICSE, WWW
+<!--more-->
+
+Top 4 Conferences: S&P, CCS, USENIX, NDSS
+
+Other Conferences: PETS, ICSE, WWW
+
+Specific Conferences: ICBC, FC
 
 Included Journals: TDSC, TIPS
-
-<!--more-->
 
 ---
 ### 2024
