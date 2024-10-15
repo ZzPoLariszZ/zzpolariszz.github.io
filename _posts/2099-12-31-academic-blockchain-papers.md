@@ -17,7 +17,7 @@ Top 4 Conferences: S&P, CCS, USENIX, NDSS
 
 Other Conferences: PETS, ICSE, WWW
 
-Specific Conferences: ICBC, FC
+Specific Conferences: FC, ICBC, AFT
 
 Included Journals: TDSC, TIPS
 
@@ -226,8 +226,6 @@ Included Journals: TDSC, TIPS
 [Identifying Risky Vendors in Cryptocurrency P2P Marketplaces](https://dl.acm.org/doi/10.1145/3589334.3645475) - WWW
 
 [Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications](https://dl.acm.org/doi/abs/10.1145/3589334.3645640) - WWW
-
-[Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet](https://dl.acm.org/doi/10.1145/3589335.3651573) - WWW Short-Paper
 
 [xFuzz: Machine Learning Guided Cross-Contract Fuzzing](https://ieeexplore.ieee.org/document/9795233) - TDSC
 
