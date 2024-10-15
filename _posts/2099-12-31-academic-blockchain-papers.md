@@ -18,6 +18,8 @@ A List of Academic Blockchain Papers
 
 🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
+35 Papers (till Issue 5) Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)
+
 **[Interoperability]**  
 
 [SoK: Security and Privacy of Blockchain Interoperability](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a234/1WPcYVyZLWw) - S&P
@@ -27,6 +29,10 @@ A List of Academic Blockchain Papers
 [Atomic and Fair Data Exchange via Blockchain]() - CCS
 
 [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-yihao) - USENIX
+
+[Sidechains With Optimally Succinct Proof](https://ieeexplore.ieee.org/document/10301610) - TDSC
+
+[IvyRedaction: Enabling Atomic, Consistent and Accountable Cross-Chain Rewriting](https://ieeexplore.ieee.org/document/10342807) - TDSC
 
 **[Privacy]** 
 
@@ -43,6 +49,16 @@ A List of Academic Blockchain Papers
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
 [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
+
+[Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
+
+[PrivData Network: A Privacy-Preserving On-Chain Data Factory and Trading Market]() - TDSC
+
+[SPCEX: Secure and Privacy-Preserving Cryptocurrency Exchange](https://ieeexplore.ieee.org/document/10398514) - TDSC
+
+[Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/document/10399884) - TDSC
+
+[Solution Probing Attack Against Coin Mixing Based Privacy-Preserving Crowdsourcing Platforms](https://ieeexplore.ieee.org/document/10404041) - TDSC
 
 [Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
@@ -61,6 +77,10 @@ A List of Academic Blockchain Papers
 [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](https://www.ndss-symposium.org/ndss-paper/front-running-attack-in-sharded-blockchains-and-fair-cross-shard-consensus/) - NDSS
 
 [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://www.ndss-symposium.org/ndss-paper/a-two-layer-blockchain-sharding-protocol-leveraging-safety-and-liveness-for-enhanced-performance/) - NDSS
+
+[Anonymous Multi-Hop Payment for Payment Channel Networks](https://ieeexplore.ieee.org/document/10083241) - TDSC
+
+[monoCash: A Channel-Free Payment Network via Trusted Monotonic Counters](https://ieeexplore.ieee.org/document/10416274) - TDSC
 
 
 **[Security]** 
@@ -135,6 +155,18 @@ A List of Academic Blockchain Papers
 
 [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/) - NDSS
 
+[xFuzz: Machine Learning Guided Cross-Contract Fuzzing](https://ieeexplore.ieee.org/document/9795233) - TDSC
+
+[Secure Redactable Blockchain With Dynamic Support](https://ieeexplore.ieee.org/document/10082897) - TDSC
+
+[Adaptive Double-Spending Attacks on PoW-Based Blockchains](https://ieeexplore.ieee.org/document/10106089) - TDSC
+
+[Highly Available Blockchain Nodes With N-Version Design](https://ieeexplore.ieee.org/document/10372117) - TDSC
+
+[DeFiRanger: Detecting DeFi Price Manipulation Attacks](https://ieeexplore.ieee.org/document/10373899) - TDSC
+
+[Privacy-Preserving Anomaly Detection of Encrypted Smart Contract for Blockchain-Based Data Trading](https://ieeexplore.ieee.org/document/10399833) - TDSC
+
 **[Zero-Knowledge Proof]**
 
 [Efficient Zero-Knowledge Arguments For Paillier Cryptosystem](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a093/1Ub231Cm86s) - S&P
@@ -161,6 +193,8 @@ A List of Academic Blockchain Papers
 
 [From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation](https://www.ndss-symposium.org/ndss-paper/from-interaction-to-independence-zksnarks-for-transparent-and-non-interactive-remote-attestation/) - NDSS
 
+[Ligerolight: Optimized IOP-Based Zero-Knowledge Argument for Blockchain Scalability](https://ieeexplore.ieee.org/document/10328796) - TDSC
+
 **[Other]**
 
 [Optimal Flexible Consensus and its Application to Ethereum](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a135/1Ub23SzoGwE) - S&P
@@ -178,6 +212,44 @@ A List of Academic Blockchain Papers
 [Secure Multiparty Computation of Threshold Signatures Made More Efficient](https://www.ndss-symposium.org/ndss-paper/secure-multiparty-computation-of-threshold-signatures-made-more-efficient/) - NDSS
 
 [Separation is Good: A Faster Order-Fairness Byzantine Consensus](https://www.ndss-symposium.org/ndss-paper/separation-is-good-a-faster-order-fairness-byzantine-consensus/) - NDSS
+
+[SodsBC: A Post-Quantum by Design Asynchronous Blockchain Framework](https://ieeexplore.ieee.org/document/10041785) - TDSC
+
+[DePTVM: Decentralized Pseudonym and Trust Value Management for Integrated Networks](https://ieeexplore.ieee.org/document/10049178) - TDSC
+
+[HCA: Hashchain-Based Consensus Acceleration Via Re-Voting](https://ieeexplore.ieee.org/document/10083306) - TDSC
+
+[Outsourced Privately Verifiable Proofs of Retrievability via Blockchain](https://ieeexplore.ieee.org/document/10149394) - TDSC
+
+[Dynamic Range Query Privacy-Preserving Scheme for Blockchain-Enhanced Smart Grid Based on Lattice](https://ieeexplore.ieee.org/document/10158917) - TDSC
+
+[Smart Contract Assisted Privacy-Preserving Data Aggregation and Management Scheme for Smart Grid](https://ieeexplore.ieee.org/document/10198760) - TDSC
+
+[D-LNBot: A Scalable, Cost-Free and Covert Hybrid Botnet on Bitcoin's Lightning Network](https://ieeexplore.ieee.org/document/10198749) - TDSC
+
+[Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains](https://ieeexplore.ieee.org/document/10230315) - TDSC
+
+[Secure and Scalable Cross-Domain Data Sharing in Zero-Trust Cloud-Edge-End Environment Based on Sharding Blockchain](https://ieeexplore.ieee.org/document/10246351) - TDSC
+
+[Obfuscating Verifiable Random Functions for Proof-of-Stake Blockchains](https://ieeexplore.ieee.org/document/10268576) - TDSC
+
+[CrowdFAB: Intelligent Crowd-Forecasting Using Blockchains and its Use in Security](https://ieeexplore.ieee.org/document/10271718) - TDSC
+
+[NANO: Cryptographic Enforcement of Readability and Editability Governance in Blockchain Databases](https://ieeexplore.ieee.org/document/10309206) - TDSC
+
+[Blockchain-Based Shared Data Integrity Auditing and Deduplication](https://ieeexplore.ieee.org/document/10330075) - TDSC
+
+[Blockchain-Based Compact Verifiable Data Streaming With Self-Auditing](https://ieeexplore.ieee.org/document/10347508) - TDSC
+
+[DSChain: A Blockchain System for Complete Lifecycle Security of Data in Internet of Things](https://ieeexplore.ieee.org/document/10354045) - TDSC
+
+[Outsourced Privately Verifiable Proofs of Retrievability via Blockchain](https://ieeexplore.ieee.org/document/10149394) - TDSC
+
+[A Blockchain-Based Secure Covert Communication Method via Shamir Threshold and STC Mapping](https://ieeexplore.ieee.org/document/10398427) - TDSC
+
+[A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction](https://ieeexplore.ieee.org/document/10404008) - TDSC
+
+[Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
 
 ---
 ### 2023
