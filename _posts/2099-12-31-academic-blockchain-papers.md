@@ -9,12 +9,14 @@ toc: true
 classes: wide
 ---
 
-A List of Academic Blockchain Papers Matching My Research Interests
+A List of Academic Blockchain Papers
 
 <!--more-->
 
 ---
 ### 2024
+
+🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
 **[Interoperability]**  
 
