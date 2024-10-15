@@ -40,6 +40,8 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
+[Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
+
 [Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
 **[Scalability]** 
@@ -53,6 +55,10 @@ A List of Academic Blockchain Papers Matching My Research Interests
 [High-Throughput Three-Party DPFs with Applications to ORAM and Digital Currencies]() - CCS
 
 [Reckle Trees: Updatable Merkle Batch Proofs with Applications]() - CCS
+
+[Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](https://www.ndss-symposium.org/ndss-paper/front-running-attack-in-sharded-blockchains-and-fair-cross-shard-consensus/) - NDSS
+
+[A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://www.ndss-symposium.org/ndss-paper/a-two-layer-blockchain-sharding-protocol-leveraging-safety-and-liveness-for-enhanced-performance/) - NDSS
 
 
 **[Security]** 
@@ -119,6 +125,14 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-mingfei) - USENIX
 
+[Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://www.ndss-symposium.org/ndss-paper/not-your-type-detecting-storage-collision-vulnerabilities-in-ethereum-smart-contracts/) - NDSS
+
+[Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://www.ndss-symposium.org/ndss-paper/abusing-the-ethereum-smart-contract-verification-services-for-fun-and-profit/) - NDSS
+
+[DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/ndss-paper/drainclog-detecting-rogue-accounts-with-illegally-obtained-nfts-using-classifiers-learned-on-graphs/) - NDSS
+
+[VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/) - NDSS
+
 **[Zero-Knowledge Proof]**
 
 [Efficient Zero-Knowledge Arguments For Paillier Cryptosystem](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a093/1Ub231Cm86s) - S&P
@@ -143,6 +157,8 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://www.usenix.org/conference/usenixsecurity24/presentation/wen) - USENIX
 
+[From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation](https://www.ndss-symposium.org/ndss-paper/from-interaction-to-independence-zksnarks-for-transparent-and-non-interactive-remote-attestation/) - NDSS
+
 **[Other]**
 
 [Optimal Flexible Consensus and its Application to Ethereum](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a135/1Ub23SzoGwE) - S&P
@@ -154,6 +170,12 @@ A List of Academic Blockchain Papers Matching My Research Interests
 [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]() - CCS
 
 [Sprints: Intermittent Blockchain PoW Mining](https://www.usenix.org/conference/usenixsecurity24/presentation/mirkin) - USENIX
+
+[Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols](https://www.ndss-symposium.org/ndss-paper/security-performance-tradeoff-in-dag-based-proof-of-work-blockchain-protocols/) - NDSS
+
+[Secure Multiparty Computation of Threshold Signatures Made More Efficient](https://www.ndss-symposium.org/ndss-paper/secure-multiparty-computation-of-threshold-signatures-made-more-efficient/) - NDSS
+
+[Separation is Good: A Faster Order-Fairness Byzantine Consensus](https://www.ndss-symposium.org/ndss-paper/separation-is-good-a-faster-order-fairness-byzantine-consensus/) - NDSS
 
 ---
 ### 2023
