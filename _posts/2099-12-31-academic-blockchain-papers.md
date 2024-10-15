@@ -16,7 +16,7 @@ A List of Academic Blockchain Papers
 ---
 ### 2024
 
-🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 (S&P, CCS, USENIX, NDSS)</span>*** 🔥
+🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
 35 Papers (till Issue 5) Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)
 
