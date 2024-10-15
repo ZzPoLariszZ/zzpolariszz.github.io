@@ -24,9 +24,19 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Atomic and Fair Data Exchange via Blockchain]() - CCS
 
+[zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-yihao) - USENIX
+
 **[Privacy]** 
 
+[Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]() - CCS
+
+[Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]() - CCS
+
 [Blind Multi-Signatures for Anonymous Tokens with Decentralized Issuance and Public Verifiability]() - CCS
+
+[Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity24/presentation/choudhuri) - USENIX
+
+[GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva) - USENIX
 
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
@@ -89,7 +99,25 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() - CCS
 
+[fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]() - CCS
+
+[DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back]() - CCS
+
+[Characterizing Ethereum Address Poisoning Attack]() - CCS
+
+[Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]() - CCS
+
 [Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
+
+[Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus](https://www.usenix.org/conference/usenixsecurity24/presentation/wei-jianghong) - USENIX
+
+[Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo) - USENIX
+
+[All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-tianle) - USENIX
+
+[Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han) - USENIX
+
+[Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-mingfei) - USENIX
 
 **[Zero-Knowledge Proof]**
 
@@ -105,11 +133,27 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
 
+[zkPi: Proving Lean Theorems in Zero-Knowledge]() - CCS
+
+[Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers]() - CCS
+
+[Sparrow : Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees]() - CCS
+
+[zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]() - CCS
+
+[Practical Security Analysis of Zero-Knowledge Proof Circuits](https://www.usenix.org/conference/usenixsecurity24/presentation/wen) - USENIX
+
 **[Other]**
 
 [Optimal Flexible Consensus and its Application to Ethereum](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a135/1Ub23SzoGwE) - S&P
 
+[Nakamoto Consensus under Bounded Processing Capacity]() - CCS
 
+[Data Independent Order Policy Enforcement: Limitations and Solutions]() - CCS
+
+[Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]() - CCS
+
+[Sprints: Intermittent Blockchain PoW Mining](https://www.usenix.org/conference/usenixsecurity24/presentation/mirkin) - USENIX
 
 ---
 ### 2023
