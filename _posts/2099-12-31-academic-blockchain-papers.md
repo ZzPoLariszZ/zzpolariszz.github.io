@@ -187,6 +187,30 @@ Included Journals: TDSC, TIPS
 
 [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/) - NDSS
 
+[Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/11/Smart-Contract-and-DeFi-Security-Tools-Do-They-Meet-the-Needs-of-Practitioners-) - ICSE
+
+[PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/36/PonziGuard-Detecting-Ponzi-Schemes-on-Ethereum-with-Contract-Runtime-Behavior-Graph-) - ICSE
+
+[Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/53/Revealing-Hidden-Threats-An-Empirical-Study-of-Library-Misuse-in-Smart-Contracts) - ICSE
+
+[Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/152/Are-We-There-Yet-Unraveling-the-State-of-the-Art-Smart-Contract-Fuzzers) - ICSE
+
+[When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/130/When-Contracts-Meets-Crypto-Exploring-Developers-Struggles-with-Ethereum-Cryptograp) - ICSE
+
+[Towards Finding Accounting Errors in Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/127/Towards-Finding-Accounting-Errors-in-Smart-Contracts) - ICSE
+
+[FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/190/FlashSyn-Flash-Loan-Attack-Synthesis-via-Counter-Example-Driven-Approximation) - ICSE
+
+[GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/114/GPTScan-Detecting-Logic-Vulnerabilities-in-Smart-Contracts-by-Combining-GPT-with-Pro) - ICSE
+
+[PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/140/PrettySmart-Detecting-Permission-Re-delegation-Vulnerability-for-Token-Behaviors-in-) - ICSE
+
+[SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/213/SCVHunter-Smart-Contract-Vulnerability-Detection-Based-on-Heterogeneous-Graph-Attent) - ICSE
+
+[Safeguarding DeFi Smart Contracts against Oracle Deviations](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/225/Safeguarding-DeFi-Smart-Contracts-against-Oracle-Deviations) - ICSE
+
+[Verifying Declarative Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/203/Verifying-Declarative-Smart-Contracts) - ICSE
+
 [xFuzz: Machine Learning Guided Cross-Contract Fuzzing](https://ieeexplore.ieee.org/document/9795233) - TDSC
 
 [Secure Redactable Blockchain With Dynamic Support](https://ieeexplore.ieee.org/document/10082897) - TDSC
