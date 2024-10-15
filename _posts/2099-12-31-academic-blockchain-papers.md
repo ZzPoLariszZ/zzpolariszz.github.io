@@ -13,6 +13,8 @@ A List of Academic Blockchain Papers
 
 <!--more-->
 
+---
+
 Top 4 Conferences: S&P, CCS, USENIX, NDSS
 
 Other Conferences: PETS, ICSE, WWW
@@ -20,6 +22,11 @@ Other Conferences: PETS, ICSE, WWW
 Specific Conferences: FC, ICBC, AFT
 
 Included Journals: TDSC, TIPS
+
+---
+🌟🌟🌟, 🌟🌟, 🌟: Interest Level
+✅: Read with Note
+❌: Skipped Paper
 
 ---
 ### 2024
@@ -30,13 +37,13 @@ Included Journals: TDSC, TIPS
 
 **[Interoperability]**  
 
-[SoK: Security and Privacy of Blockchain Interoperability](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a234/1WPcYVyZLWw) - S&P
+🌟🌟🌟 [SoK: Security and Privacy of Blockchain Interoperability](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a234/1WPcYVyZLWw) - S&P
 
 [Sweep-UC: Swapping Coins Privately](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a081/1RjEaPOsrde) - S&P
 
 [Atomic and Fair Data Exchange via Blockchain]() - CCS
 
-[zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-yihao) - USENIX
+🌟🌟🌟 [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-yihao) - USENIX
 
 [Sidechains With Optimally Succinct Proof](https://ieeexplore.ieee.org/document/10301610) - TDSC
 
@@ -54,7 +61,7 @@ Included Journals: TDSC, TIPS
 
 [Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity24/presentation/choudhuri) - USENIX
 
-[GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva) - USENIX
+🌟🌟🌟 [GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva) - USENIX
 
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
@@ -62,9 +69,9 @@ Included Journals: TDSC, TIPS
 
 [Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
 
-[Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
+🌟🌟🌟 [Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
-[DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs](https://dl.acm.org/doi/10.1145/3589334.3645692) - WWW
+🌟🌟🌟 [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs](https://dl.acm.org/doi/10.1145/3589334.3645692) - WWW
 
 [Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
 
@@ -72,7 +79,7 @@ Included Journals: TDSC, TIPS
 
 [SPCEX: Secure and Privacy-Preserving Cryptocurrency Exchange](https://ieeexplore.ieee.org/document/10398514) - TDSC
 
-[Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/document/10399884) - TDSC
+🌟🌟🌟 [Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/document/10399884) - TDSC
 
 [Solution Probing Attack Against Coin Mixing Based Privacy-Preserving Crowdsourcing Platforms](https://ieeexplore.ieee.org/document/10404041) - TDSC
 
@@ -82,7 +89,7 @@ Included Journals: TDSC, TIPS
 
 [BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIPS
 
-[Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIPS
+🌟🌟🌟 [Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIPS
 
 [FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIPS
 
