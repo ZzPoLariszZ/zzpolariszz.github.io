@@ -73,6 +73,8 @@ A List of Academic Blockchain Papers Matching My Research Interests
 
 [Non-Atomic Arbitrage in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a224/1WPcYNItiZW) - S&P
 
+[Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a017/1RjE9Uyjlok) - S&P
+
 [Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network]() - CCS
 
 [Blockchain Bribing Attacks and the Efficacy of Counterincentives]() - CCS
