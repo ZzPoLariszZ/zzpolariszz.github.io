@@ -11,6 +11,10 @@ classes: wide
 
 A List of Academic Blockchain Papers
 
+Included Conferences: S&P, CCS, USENIX, NDSS, PETS, ICSE, WWW
+
+Included Journals: TDSC, TIPS
+
 <!--more-->
 
 ---
@@ -18,9 +22,7 @@ A List of Academic Blockchain Papers
 
 🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
-35 Papers (till Issue 5) Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)
-
-27 Papers (till Volume 9) Accepted by IEEE Transactions on Information Forensics and Security (TIPS)
+35 Papers (till Issue 5) Accepted TDSC + 27 Papers (till Volume 9) Accepted by TIPS
 
 **[Interoperability]**  
 
@@ -53,6 +55,8 @@ A List of Academic Blockchain Papers
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
 [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
+
+[Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
 
 [Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
 
