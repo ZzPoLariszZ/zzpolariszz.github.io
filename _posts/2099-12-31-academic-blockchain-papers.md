@@ -62,6 +62,8 @@ Included Journals: TDSC, TIPS
 
 [Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
 
+[Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
+
 [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs](https://dl.acm.org/doi/10.1145/3589334.3645692) - WWW
 
 [Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
@@ -87,8 +89,6 @@ Included Journals: TDSC, TIPS
 [Redactable Blockchain Based on Decentralized Trapdoor Verifiable Delay Functions](https://ieeexplore.ieee.org/document/10605835) - TIPS
 
 [Controlled Redactable Blockchain Based on T-Times Chameleon Hash and Signature](https://ieeexplore.ieee.org/document/10620354) - TIPS
-
-[Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
 **[Scalability]** 
 
