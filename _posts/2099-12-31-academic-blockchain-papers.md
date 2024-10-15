@@ -20,6 +20,8 @@ A List of Academic Blockchain Papers
 
 35 Papers (till Issue 5) Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)
 
+27 Papers (till Volume 9) Accepted by IEEE Transactions on Information Forensics and Security (TIPS)
+
 **[Interoperability]**  
 
 [SoK: Security and Privacy of Blockchain Interoperability](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a234/1WPcYVyZLWw) - S&P
@@ -33,6 +35,8 @@ A List of Academic Blockchain Papers
 [Sidechains With Optimally Succinct Proof](https://ieeexplore.ieee.org/document/10301610) - TDSC
 
 [IvyRedaction: Enabling Atomic, Consistent and Accountable Cross-Chain Rewriting](https://ieeexplore.ieee.org/document/10342807) - TDSC
+
+[Reinventing Multi-User Authentication Security From Cross-Chain Perspective](https://ieeexplore.ieee.org/document/10683773) - TIPS 
 
 **[Privacy]** 
 
@@ -60,6 +64,20 @@ A List of Academic Blockchain Papers
 
 [Solution Probing Attack Against Coin Mixing Based Privacy-Preserving Crowdsourcing Platforms](https://ieeexplore.ieee.org/document/10404041) - TDSC
 
+[PRBFPT: A Practical Redactable Blockchain Framework With a Public Trapdoor](https://ieeexplore.ieee.org/document/10380599) - TIPS
+
+[Exploring Unobservable Blockchain-Based Covert Channel for Censorship-Resistant Systems](https://ieeexplore.ieee.org/document/10418190) - TIPS
+
+[BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIPS
+
+[Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIPS
+
+[FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIPS
+
+[Redactable Blockchain Based on Decentralized Trapdoor Verifiable Delay Functions](https://ieeexplore.ieee.org/document/10605835) - TIPS
+
+[Controlled Redactable Blockchain Based on T-Times Chameleon Hash and Signature](https://ieeexplore.ieee.org/document/10620354) - TIPS
+
 [Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
 **[Scalability]** 
@@ -81,6 +99,16 @@ A List of Academic Blockchain Papers
 [Anonymous Multi-Hop Payment for Payment Channel Networks](https://ieeexplore.ieee.org/document/10083241) - TDSC
 
 [monoCash: A Channel-Free Payment Network via Trusted Monotonic Counters](https://ieeexplore.ieee.org/document/10416274) - TDSC
+
+[CHERUBIM: A Secure and Highly Parallel Cross-Shard Consensus Using Quadruple Pipelined Two-Phase Commit for Sharding Blockchains](https://ieeexplore.ieee.org/document/10415090) - TIPS
+
+[Secret Multiple Leaders & Committee Election With Application to Sharding Blockchain](https://ieeexplore.ieee.org/document/10504302) - TIPS
+
+[A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management](https://ieeexplore.ieee.org/document/10539974) - TIPS
+
+[SAMCU: Secure and Anonymous Multi-Channel Updates in Payment Channel Networks](https://ieeexplore.ieee.org/document/10654379) - TIPS
+
+[Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus](https://ieeexplore.ieee.org/document/10679169) - TIPS 
 
 
 **[Security]** 
@@ -167,6 +195,20 @@ A List of Academic Blockchain Papers
 
 [Privacy-Preserving Anomaly Detection of Encrypted Smart Contract for Blockchain-Based Data Trading](https://ieeexplore.ieee.org/document/10399833) - TDSC
 
+[EVM-Shield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention](https://ieeexplore.ieee.org/document/10380598) - TIPS
+
+[Quantum-Safe Puncturable Signatures With Their Application in Blockchain](https://ieeexplore.ieee.org/document/10388409) - TIPS
+
+[Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIPS
+
+[Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIPS
+
+[Proof of Finalization: A Self-Fulfilling Function of Blockchain](https://ieeexplore.ieee.org/document/10654323) - TIPS
+
+[Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-Based Large Scale Blockchain With the Aid of Multiple Types of Attacks](https://ieeexplore.ieee.org/document/10644062) - TIPS
+
+[Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIPS
+
 **[Zero-Knowledge Proof]**
 
 [Efficient Zero-Knowledge Arguments For Paillier Cryptosystem](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a093/1Ub231Cm86s) - S&P
@@ -250,6 +292,20 @@ A List of Academic Blockchain Papers
 [A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction](https://ieeexplore.ieee.org/document/10404008) - TDSC
 
 [Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
+
+[MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIPS
+
+[Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIPS
+
+[Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIPS
+
+[Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIPS
+
+[Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIPS
+
+[Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIPS
+
+[BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIPS
 
 ---
 ### 2023
