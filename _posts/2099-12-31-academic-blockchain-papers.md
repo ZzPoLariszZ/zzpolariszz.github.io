@@ -24,7 +24,7 @@ Specific Conferences: FC, ICBC, AFT
 Included Journals: TDSC, TIPS
 
 ---
-🌟🌟🌟, 🌟🌟, 🌟: Interest Level
+🌟: Interest Level
 
 ✅: Read with Note
 
