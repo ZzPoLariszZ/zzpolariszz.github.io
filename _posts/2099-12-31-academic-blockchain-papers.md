@@ -25,7 +25,9 @@ Included Journals: TDSC, TIPS
 
 ---
 🌟🌟🌟, 🌟🌟, 🌟: Interest Level
+
 ✅: Read with Note
+
 ❌: Skipped Paper
 
 ---
