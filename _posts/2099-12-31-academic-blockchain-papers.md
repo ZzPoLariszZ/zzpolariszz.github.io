@@ -24,11 +24,11 @@ Specific Conferences: FC, ICBC, AFT
 Included Journals: TDSC, TIPS
 
 ---
-🌟: Interest Level
+🌟 : Interest Level
 
-✅: Read with Note
+✅ : Read with Note
 
-❌: Skipped Paper
+❌ : Skipped Paper
 
 ---
 ### 2024
@@ -41,13 +41,13 @@ Included Journals: TDSC, TIPS
 
 🌟🌟🌟 [SoK: Security and Privacy of Blockchain Interoperability](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a234/1WPcYVyZLWw) - S&P
 
-[Sweep-UC: Swapping Coins Privately](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a081/1RjEaPOsrde) - S&P
+🌟🌟🌟 [Sweep-UC: Swapping Coins Privately](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a081/1RjEaPOsrde) - S&P
 
 [Atomic and Fair Data Exchange via Blockchain]() - CCS
 
 🌟🌟🌟 [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-yihao) - USENIX
 
-[Sidechains With Optimally Succinct Proof](https://ieeexplore.ieee.org/document/10301610) - TDSC
+🌟🌟 [Sidechains With Optimally Succinct Proof](https://ieeexplore.ieee.org/document/10301610) - TDSC
 
 [IvyRedaction: Enabling Atomic, Consistent and Accountable Cross-Chain Rewriting](https://ieeexplore.ieee.org/document/10342807) - TDSC
 
@@ -61,15 +61,15 @@ Included Journals: TDSC, TIPS
 
 [Blind Multi-Signatures for Anonymous Tokens with Decentralized Issuance and Public Verifiability]() - CCS
 
-[Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity24/presentation/choudhuri) - USENIX
+🌟🌟 [Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity24/presentation/choudhuri) - USENIX
 
 🌟🌟🌟 [GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva) - USENIX
 
-[Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
+🌟 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
-[Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
+🌟 [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
 
-[Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
+🌟🌟🌟 [Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
 
 🌟🌟🌟 [Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
@@ -77,7 +77,7 @@ Included Journals: TDSC, TIPS
 
 [Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
 
-[PrivData Network: A Privacy-Preserving On-Chain Data Factory and Trading Market]() - TDSC
+[PrivData Network: A Privacy-Preserving On-Chain Data Factory and Trading Market](https://ieeexplore.ieee.org/document/10147243) - TDSC
 
 [SPCEX: Secure and Privacy-Preserving Cryptocurrency Exchange](https://ieeexplore.ieee.org/document/10398514) - TDSC
 
@@ -89,7 +89,7 @@ Included Journals: TDSC, TIPS
 
 [Exploring Unobservable Blockchain-Based Covert Channel for Censorship-Resistant Systems](https://ieeexplore.ieee.org/document/10418190) - TIPS
 
-[BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIPS
+🌟🌟 [BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIPS
 
 🌟🌟🌟 [Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIPS
 
@@ -103,13 +103,11 @@ Included Journals: TDSC, TIPS
 
 [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a171/1V5U7c5x1Li) - S&P
 
-[Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
-
-[Sui Lutris: A Blockchain Combining Broadcast and Consensus]() - CCS
+🌟 [Sui Lutris: A Blockchain Combining Broadcast and Consensus]() - CCS
 
 [High-Throughput Three-Party DPFs with Applications to ORAM and Digital Currencies]() - CCS
 
-[Reckle Trees: Updatable Merkle Batch Proofs with Applications]() - CCS
+🌟🌟 [Reckle Trees: Updatable Merkle Batch Proofs with Applications]() - CCS
 
 [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](https://www.ndss-symposium.org/ndss-paper/front-running-attack-in-sharded-blockchains-and-fair-cross-shard-consensus/) - NDSS
 
@@ -117,7 +115,7 @@ Included Journals: TDSC, TIPS
 
 [Advancing Web 3.0: Making Smart Contracts Smarter on Blockchain](https://dl.acm.org/doi/10.1145/3589334.3645319) - WWW
 
-[Anonymous Multi-Hop Payment for Payment Channel Networks](https://ieeexplore.ieee.org/document/10083241) - TDSC
+🌟🌟 [Anonymous Multi-Hop Payment for Payment Channel Networks](https://ieeexplore.ieee.org/document/10083241) - TDSC
 
 [monoCash: A Channel-Free Payment Network via Trusted Monotonic Counters](https://ieeexplore.ieee.org/document/10416274) - TDSC
 
@@ -267,6 +265,8 @@ Included Journals: TDSC, TIPS
 [Efficient Zero-Knowledge Arguments For Paillier Cryptosystem](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a093/1Ub231Cm86s) - S&P
 
 [Scalable Verification of Zero-Knowledge Protocols](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a133/1Ub23QzVaWA) - S&P
+
+[Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
 
 [SwiftRange: A Short and Efficient Zero-Knowledge Range Argument For Confidential Transactions and More](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a054/1RjEatoqLfi) - S&P
 
