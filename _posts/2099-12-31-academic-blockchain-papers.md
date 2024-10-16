@@ -134,7 +134,7 @@ Included Journals: TDSC, TIPS
 
 [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a109/1Ub23heRtUA) - S&P
 
-[Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a156/1Ub24dUICVq) - S&P
+🌟🌟 [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a156/1Ub24dUICVq) - S&P
 
 [Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a125/1Ub23FE54kw) - S&P
 
@@ -146,7 +146,7 @@ Included Journals: TDSC, TIPS
 
 [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a240/1WPcYZSX6Jq) - S&P
 
-[Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a209/1WPcYBjemv6) - S&P
+🌟🌟 [Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a209/1WPcYBjemv6) - S&P
 
 [Towards Smart Contract Fuzzing on GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a195/1WPcYmDLzKo) - S&P
 
@@ -168,25 +168,21 @@ Included Journals: TDSC, TIPS
 
 [Securing Lightning Channels against Rational Miners]() - CCS
 
-[Characterizing Ethereum Address Poisoning Attack]() - CCS
+🌟🌟 [Characterizing Ethereum Address Poisoning Attack]() - CCS
 
 [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]() - CCS
 
-[TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() - CCS
+🌟🌟 [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() - CCS
 
 [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]() - CCS
 
 [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back]() - CCS
 
-[Characterizing Ethereum Address Poisoning Attack]() - CCS
-
-[Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]() - CCS
-
-[Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
+🌟🌟🌟 [Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
 
 [Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus](https://www.usenix.org/conference/usenixsecurity24/presentation/wei-jianghong) - USENIX
 
-[Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo) - USENIX
+🌟 [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo) - USENIX
 
 [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-tianle) - USENIX
 
@@ -202,29 +198,29 @@ Included Journals: TDSC, TIPS
 
 [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/) - NDSS
 
-[Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/11/Smart-Contract-and-DeFi-Security-Tools-Do-They-Meet-the-Needs-of-Practitioners-) - ICSE
+[Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://dl.acm.org/doi/10.1145/3597503.3623302) - ICSE
 
-[PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/36/PonziGuard-Detecting-Ponzi-Schemes-on-Ethereum-with-Contract-Runtime-Behavior-Graph-) - ICSE
+[PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://dl.acm.org/doi/10.1145/3597503.3623318) - ICSE
 
-[Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/53/Revealing-Hidden-Threats-An-Empirical-Study-of-Library-Misuse-in-Smart-Contracts) - ICSE
+[Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3623335) - ICSE
 
-[Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/152/Are-We-There-Yet-Unraveling-the-State-of-the-Art-Smart-Contract-Fuzzers) - ICSE
+[Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://dl.acm.org/doi/10.1145/3597503.3639152) - ICSE
 
-[When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/130/When-Contracts-Meets-Crypto-Exploring-Developers-Struggles-with-Ethereum-Cryptograp) - ICSE
+[When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs](https://dl.acm.org/doi/10.1145/3597503.3639131) - ICSE
 
-[Towards Finding Accounting Errors in Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/127/Towards-Finding-Accounting-Errors-in-Smart-Contracts) - ICSE
+[Towards Finding Accounting Errors in Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3639128) - ICSE
 
-[FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/190/FlashSyn-Flash-Loan-Attack-Synthesis-via-Counter-Example-Driven-Approximation) - ICSE
+[FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation](https://dl.acm.org/doi/10.1145/3597503.3639190) - ICSE
 
-[GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/114/GPTScan-Detecting-Logic-Vulnerabilities-in-Smart-Contracts-by-Combining-GPT-with-Pro) - ICSE
+[GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/10.1145/3597503.3639117) - ICSE
 
-[PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/140/PrettySmart-Detecting-Permission-Re-delegation-Vulnerability-for-Token-Behaviors-in-) - ICSE
+[PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3639140) - ICSE
 
-[SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/213/SCVHunter-Smart-Contract-Vulnerability-Detection-Based-on-Heterogeneous-Graph-Attent) - ICSE
+[SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network](https://dl.acm.org/doi/10.1145/3597503.3639213) - ICSE
 
-[Safeguarding DeFi Smart Contracts against Oracle Deviations](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/225/Safeguarding-DeFi-Smart-Contracts-against-Oracle-Deviations) - ICSE
+[Safeguarding DeFi Smart Contracts against Oracle Deviations](https://dl.acm.org/doi/10.1145/3597503.3639225) - ICSE
 
-[Verifying Declarative Smart Contracts](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/203/Verifying-Declarative-Smart-Contracts) - ICSE
+[Verifying Declarative Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3639203) - ICSE
 
 [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets](https://dl.acm.org/doi/10.1145/3589334.3645348) - WWW
 
