@@ -194,13 +194,13 @@ Included Journals: TDSC, TIPS
 
 [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://www.ndss-symposium.org/ndss-paper/abusing-the-ethereum-smart-contract-verification-services-for-fun-and-profit/) - NDSS
 
-[DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/ndss-paper/drainclog-detecting-rogue-accounts-with-illegally-obtained-nfts-using-classifiers-learned-on-graphs/) - NDSS
+🌟🌟 [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/ndss-paper/drainclog-detecting-rogue-accounts-with-illegally-obtained-nfts-using-classifiers-learned-on-graphs/) - NDSS
 
 [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/) - NDSS
 
 [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://dl.acm.org/doi/10.1145/3597503.3623302) - ICSE
 
-[PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://dl.acm.org/doi/10.1145/3597503.3623318) - ICSE
+🌟🌟 [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://dl.acm.org/doi/10.1145/3597503.3623318) - ICSE
 
 [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3623335) - ICSE
 
@@ -222,7 +222,7 @@ Included Journals: TDSC, TIPS
 
 [Verifying Declarative Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3639203) - ICSE
 
-[Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets](https://dl.acm.org/doi/10.1145/3589334.3645348) - WWW
+🌟🌟 [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets](https://dl.acm.org/doi/10.1145/3589334.3645348) - WWW
 
 [ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain](https://dl.acm.org/doi/10.1145/3589334.3645352) - WWW
 
@@ -246,7 +246,7 @@ Included Journals: TDSC, TIPS
 
 [Quantum-Safe Puncturable Signatures With Their Application in Blockchain](https://ieeexplore.ieee.org/document/10388409) - TIPS
 
-[Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIPS
+🌟🌟 [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIPS
 
 [Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIPS
 
@@ -254,7 +254,7 @@ Included Journals: TDSC, TIPS
 
 [Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-Based Large Scale Blockchain With the Aid of Multiple Types of Attacks](https://ieeexplore.ieee.org/document/10644062) - TIPS
 
-[Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIPS
+🌟🌟 [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIPS
 
 **[Zero-Knowledge Proof]**
 
@@ -316,51 +316,49 @@ Included Journals: TDSC, TIPS
 
 [HCA: Hashchain-Based Consensus Acceleration Via Re-Voting](https://ieeexplore.ieee.org/document/10083306) - TDSC
 
-[Outsourced Privately Verifiable Proofs of Retrievability via Blockchain](https://ieeexplore.ieee.org/document/10149394) - TDSC
+❌ [Outsourced Privately Verifiable Proofs of Retrievability via Blockchain](https://ieeexplore.ieee.org/document/10149394) - TDSC
 
-[Dynamic Range Query Privacy-Preserving Scheme for Blockchain-Enhanced Smart Grid Based on Lattice](https://ieeexplore.ieee.org/document/10158917) - TDSC
+❌ [Dynamic Range Query Privacy-Preserving Scheme for Blockchain-Enhanced Smart Grid Based on Lattice](https://ieeexplore.ieee.org/document/10158917) - TDSC
 
-[Smart Contract Assisted Privacy-Preserving Data Aggregation and Management Scheme for Smart Grid](https://ieeexplore.ieee.org/document/10198760) - TDSC
+❌ [Smart Contract Assisted Privacy-Preserving Data Aggregation and Management Scheme for Smart Grid](https://ieeexplore.ieee.org/document/10198760) - TDSC
 
 [D-LNBot: A Scalable, Cost-Free and Covert Hybrid Botnet on Bitcoin's Lightning Network](https://ieeexplore.ieee.org/document/10198749) - TDSC
 
 [Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains](https://ieeexplore.ieee.org/document/10230315) - TDSC
 
-[Secure and Scalable Cross-Domain Data Sharing in Zero-Trust Cloud-Edge-End Environment Based on Sharding Blockchain](https://ieeexplore.ieee.org/document/10246351) - TDSC
+❌ [Secure and Scalable Cross-Domain Data Sharing in Zero-Trust Cloud-Edge-End Environment Based on Sharding Blockchain](https://ieeexplore.ieee.org/document/10246351) - TDSC
 
 [Obfuscating Verifiable Random Functions for Proof-of-Stake Blockchains](https://ieeexplore.ieee.org/document/10268576) - TDSC
 
-[CrowdFAB: Intelligent Crowd-Forecasting Using Blockchains and its Use in Security](https://ieeexplore.ieee.org/document/10271718) - TDSC
+❌ [CrowdFAB: Intelligent Crowd-Forecasting Using Blockchains and its Use in Security](https://ieeexplore.ieee.org/document/10271718) - TDSC
 
 [NANO: Cryptographic Enforcement of Readability and Editability Governance in Blockchain Databases](https://ieeexplore.ieee.org/document/10309206) - TDSC
 
-[Blockchain-Based Shared Data Integrity Auditing and Deduplication](https://ieeexplore.ieee.org/document/10330075) - TDSC
+❌ [Blockchain-Based Shared Data Integrity Auditing and Deduplication](https://ieeexplore.ieee.org/document/10330075) - TDSC
 
-[Blockchain-Based Compact Verifiable Data Streaming With Self-Auditing](https://ieeexplore.ieee.org/document/10347508) - TDSC
+❌ [Blockchain-Based Compact Verifiable Data Streaming With Self-Auditing](https://ieeexplore.ieee.org/document/10347508) - TDSC
 
-[DSChain: A Blockchain System for Complete Lifecycle Security of Data in Internet of Things](https://ieeexplore.ieee.org/document/10354045) - TDSC
-
-[Outsourced Privately Verifiable Proofs of Retrievability via Blockchain](https://ieeexplore.ieee.org/document/10149394) - TDSC
+❌ [DSChain: A Blockchain System for Complete Lifecycle Security of Data in Internet of Things](https://ieeexplore.ieee.org/document/10354045) - TDSC
 
 [A Blockchain-Based Secure Covert Communication Method via Shamir Threshold and STC Mapping](https://ieeexplore.ieee.org/document/10398427) - TDSC
 
-[A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction](https://ieeexplore.ieee.org/document/10404008) - TDSC
+❌ [A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction](https://ieeexplore.ieee.org/document/10404008) - TDSC
 
-[Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
+❌ [Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
 
-[MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIPS
+❌ [MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIPS
 
-[Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIPS
+❌ [Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIPS
 
-[Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIPS
+❌ [Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIPS
 
-[Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIPS
+❌ [Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIPS
 
-[Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIPS
+❌ [Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIPS
 
-[Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIPS
+❌ [Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIPS
 
-[BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIPS
+❌ [BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIPS
 
 ---
 ### 2023
