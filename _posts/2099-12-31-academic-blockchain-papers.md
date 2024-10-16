@@ -19,9 +19,9 @@ Top 4 Conferences: S&P, CCS, USENIX, NDSS
 
 Other Conferences: PETS, ICSE, WWW
 
-Specific Conferences: FC, ICBC, AFT
+Specific Conferences: DLT, FC, ICBC, AFT
 
-Included Journals: TDSC, TIPS
+Included Journals: TDSC, TIFS
 
 ---
 🌟 : Interest Level
@@ -35,13 +35,13 @@ Included Journals: TDSC, TIPS
 
 🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
-35 Papers (till Issue 5) Accepted TDSC + 27 Papers (till Volume 9) Accepted by TIPS
+35 Papers (till Issue 5) Accepted TDSC + 27 Papers (till Volume 19) Accepted by TIFS
 
 **[Interoperability]**  
 
-🌟🌟🌟 [SoK: Security and Privacy of Blockchain Interoperability](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a234/1WPcYVyZLWw) - S&P
+🌟🌟🌟 [SoK: Security and Privacy of Blockchain Interoperability](https://ieeexplore.ieee.org/document/10646648) - S&P
 
-🌟🌟🌟 [Sweep-UC: Swapping Coins Privately](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a081/1RjEaPOsrde) - S&P
+🌟🌟🌟 [Sweep-UC: Swapping Coins Privately](https://ieeexplore.ieee.org/document/10646880) - S&P
 
 [Atomic and Fair Data Exchange via Blockchain]() - CCS
 
@@ -51,7 +51,7 @@ Included Journals: TDSC, TIPS
 
 [IvyRedaction: Enabling Atomic, Consistent and Accountable Cross-Chain Rewriting](https://ieeexplore.ieee.org/document/10342807) - TDSC
 
-[Reinventing Multi-User Authentication Security From Cross-Chain Perspective](https://ieeexplore.ieee.org/document/10683773) - TIPS 
+[Reinventing Multi-User Authentication Security From Cross-Chain Perspective](https://ieeexplore.ieee.org/document/10683773) - TIFS 
 
 **[Privacy]** 
 
@@ -85,19 +85,19 @@ Included Journals: TDSC, TIPS
 
 [Solution Probing Attack Against Coin Mixing Based Privacy-Preserving Crowdsourcing Platforms](https://ieeexplore.ieee.org/document/10404041) - TDSC
 
-[PRBFPT: A Practical Redactable Blockchain Framework With a Public Trapdoor](https://ieeexplore.ieee.org/document/10380599) - TIPS
+[PRBFPT: A Practical Redactable Blockchain Framework With a Public Trapdoor](https://ieeexplore.ieee.org/document/10380599) - TIFS
 
-[Exploring Unobservable Blockchain-Based Covert Channel for Censorship-Resistant Systems](https://ieeexplore.ieee.org/document/10418190) - TIPS
+[Exploring Unobservable Blockchain-Based Covert Channel for Censorship-Resistant Systems](https://ieeexplore.ieee.org/document/10418190) - TIFS
 
-🌟🌟 [BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIPS
+🌟🌟 [BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIFS
 
-🌟🌟🌟 [Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIPS
+🌟🌟🌟 [Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIFS
 
-[FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIPS
+[FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIFS
 
-[Redactable Blockchain Based on Decentralized Trapdoor Verifiable Delay Functions](https://ieeexplore.ieee.org/document/10605835) - TIPS
+[Redactable Blockchain Based on Decentralized Trapdoor Verifiable Delay Functions](https://ieeexplore.ieee.org/document/10605835) - TIFS
 
-[Controlled Redactable Blockchain Based on T-Times Chameleon Hash and Signature](https://ieeexplore.ieee.org/document/10620354) - TIPS
+[Controlled Redactable Blockchain Based on T-Times Chameleon Hash and Signature](https://ieeexplore.ieee.org/document/10620354) - TIFS
 
 **[Scalability]** 
 
@@ -119,15 +119,15 @@ Included Journals: TDSC, TIPS
 
 [monoCash: A Channel-Free Payment Network via Trusted Monotonic Counters](https://ieeexplore.ieee.org/document/10416274) - TDSC
 
-[CHERUBIM: A Secure and Highly Parallel Cross-Shard Consensus Using Quadruple Pipelined Two-Phase Commit for Sharding Blockchains](https://ieeexplore.ieee.org/document/10415090) - TIPS
+[CHERUBIM: A Secure and Highly Parallel Cross-Shard Consensus Using Quadruple Pipelined Two-Phase Commit for Sharding Blockchains](https://ieeexplore.ieee.org/document/10415090) - TIFS
 
-[Secret Multiple Leaders & Committee Election With Application to Sharding Blockchain](https://ieeexplore.ieee.org/document/10504302) - TIPS
+[Secret Multiple Leaders & Committee Election With Application to Sharding Blockchain](https://ieeexplore.ieee.org/document/10504302) - TIFS
 
-[A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management](https://ieeexplore.ieee.org/document/10539974) - TIPS
+[A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management](https://ieeexplore.ieee.org/document/10539974) - TIFS
 
-[SAMCU: Secure and Anonymous Multi-Channel Updates in Payment Channel Networks](https://ieeexplore.ieee.org/document/10654379) - TIPS
+[SAMCU: Secure and Anonymous Multi-Channel Updates in Payment Channel Networks](https://ieeexplore.ieee.org/document/10654379) - TIFS
 
-[Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus](https://ieeexplore.ieee.org/document/10679169) - TIPS 
+[Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus](https://ieeexplore.ieee.org/document/10679169) - TIFS 
 
 
 **[Security]** 
@@ -242,19 +242,19 @@ Included Journals: TDSC, TIPS
 
 [Privacy-Preserving Anomaly Detection of Encrypted Smart Contract for Blockchain-Based Data Trading](https://ieeexplore.ieee.org/document/10399833) - TDSC
 
-[EVM-Shield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention](https://ieeexplore.ieee.org/document/10380598) - TIPS
+[EVM-Shield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention](https://ieeexplore.ieee.org/document/10380598) - TIFS
 
-[Quantum-Safe Puncturable Signatures With Their Application in Blockchain](https://ieeexplore.ieee.org/document/10388409) - TIPS
+[Quantum-Safe Puncturable Signatures With Their Application in Blockchain](https://ieeexplore.ieee.org/document/10388409) - TIFS
 
-🌟🌟 [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIPS
+🌟🌟 [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIFS
 
-[Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIPS
+[Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIFS
 
-[Proof of Finalization: A Self-Fulfilling Function of Blockchain](https://ieeexplore.ieee.org/document/10654323) - TIPS
+[Proof of Finalization: A Self-Fulfilling Function of Blockchain](https://ieeexplore.ieee.org/document/10654323) - TIFS
 
-[Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-Based Large Scale Blockchain With the Aid of Multiple Types of Attacks](https://ieeexplore.ieee.org/document/10644062) - TIPS
+[Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-Based Large Scale Blockchain With the Aid of Multiple Types of Attacks](https://ieeexplore.ieee.org/document/10644062) - TIFS
 
-🌟🌟 [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIPS
+🌟🌟 [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIFS
 
 **[Zero-Knowledge Proof]**
 
@@ -346,19 +346,19 @@ Included Journals: TDSC, TIPS
 
 ❌ [Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
 
-❌ [MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIPS
+❌ [MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIFS
 
-❌ [Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIPS
+❌ [Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIFS
 
-❌ [Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIPS
+❌ [Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIFS
 
-❌ [Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIPS
+❌ [Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIFS
 
-❌ [Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIPS
+❌ [Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIFS
 
-❌ [Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIPS
+❌ [Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIFS
 
-❌ [BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIPS
+❌ [BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIFS
 
 ---
 ### 2023
