@@ -101,7 +101,7 @@ Included Journals: TDSC, TIFS
 
 **[Scalability]** 
 
-[Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a171/1V5U7c5x1Li) - S&P
+[Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://ieeexplore.ieee.org/document/10646707) - S&P
 
 🌟 [Sui Lutris: A Blockchain Combining Broadcast and Consensus]() - CCS
 
@@ -132,33 +132,33 @@ Included Journals: TDSC, TIFS
 
 **[Security]** 
 
-[Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a109/1Ub23heRtUA) - S&P
+[Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](https://ieeexplore.ieee.org/document/10646793) - S&P
 
-🌟🌟 [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a156/1Ub24dUICVq) - S&P
+🌟🌟 [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://ieeexplore.ieee.org/document/10646605) - S&P
 
-[Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a125/1Ub23FE54kw) - S&P
+[Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://ieeexplore.ieee.org/document/10646826) - S&P
 
-[Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a146/1Ub2446HQje) - S&P
+[Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](https://ieeexplore.ieee.org/document/10646603) - S&P
 
-[SMARTINV: Multimodal Learning for Smart Contract Invariant Inference](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a126/1Ub23GNTAeQ) - S&P
+[SMARTINV: Multimodal Learning for Smart Contract Invariant Inference](https://ieeexplore.ieee.org/document/10646885) - S&P
 
-[PriDe CT: Towards Public Consensus, Private Transactions, and Forward Secrecy in Decentralized Payments](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a179/1V28Z3Eg3p6) - S&P
+[PriDe CT: Towards Public Consensus, Private Transactions, and Forward Secrecy in Decentralized Payments](https://ieeexplore.ieee.org/document/10646828) - S&P
 
-[POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a240/1WPcYZSX6Jq) - S&P
+[POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://ieeexplore.ieee.org/document/10646773) - S&P
 
-🌟🌟 [Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a209/1WPcYBjemv6) - S&P
+🌟🌟 [Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://ieeexplore.ieee.org/document/10646813) - S&P
 
-[Towards Smart Contract Fuzzing on GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a195/1WPcYmDLzKo) - S&P
+[Towards Smart Contract Fuzzing on GPUs](https://ieeexplore.ieee.org/document/10646637) - S&P
 
-[Routing Attacks on Cryptocurrency Mining Pools](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a190/1WPcYj8kQ6Y) - S&P
+[Routing Attacks on Cryptocurrency Mining Pools](https://ieeexplore.ieee.org/document/10646806) - S&P
 
-[Larger-scale Nakamoto-style Blockchains Don’t Necessarily Offer Better Security](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a208/1WPcYAt0aze) - S&P
+[Larger-scale Nakamoto-style Blockchains Don’t Necessarily Offer Better Security](https://ieeexplore.ieee.org/document/10646744) - S&P
 
-[Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a220/1WPcYKIy2NG) - S&P
+[Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://ieeexplore.ieee.org/document/10646883) - S&P
 
-[Non-Atomic Arbitrage in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a224/1WPcYNItiZW) - S&P
+[Non-Atomic Arbitrage in Decentralized Finance](https://ieeexplore.ieee.org/document/10646836) - S&P
 
-[Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a017/1RjE9Uyjlok) - S&P
+[Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://ieeexplore.ieee.org/document/10646739) - S&P
 
 [Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network]() - CCS
 
@@ -258,19 +258,17 @@ Included Journals: TDSC, TIFS
 
 **[Zero-Knowledge Proof]**
 
-[Efficient Zero-Knowledge Arguments For Paillier Cryptosystem](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a093/1Ub231Cm86s) - S&P
+[Efficient Zero-Knowledge Arguments For Paillier Cryptosystem](https://ieeexplore.ieee.org/document/10646829) - S&P
 
-[Scalable Verification of Zero-Knowledge Protocols](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a133/1Ub23QzVaWA) - S&P
+[Scalable Verification of Zero-Knowledge Protocols](https://ieeexplore.ieee.org/document/10646792) - S&P
 
-[Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
+[Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://ieeexplore.ieee.org/document/10646741) - S&P
 
-[SwiftRange: A Short and Efficient Zero-Knowledge Range Argument For Confidential Transactions and More](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a054/1RjEatoqLfi) - S&P
+[SwiftRange: A Short and Efficient Zero-Knowledge Range Argument For Confidential Transactions and More](https://ieeexplore.ieee.org/document/10646857) - S&P
 
-[Certifying Zero-Knowledge Circuits with Refinement Types](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a078/1RjEaNkBQIg) - S&P
+[Certifying Zero-Knowledge Circuits with Refinement Types](https://ieeexplore.ieee.org/document/10646715) - S&P
 
-[Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a086/1RjEaU3iZEY) - S&P
-
-[Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a035/1RjEaaM09eU) - S&P
+[Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser](https://ieeexplore.ieee.org/document/10646776) - S&P
 
 [zkPi: Proving Lean Theorems in Zero-Knowledge]() - CCS
 
@@ -288,7 +286,7 @@ Included Journals: TDSC, TIFS
 
 **[Other]**
 
-[Optimal Flexible Consensus and its Application to Ethereum](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a135/1Ub23SzoGwE) - S&P
+[Optimal Flexible Consensus and its Application to Ethereum](https://ieeexplore.ieee.org/document/10646887) - S&P
 
 [Nakamoto Consensus under Bounded Processing Capacity]() - CCS
 
