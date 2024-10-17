@@ -435,6 +435,12 @@ Included Journals: TDSC, TIFS
 
 [Analyzing the Real-World Security of the Algorand Blockchain](https://dl.acm.org/doi/10.1145/3576915.3623167) - CCS
 
+[Panda: Security Analysis of Algorand Smart Contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/sun) - USENIX
+
+[Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell) - USENIX
+
+[The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) - USENIX
+
 [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
 
 **[Zero-Knowledge Proof]**
@@ -460,6 +466,10 @@ Included Journals: TDSC, TIFS
 [Demystifying DeFi MEV Activities in Flashbots Bundle](https://dl.acm.org/doi/10.1145/3576915.3616590) - CCS
 
 [CryptoConcurrency: (Almost) Consensusless Asset Transfer with Shared Accounts](https://dl.acm.org/doi/10.1145/3576915.3616587) - CCS
+
+[A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin) - USENIX
+
+[ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.usenix.org/conference/usenixsecurity23/presentation/park) - USENIX
 
 ---
 ### 2022
