@@ -17,7 +17,7 @@ A List of Academic Blockchain Papers
 
 Top 4 Conferences: S&P, CCS, USENIX, NDSS
 
-Other Conferences: PETS, ICSE, WWW
+Other Conferences: PETS, EuroS&P, ICSE, WWW
 
 Specific Conferences: DLT, FC, ICBC, AFT
 
@@ -198,6 +198,10 @@ Included Journals: TDSC, TIFS
 
 [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/) - NDSS
 
+[DISC-NG: Robust Service Discovery in the Ethereum Global Network](https://ieeexplore.ieee.org/document/10629017) - EuroS&P
+
+[Secure compilation of rich smart contracts on poor UTXO blockchains](https://ieeexplore.ieee.org/document/10629031) - EuroS&P
+
 [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://dl.acm.org/doi/10.1145/3597503.3623302) - ICSE
 
 🌟🌟 [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://dl.acm.org/doi/10.1145/3597503.3623318) - ICSE
@@ -301,6 +305,8 @@ Included Journals: TDSC, TIFS
 [Secure Multiparty Computation of Threshold Signatures Made More Efficient](https://www.ndss-symposium.org/ndss-paper/secure-multiparty-computation-of-threshold-signatures-made-more-efficient/) - NDSS
 
 [Separation is Good: A Faster Order-Fairness Byzantine Consensus](https://www.ndss-symposium.org/ndss-paper/separation-is-good-a-faster-order-fairness-byzantine-consensus/) - NDSS
+
+[chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets](https://ieeexplore.ieee.org/document/10629025) - EuroS&P
 
 [BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated Learning Framework](https://dl.acm.org/doi/10.1145/3589334.3645425) - WWW
 
