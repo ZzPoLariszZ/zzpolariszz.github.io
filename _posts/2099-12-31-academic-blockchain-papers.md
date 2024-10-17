@@ -455,6 +455,8 @@ Included Journals: TDSC, TIFS
 
 [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/ndss-paper/partitioning-ethereum-without-eclipsing-it/) - NDSS
 
+[EF↯CF: High Performance Smart Contract Fuzzing for Exploit Generation](https://ieeexplore.ieee.org/document/10190543) - EuroS&P
+
 [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
 
 **[Zero-Knowledge Proof]**
