@@ -367,6 +367,8 @@ Included Journals: TDSC, TIFS
 
 🔥 ***<span style="color:Red"><u>46</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
+34 Papers Accepted TDSC + 
+
 **[Interoperability]** 
 
 [LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
@@ -391,6 +393,18 @@ Included Journals: TDSC, TIFS
 
 [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
 
+[UCoin: An Efficient Privacy Preserving Scheme for Cryptocurrencies](https://ieeexplore.ieee.org/document/9627814) - TDSC
+
+[HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain](https://ieeexplore.ieee.org/document/9645273) - TDSC
+
+[Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment](https://ieeexplore.ieee.org/document/9693200) - TDSC
+
+[SofitMix: A Secure Offchain-Supported Bitcoin-Compatible Mixing Protocol](https://ieeexplore.ieee.org/document/9917298) - TDSC
+
+[ACA: Anonymous, Confidential and Auditable Transaction Systems for Blockchain](https://ieeexplore.ieee.org/document/9980409) - TDSC
+
+[Improving Cryptocurrency Crime Detection: CoinJoin Community Detection Approach](https://ieeexplore.ieee.org/document/10023950) - TDSC
+
 [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
 
 [Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
@@ -400,6 +414,12 @@ Included Journals: TDSC, TIFS
 [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://ieeexplore.ieee.org/document/10179427) - S&P
 
 [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/) - NDSS
+
+[Boros: Secure and Efficient Off-Blockchain Transactions via Payment Channel Hub](https://ieeexplore.ieee.org/document/9650737) - TDSC
+
+[CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/document/9705551) - TDSC
+
+[A Distributed and Privacy-Aware High-Throughput Transaction Scheduling Approach for Scaling Blockchain](https://ieeexplore.ieee.org/document/9927465) - TDSC
 
 **[Security]** 
 
@@ -475,6 +495,14 @@ Included Journals: TDSC, TIFS
 
 [Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems](https://dl.acm.org/doi/10.1145/3543507.3583393) - WWW
 
+[ExGen: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities](https://ieeexplore.ieee.org/document/9674230) - TDSC
+
+[Lightweight and Identifier-Oblivious Engine for Cryptocurrency Networking Anomaly Detection](https://ieeexplore.ieee.org/document/9720221) - TDSC
+
+[Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid](https://ieeexplore.ieee.org/document/9864250) - TDSC
+
+[Crystal: Enhancing Blockchain Mining Transparency With Quorum Certificate](https://ieeexplore.ieee.org/document/9927474) - TDSC
+
 **[Zero-Knowledge Proof]**
 
 [zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://ieeexplore.ieee.org/document/10179430) - S&P
@@ -482,6 +510,12 @@ Included Journals: TDSC, TIFS
 [Ou: Automating the Parallelization of Zero-Knowledge Protocols](https://dl.acm.org/doi/10.1145/3576915.3616621) - CCS
 
 [Recursion over Public-Coin Interactive Proof Systems; Faster Hash Verification](https://dl.acm.org/doi/10.1145/3576915.3623078) - CCS
+
+[zk-AuthFeed: Protecting Data Feed to Smart Contracts With Authenticated Zero Knowledge Proof](https://ieeexplore.ieee.org/document/9720191) - TDSC
+
+[SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions](https://ieeexplore.ieee.org/document/9786741) - TDSC
+
+[Circom: A Circuit Description Language for Building Zero-Knowledge Applications](https://ieeexplore.ieee.org/document/10002421) - TDSC
 
 **[Other]**
 
@@ -512,6 +546,42 @@ Included Journals: TDSC, TIFS
 [Is IPFS Ready for Decentralized Video Streaming?](https://dl.acm.org/doi/10.1145/3543507.3583404) - WWW
 
 [PipeEdge: A Trusted Pipelining Collaborative Edge Training based on Blockchain](https://dl.acm.org/doi/10.1145/3543507.3583413) - WWW
+
+[Eunomia: Anonymous and Secure Vehicular Digital Forensics Based on Blockchain](https://ieeexplore.ieee.org/document/9627586) - TDSC
+
+[Towards Practical Auditing of Dynamic Data in Decentralized Storage](https://ieeexplore.ieee.org/document/9681281) - TDSC
+
+[HIBEChain: A Hierarchical Identity-Based Blockchain System for Large-Scale IoT](https://ieeexplore.ieee.org/document/9718188) - TDSC
+
+[BPPS:Blockchain-Enabled Privacy-Preserving Scheme for Demand-Response Management in Smart Grid Environments](https://ieeexplore.ieee.org/document/9744547) - TDSC
+
+[EBCPA: Efficient Blockchain-Based Conditional Privacy-Preserving Authentication for VANETs](https://ieeexplore.ieee.org/document/9749919) - TDSC
+
+[Towards Public Verifiable and Forward-Privacy Encrypted Search by Using Blockchain](https://ieeexplore.ieee.org/document/9772317) - TDSC
+
+[Blockchain-Based Transparency Framework for Privacy Preserving Third-Party Services](https://ieeexplore.ieee.org/document/9787357) - TDSC
+
+[Nereus: Anonymous and Secure Ride-Hailing Service Based on Private Smart Contracts](https://ieeexplore.ieee.org/document/9833306) - TDSC
+
+[Astraea: Anonymous and Secure Auditing Based on Private Smart Contracts for Donation Systems](https://ieeexplore.ieee.org/document/9878045) - TDSC
+
+[Leveraging Smart Contracts for Secure and Asynchronous Group Key Exchange Without Trusted Third Party](https://ieeexplore.ieee.org/document/9827566) - TDSC
+
+[AGAPECert: An Auditable, Generalized, Automated, Privacy-Enabling Certification Framework With Oblivious Smart Contracts](https://ieeexplore.ieee.org/document/9835131) - TDSC
+
+[On Nxt Proof of Stake Algorithm: A Simulation Study](https://ieeexplore.ieee.org/document/9837462) - TDSC
+
+[Go-Sharing: A Blockchain-Based Privacy-Preserving Framework for Cross-Social Network Photo Sharing](https://ieeexplore.ieee.org/document/9901505) - TDSC
+
+[Fair Cloud Auditing Based on Blockchain for Resource-Constrained IoT Devices](https://ieeexplore.ieee.org/document/9894068) - TDSC
+
+[Black Swan in Blockchain: Micro Analysis of Natural Forking](https://ieeexplore.ieee.org/document/9939093) - TDSC
+
+[iQuery: A Trustworthy and Scalable Blockchain Analytics Platform](https://ieeexplore.ieee.org/document/9983476) - TDSC
+
+[Privacy-Preserving Decision-Making Over Blockchain](https://ieeexplore.ieee.org/document/9996149) - TDSC
+
+[Blockchain-Based Deduplication and Integrity Auditing Over Encrypted Cloud Storage](https://ieeexplore.ieee.org/document/10018273) - TDSC
 
 ---
 ### 2022
