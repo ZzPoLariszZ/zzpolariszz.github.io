@@ -385,15 +385,15 @@ Included Journals: TDSC, TIFS
 
 [Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage](https://dl.acm.org/doi/10.1145/3576915.3623094) - CCS
 
-[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
-
-[Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
-
-[On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
-
 [Act Natural: Exchanging Private Messages on Public Blockchains](https://ieeexplore.ieee.org/document/10190519) - EuroS&P
 
 [Revelio: A Network-Level Privacy Attack in the Lightning Network](https://ieeexplore.ieee.org/document/10190502) - EuroS&P
+
+[On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
+
+[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
+
+[Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
 
 **[Scalability]** 
 
@@ -467,6 +467,14 @@ Included Journals: TDSC, TIFS
 
 [Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum](https://ieeexplore.ieee.org/document/10172623) - ICSE
 
+[Do NFTs' Owners Really Possess their Assets? A First Look at the NFT-to-Asset Connection Fragility](https://dl.acm.org/doi/10.1145/3543507.3583281) - WWW
+
+[BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://dl.acm.org/doi/10.1145/3543507.3583345) - WWW
+
+[Cross-Modality Mutual Learning for Enhancing Smart Contract Vulnerability Detection on Bytecode](https://dl.acm.org/doi/10.1145/3543507.3583367) - WWW
+
+[Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems](https://dl.acm.org/doi/10.1145/3543507.3583393) - WWW
+
 **[Zero-Knowledge Proof]**
 
 [zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://ieeexplore.ieee.org/document/10179430) - S&P
@@ -496,6 +504,14 @@ Included Journals: TDSC, TIFS
 [ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.usenix.org/conference/usenixsecurity23/presentation/park) - USENIX
 
 [Smartmark: Software Watermarking Scheme for Smart Contracts](https://ieeexplore.ieee.org/document/10172692) - ICSE
+
+[Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction](https://dl.acm.org/doi/10.1145/3543507.3583520) - WWW
+
+[Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://dl.acm.org/doi/10.1145/3543507.3583537) - WWW
+
+[Is IPFS Ready for Decentralized Video Streaming?](https://dl.acm.org/doi/10.1145/3543507.3583404) - WWW
+
+[PipeEdge: A Trusted Pipelining Collaborative Edge Training based on Blockchain](https://dl.acm.org/doi/10.1145/3543507.3583413) - WWW
 
 ---
 ### 2022
