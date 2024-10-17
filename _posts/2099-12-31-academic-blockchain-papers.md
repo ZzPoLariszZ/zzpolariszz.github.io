@@ -377,8 +377,6 @@ Included Journals: TDSC, TIFS
 
 [Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
 
-[POSE: Practical Off-chain Smart Contract Execution](https://www.ndss-symposium.org/ndss2023/accepted-papers/) - NDSS
-
 [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
 
 [Cross-Chain Virtual Payment Channels](https://ieeexplore.ieee.org/document/10138461) - TIFS
@@ -424,6 +422,8 @@ Included Journals: TDSC, TIFS
 **[Scalability]** 
 
 [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://ieeexplore.ieee.org/document/10179427) - S&P
+
+[POSE: Practical Off-chain Smart Contract Execution](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/) - NDSS
 
 [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/) - NDSS
 
