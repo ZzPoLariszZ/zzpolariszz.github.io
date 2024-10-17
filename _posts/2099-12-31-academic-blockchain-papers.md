@@ -33,7 +33,7 @@ Included Journals: TDSC, TIFS
 
 🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
-35 Papers (till Issue 5) Accepted TDSC + 27 Papers (till Volume 19) Accepted by TIFS
+35 Papers (till Issue 5) Accepted by TDSC + 27 Papers (till Volume 19) Accepted by TIFS
 
 **[Interoperability]**  
 
@@ -367,7 +367,7 @@ Included Journals: TDSC, TIFS
 
 🔥 ***<span style="color:Red"><u>46</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
-34 Papers Accepted TDSC + 
+34 Papers Accepted by TDSC + 22 Papers Accepted by TIPS
 
 **[Interoperability]** 
 
@@ -381,7 +381,7 @@ Included Journals: TDSC, TIFS
 
 [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
 
-[A Survey on Privacy Preservation Techniques for Blockchain Interoperability](https://www.sciencedirect.com/science/article/pii/S1383762123000711) - JSA
+[Cross-Chain Virtual Payment Channels](https://ieeexplore.ieee.org/document/10138461) - TIFS
 
 **[Privacy]**  
 
@@ -405,6 +405,18 @@ Included Journals: TDSC, TIFS
 
 [Improving Cryptocurrency Crime Detection: CoinJoin Community Detection Approach](https://ieeexplore.ieee.org/document/10023950) - TDSC
 
+[Accountable and Fine-Grained Controllable Rewriting in Blockchains](https://ieeexplore.ieee.org/document/9931163) - TIFS
+
+[Wolverine: A Scalable and Transaction-Consistent Redactable Permissionless Blockchain](https://ieeexplore.ieee.org/document/10044703) - TIFS
+
+[TRacer: Scalable Graph-Based Transaction Tracing for Account-Based Blockchain Trading Systems](https://ieeexplore.ieee.org/document/10098630) - TIFS
+
+[MAGO: Maliciously Secure Subgraph Counting on Decentralized Social Graphs](https://ieeexplore.ieee.org/document/10113303) - TIFS
+
+[Verifiable and Redactable Blockchains With Fully Editing Operations](https://ieeexplore.ieee.org/document/10159153) - TIFS
+
+[TRCT: A Traceable Anonymous Transaction Protocol for Blockchain](https://ieeexplore.ieee.org/document/10185067) - TIFS
+
 [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
 
 [Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
@@ -420,6 +432,8 @@ Included Journals: TDSC, TIFS
 [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/document/9705551) - TDSC
 
 [A Distributed and Privacy-Aware High-Throughput Transaction Scheduling Approach for Scaling Blockchain](https://ieeexplore.ieee.org/document/9927465) - TDSC
+
+[A Flexible Sharding Blockchain Protocol Based on Cross-Shard Byzantine Fault Tolerance](https://ieeexplore.ieee.org/document/10100734) - TIFS
 
 **[Security]** 
 
@@ -503,6 +517,12 @@ Included Journals: TDSC, TIFS
 
 [Crystal: Enhancing Blockchain Mining Transparency With Quorum Certificate](https://ieeexplore.ieee.org/document/9927474) - TDSC
 
+[TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts](https://ieeexplore.ieee.org/document/10017137) - TIFS
+
+[Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting](https://ieeexplore.ieee.org/document/10018241) - TIFS
+
+[Blockchain Mining With Multiple Selfish Miners](https://ieeexplore.ieee.org/document/10123990) - TIFS
+
 **[Zero-Knowledge Proof]**
 
 [zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://ieeexplore.ieee.org/document/10179430) - S&P
@@ -516,6 +536,8 @@ Included Journals: TDSC, TIFS
 [SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions](https://ieeexplore.ieee.org/document/9786741) - TDSC
 
 [Circom: A Circuit Description Language for Building Zero-Knowledge Applications](https://ieeexplore.ieee.org/document/10002421) - TDSC
+
+[A New Zero Knowledge Argument for General Circuits and Its Application](https://ieeexplore.ieee.org/document/10164203) - TIFS
 
 **[Other]**
 
@@ -582,6 +604,22 @@ Included Journals: TDSC, TIFS
 [Privacy-Preserving Decision-Making Over Blockchain](https://ieeexplore.ieee.org/document/9996149) - TDSC
 
 [Blockchain-Based Deduplication and Integrity Auditing Over Encrypted Cloud Storage](https://ieeexplore.ieee.org/document/10018273) - TDSC
+
+[Efficient Multi-Party EdDSA Signature With Identifiable Aborts and its Applications to Blockchain](https://ieeexplore.ieee.org/document/10068261) - TIFS
+
+[SINT: Toward a Blockchain-Based Secure In-Band Network Telemetry Architecture](https://ieeexplore.ieee.org/document/10107633) - TIFS
+
+[Distributed Detection Over Blockchain-Aided Internet of Things in the Presence of Attacks](https://ieeexplore.ieee.org/document/10136230) - TIFS
+
+[sChain: An Efficient and Secure Solution for Improving Blockchain Storage](https://ieeexplore.ieee.org/document/10149389) - TIFS
+
+[ACB-Vote: Efficient, Flexible, and Privacy- Preserving Blockchain-Based Score Voting With Anonymously Convertible Ballots](https://ieeexplore.ieee.org/document/10159140) - TIFS
+
+[Designated-Verifier Aggregate Signature Scheme With Sensitive Data Privacy Protection for Permissioned Blockchain-Assisted IIoT](https://ieeexplore.ieee.org/document/10188906) - TIFS
+
+[Height and Punishment: Toward Accountable IoT Blockchain With Network Sanitization](https://ieeexplore.ieee.org/document/10250881) - TIFS
+
+[DAON: A Decentralized Autonomous Oracle Network to Provide Secure Data for Smart Contracts](https://ieeexplore.ieee.org/document/10262057) - TIFS
 
 ---
 ### 2022
