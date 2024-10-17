@@ -367,15 +367,19 @@ Included Journals: TDSC, TIFS
 
 **[Interoperability]** 
 
-[Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
-
 [LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
+
+[TrustBoost: Boosting Trust among Interoperable Blockchains](https://dl.acm.org/doi/10.1145/3576915.3623080) - CCS
+
+[Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
 
 [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
 
 [A Survey on Privacy Preservation Techniques for Blockchain Interoperability](https://www.sciencedirect.com/science/article/pii/S1383762123000711) - JSA
 
 **[Privacy]**  
+
+[Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage](https://dl.acm.org/doi/10.1145/3576915.3623094) - CCS
 
 [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
 
@@ -395,12 +399,67 @@ Included Journals: TDSC, TIFS
 
 **[Security]** 
 
-[TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
+[WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://ieeexplore.ieee.org/document/10179444) - S&P
+
+[Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks](https://ieeexplore.ieee.org/document/10179456) - S&P
+
+[Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://ieeexplore.ieee.org/document/10179426) - S&P
 
 [SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/document/10179435) - S&P
 
+[Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](https://ieeexplore.ieee.org/document/10179323) - S&P
+
+[Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://ieeexplore.ieee.org/document/10179346) - S&P
+
+[Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://ieeexplore.ieee.org/document/10179386) - S&P
+
+[Leaking Arbitrarily Many Secrets: Any-out-of-Many Proofs and Applications to RingCT Protocols](https://ieeexplore.ieee.org/document/10179292) - S&P
+
+[Uncle Maker: (Time)Stamping Out The Competition in Ethereum](https://dl.acm.org/doi/10.1145/3576915.3616674) - CCS
+
+[Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://dl.acm.org/doi/10.1145/3576915.3623178) - CCS
+
+[How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance](https://dl.acm.org/doi/10.1145/3576915.3623171) - CCS
+
+[FlexiRand: Output Private (Distributed) VRFs and Application to Blockchains](https://dl.acm.org/doi/10.1145/3576915.3616601) - CCS
+
+[Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](https://dl.acm.org/doi/10.1145/3576915.3616677) - CCS
+
+[LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures]() - CCS
+
+[TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
+
+[Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://dl.acm.org/doi/10.1145/3576915.3623204) - CCS
+
+[Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](https://dl.acm.org/doi/10.1145/3576915.3623071) - CCS
+
+[Analyzing the Real-World Security of the Algorand Blockchain](https://dl.acm.org/doi/10.1145/3576915.3623167) - CCS
+
 [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
 
+**[Zero-Knowledge Proof]**
+
+[zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://ieeexplore.ieee.org/document/10179430) - S&P
+
+[Ou: Automating the Parallelization of Zero-Knowledge Protocols](https://dl.acm.org/doi/10.1145/3576915.3616621) - CCS
+
+[Recursion over Public-Coin Interactive Proof Systems; Faster Hash Verification](https://dl.acm.org/doi/10.1145/3576915.3623078) - CCS
+
+**[Other]**
+
+[Themis: Fast, Strong Order-Fairness in Byzantine Consensus](https://dl.acm.org/doi/10.1145/3576915.3616658) - CCS
+
+[Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees](https://dl.acm.org/doi/10.1145/3576915.3623194) - CCS
+
+[Abraxas: Throughput-Efficient Hybrid Asynchronous Consensus](https://dl.acm.org/doi/10.1145/3576915.3623191) - CCS
+
+[ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path](https://dl.acm.org/doi/10.1145/3576915.3623101) - CCS
+
+[Towards Practical Sleepy BFT](https://dl.acm.org/doi/10.1145/3576915.3623073) - CCS
+
+[Demystifying DeFi MEV Activities in Flashbots Bundle](https://dl.acm.org/doi/10.1145/3576915.3616590) - CCS
+
+[CryptoConcurrency: (Almost) Consensusless Asset Transfer with Shared Accounts](https://dl.acm.org/doi/10.1145/3576915.3616587) - CCS
 
 ---
 ### 2022
