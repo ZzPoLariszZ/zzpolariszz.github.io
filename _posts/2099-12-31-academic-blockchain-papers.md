@@ -28,8 +28,6 @@ Included Journals: TDSC, TIFS
 
 ✅ : Read with Note
 
-❌ : Skipped Paper
-
 ---
 ### 2024
 
@@ -320,49 +318,49 @@ Included Journals: TDSC, TIFS
 
 [HCA: Hashchain-Based Consensus Acceleration Via Re-Voting](https://ieeexplore.ieee.org/document/10083306) - TDSC
 
-❌ [Outsourced Privately Verifiable Proofs of Retrievability via Blockchain](https://ieeexplore.ieee.org/document/10149394) - TDSC
+[Outsourced Privately Verifiable Proofs of Retrievability via Blockchain](https://ieeexplore.ieee.org/document/10149394) - TDSC
 
-❌ [Dynamic Range Query Privacy-Preserving Scheme for Blockchain-Enhanced Smart Grid Based on Lattice](https://ieeexplore.ieee.org/document/10158917) - TDSC
+[Dynamic Range Query Privacy-Preserving Scheme for Blockchain-Enhanced Smart Grid Based on Lattice](https://ieeexplore.ieee.org/document/10158917) - TDSC
 
-❌ [Smart Contract Assisted Privacy-Preserving Data Aggregation and Management Scheme for Smart Grid](https://ieeexplore.ieee.org/document/10198760) - TDSC
+[Smart Contract Assisted Privacy-Preserving Data Aggregation and Management Scheme for Smart Grid](https://ieeexplore.ieee.org/document/10198760) - TDSC
 
 [D-LNBot: A Scalable, Cost-Free and Covert Hybrid Botnet on Bitcoin's Lightning Network](https://ieeexplore.ieee.org/document/10198749) - TDSC
 
 [Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains](https://ieeexplore.ieee.org/document/10230315) - TDSC
 
-❌ [Secure and Scalable Cross-Domain Data Sharing in Zero-Trust Cloud-Edge-End Environment Based on Sharding Blockchain](https://ieeexplore.ieee.org/document/10246351) - TDSC
+[Secure and Scalable Cross-Domain Data Sharing in Zero-Trust Cloud-Edge-End Environment Based on Sharding Blockchain](https://ieeexplore.ieee.org/document/10246351) - TDSC
 
 [Obfuscating Verifiable Random Functions for Proof-of-Stake Blockchains](https://ieeexplore.ieee.org/document/10268576) - TDSC
 
-❌ [CrowdFAB: Intelligent Crowd-Forecasting Using Blockchains and its Use in Security](https://ieeexplore.ieee.org/document/10271718) - TDSC
+[CrowdFAB: Intelligent Crowd-Forecasting Using Blockchains and its Use in Security](https://ieeexplore.ieee.org/document/10271718) - TDSC
 
 [NANO: Cryptographic Enforcement of Readability and Editability Governance in Blockchain Databases](https://ieeexplore.ieee.org/document/10309206) - TDSC
 
-❌ [Blockchain-Based Shared Data Integrity Auditing and Deduplication](https://ieeexplore.ieee.org/document/10330075) - TDSC
+[Blockchain-Based Shared Data Integrity Auditing and Deduplication](https://ieeexplore.ieee.org/document/10330075) - TDSC
 
-❌ [Blockchain-Based Compact Verifiable Data Streaming With Self-Auditing](https://ieeexplore.ieee.org/document/10347508) - TDSC
+[Blockchain-Based Compact Verifiable Data Streaming With Self-Auditing](https://ieeexplore.ieee.org/document/10347508) - TDSC
 
-❌ [DSChain: A Blockchain System for Complete Lifecycle Security of Data in Internet of Things](https://ieeexplore.ieee.org/document/10354045) - TDSC
+[DSChain: A Blockchain System for Complete Lifecycle Security of Data in Internet of Things](https://ieeexplore.ieee.org/document/10354045) - TDSC
 
 [A Blockchain-Based Secure Covert Communication Method via Shamir Threshold and STC Mapping](https://ieeexplore.ieee.org/document/10398427) - TDSC
 
-❌ [A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction](https://ieeexplore.ieee.org/document/10404008) - TDSC
+[A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction](https://ieeexplore.ieee.org/document/10404008) - TDSC
 
-❌ [Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
+[Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
 
-❌ [MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIFS
+[MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIFS
 
-❌ [Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIFS
+[Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIFS
 
-❌ [Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIFS
+[Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIFS
 
-❌ [Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIFS
+[Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIFS
 
-❌ [Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIFS
+[Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIFS
 
-❌ [Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIFS
+[Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIFS
 
-❌ [BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIFS
+[BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIFS
 
 ---
 ### 2023
