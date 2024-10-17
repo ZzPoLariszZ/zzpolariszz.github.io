@@ -373,6 +373,8 @@ Included Journals: TDSC, TIFS
 
 [Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
 
+[POSE: Practical Off-chain Smart Contract Execution](https://www.ndss-symposium.org/ndss2023/accepted-papers/) - NDSS
+
 [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
 
 [A Survey on Privacy Preservation Techniques for Blockchain Interoperability](https://www.sciencedirect.com/science/article/pii/S1383762123000711) - JSA
@@ -440,6 +442,16 @@ Included Journals: TDSC, TIFS
 [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell) - USENIX
 
 [The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) - USENIX
+
+[Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/ndss-paper/smarter-contracts-detecting-vulnerabilities-in-smart-contracts-with-deep-transfer-learning/) - NDSS
+
+[BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://www.ndss-symposium.org/ndss-paper/blockscope-detecting-and-investigating-propagated-vulnerabilities-in-forked-blockchain-projects/) - NDSS
+
+[LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](https://www.ndss-symposium.org/ndss-paper/loki-state-aware-fuzzing-framework-for-the-implementation-of-blockchain-consensus-protocols/) - NDSS
+
+[Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://www.ndss-symposium.org/ndss-paper/double-and-nothing-understanding-and-detecting-cryptocurrency-giveaway-scams/) - NDSS
+
+[Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/ndss-paper/partitioning-ethereum-without-eclipsing-it/) - NDSS
 
 [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
 
