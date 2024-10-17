@@ -365,6 +365,8 @@ Included Journals: TDSC, TIFS
 ---
 ### 2023
 
+🔥 ***<span style="color:Red"><u>46</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
+
 **[Interoperability]** 
 
 [LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
@@ -427,7 +429,7 @@ Included Journals: TDSC, TIFS
 
 [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](https://dl.acm.org/doi/10.1145/3576915.3616677) - CCS
 
-[LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures]() - CCS
+[LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
 
 [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
 
