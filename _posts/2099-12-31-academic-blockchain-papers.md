@@ -459,6 +459,14 @@ Included Journals: TDSC, TIFS
 
 [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515) - EuroS&P
 
+[AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities](https://ieeexplore.ieee.org/document/10172877) - ICSE
+
+[BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts](https://ieeexplore.ieee.org/document/10172541) - ICSE
+
+[Demystifying Exploitable Bugs in Smart Contracts](https://ieeexplore.ieee.org/document/10172700) - ICSE
+
+[Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum](https://ieeexplore.ieee.org/document/10172623) - ICSE
+
 **[Zero-Knowledge Proof]**
 
 [zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://ieeexplore.ieee.org/document/10179430) - S&P
@@ -486,6 +494,8 @@ Included Journals: TDSC, TIFS
 [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin) - USENIX
 
 [ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.usenix.org/conference/usenixsecurity23/presentation/park) - USENIX
+
+[Smartmark: Software Watermarking Scheme for Smart Contracts](https://ieeexplore.ieee.org/document/10172692) - ICSE
 
 ---
 ### 2022
