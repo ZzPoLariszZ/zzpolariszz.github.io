@@ -371,15 +371,15 @@ Included Journals: TDSC, TIFS
 
 **[Interoperability]** 
 
-[LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
+🌟🌟 [LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
 
-[TrustBoost: Boosting Trust among Interoperable Blockchains](https://dl.acm.org/doi/10.1145/3576915.3623080) - CCS
+🌟🌟🌟 [TrustBoost: Boosting Trust among Interoperable Blockchains](https://dl.acm.org/doi/10.1145/3576915.3623080) - CCS
 
-[Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
+🌟🌟🌟 [Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
 
-[He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
+🌟🌟🌟 [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
 
-[Cross-Chain Virtual Payment Channels](https://ieeexplore.ieee.org/document/10138461) - TIFS
+🌟🌟 [Cross-Chain Virtual Payment Channels](https://ieeexplore.ieee.org/document/10138461) - TIFS
 
 **[Privacy]**  
 
@@ -389,35 +389,35 @@ Included Journals: TDSC, TIFS
 
 [Revelio: A Network-Level Privacy Attack in the Lightning Network](https://ieeexplore.ieee.org/document/10190502) - EuroS&P
 
-[On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
+🌟🌟🌟 [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
 
-[UCoin: An Efficient Privacy Preserving Scheme for Cryptocurrencies](https://ieeexplore.ieee.org/document/9627814) - TDSC
+🌟🌟🌟 [UCoin: An Efficient Privacy Preserving Scheme for Cryptocurrencies](https://ieeexplore.ieee.org/document/9627814) - TDSC
 
 [HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain](https://ieeexplore.ieee.org/document/9645273) - TDSC
 
-[Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment](https://ieeexplore.ieee.org/document/9693200) - TDSC
+🌟🌟🌟 [Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment](https://ieeexplore.ieee.org/document/9693200) - TDSC
 
-[SofitMix: A Secure Offchain-Supported Bitcoin-Compatible Mixing Protocol](https://ieeexplore.ieee.org/document/9917298) - TDSC
+🌟🌟 [SofitMix: A Secure Offchain-Supported Bitcoin-Compatible Mixing Protocol](https://ieeexplore.ieee.org/document/9917298) - TDSC
 
 [ACA: Anonymous, Confidential and Auditable Transaction Systems for Blockchain](https://ieeexplore.ieee.org/document/9980409) - TDSC
 
-[Improving Cryptocurrency Crime Detection: CoinJoin Community Detection Approach](https://ieeexplore.ieee.org/document/10023950) - TDSC
+🌟🌟🌟 [Improving Cryptocurrency Crime Detection: CoinJoin Community Detection Approach](https://ieeexplore.ieee.org/document/10023950) - TDSC
 
 [Accountable and Fine-Grained Controllable Rewriting in Blockchains](https://ieeexplore.ieee.org/document/9931163) - TIFS
 
 [Wolverine: A Scalable and Transaction-Consistent Redactable Permissionless Blockchain](https://ieeexplore.ieee.org/document/10044703) - TIFS
 
-[TRacer: Scalable Graph-Based Transaction Tracing for Account-Based Blockchain Trading Systems](https://ieeexplore.ieee.org/document/10098630) - TIFS
+🌟🌟🌟 [TRacer: Scalable Graph-Based Transaction Tracing for Account-Based Blockchain Trading Systems](https://ieeexplore.ieee.org/document/10098630) - TIFS
 
-[MAGO: Maliciously Secure Subgraph Counting on Decentralized Social Graphs](https://ieeexplore.ieee.org/document/10113303) - TIFS
+🌟🌟 [MAGO: Maliciously Secure Subgraph Counting on Decentralized Social Graphs](https://ieeexplore.ieee.org/document/10113303) - TIFS
 
 [Verifiable and Redactable Blockchains With Fully Editing Operations](https://ieeexplore.ieee.org/document/10159153) - TIFS
 
-[TRCT: A Traceable Anonymous Transaction Protocol for Blockchain](https://ieeexplore.ieee.org/document/10185067) - TIFS
+🌟🌟 [TRCT: A Traceable Anonymous Transaction Protocol for Blockchain](https://ieeexplore.ieee.org/document/10185067) - TIFS
 
-[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
+🌟🌟🌟 [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
 
-[Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
+🌟🌟🌟 [Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
 
 **[Scalability]** 
 
