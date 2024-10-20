@@ -423,7 +423,7 @@ Included Journals: TDSC, TIFS
 
 [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://ieeexplore.ieee.org/document/10179427) - S&P
 
-[POSE: Practical Off-chain Smart Contract Execution](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/) - NDSS
+🌟 [POSE: Practical Off-chain Smart Contract Execution](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/) - NDSS
 
 [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/) - NDSS
 
@@ -443,7 +443,7 @@ Included Journals: TDSC, TIFS
 
 [Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://ieeexplore.ieee.org/document/10179426) - S&P
 
-[SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/document/10179435) - S&P
+🌟🌟🌟 [SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/document/10179435) - S&P
 
 [Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](https://ieeexplore.ieee.org/document/10179323) - S&P
 
@@ -463,9 +463,7 @@ Included Journals: TDSC, TIFS
 
 [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](https://dl.acm.org/doi/10.1145/3576915.3616677) - CCS
 
-[LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
-
-[TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
+🌟🌟 [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
 
 [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://dl.acm.org/doi/10.1145/3576915.3623204) - CCS
 
@@ -477,7 +475,7 @@ Included Journals: TDSC, TIFS
 
 [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell) - USENIX
 
-[The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) - USENIX
+🌟🌟 [The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) - USENIX
 
 [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/ndss-paper/smarter-contracts-detecting-vulnerabilities-in-smart-contracts-with-deep-transfer-learning/) - NDSS
 
@@ -503,7 +501,7 @@ Included Journals: TDSC, TIFS
 
 [Do NFTs' Owners Really Possess their Assets? A First Look at the NFT-to-Asset Connection Fragility](https://dl.acm.org/doi/10.1145/3543507.3583281) - WWW
 
-[BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://dl.acm.org/doi/10.1145/3543507.3583345) - WWW
+🌟🌟 [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://dl.acm.org/doi/10.1145/3543507.3583345) - WWW
 
 [Cross-Modality Mutual Learning for Enhancing Smart Contract Vulnerability Detection on Bytecode](https://dl.acm.org/doi/10.1145/3543507.3583367) - WWW
 
@@ -563,7 +561,7 @@ Included Journals: TDSC, TIFS
 
 [Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction](https://dl.acm.org/doi/10.1145/3543507.3583520) - WWW
 
-[Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://dl.acm.org/doi/10.1145/3543507.3583537) - WWW
+🌟🌟 [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://dl.acm.org/doi/10.1145/3543507.3583537) - WWW
 
 [Is IPFS Ready for Decentralized Video Streaming?](https://dl.acm.org/doi/10.1145/3543507.3583404) - WWW
 
