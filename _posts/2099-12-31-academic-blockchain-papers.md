@@ -389,6 +389,8 @@ Included Journals: TDSC, TIFS
 
 [Revelio: A Network-Level Privacy Attack in the Lightning Network](https://ieeexplore.ieee.org/document/10190502) - EuroS&P
 
+🌟🌟 [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://dl.acm.org/doi/10.1145/3543507.3583537) - WWW
+
 🌟🌟🌟 [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
 
 🌟🌟🌟 [UCoin: An Efficient Privacy Preserving Scheme for Cryptocurrencies](https://ieeexplore.ieee.org/document/9627814) - TDSC
@@ -560,8 +562,6 @@ Included Journals: TDSC, TIFS
 [Smartmark: Software Watermarking Scheme for Smart Contracts](https://ieeexplore.ieee.org/document/10172692) - ICSE
 
 [Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction](https://dl.acm.org/doi/10.1145/3543507.3583520) - WWW
-
-🌟🌟 [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://dl.acm.org/doi/10.1145/3543507.3583537) - WWW
 
 [Is IPFS Ready for Decentralized Video Streaming?](https://dl.acm.org/doi/10.1145/3543507.3583404) - WWW
 
