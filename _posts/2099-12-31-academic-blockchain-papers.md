@@ -32,8 +32,6 @@ Included Journals: TDSC, TIFS
 
 🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
-35 Papers (till Issue 5) Accepted by TDSC + 27 Papers (till Volume 19) Accepted by TIFS
-
 **[Interoperability]**  
 
 [SoK: Security and Privacy of Blockchain Interoperability](https://ieeexplore.ieee.org/document/10646648) - S&P
@@ -86,7 +84,25 @@ Included Journals: TDSC, TIFS
 
 [Concise RingCT Protocol Based on Linkable Threshold Ring Signature](https://ieeexplore.ieee.org/document/10440486) - TDSC
 
+[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
+
+[Dynamic Trust-Based Redactable Blockchain Supporting Update and Traceability](https://dl.acm.org/doi/10.1109/TIFS.2023.3326379) - TIFS
+
+[Accountable Fine-Grained Blockchain Rewriting in the Permissionless Setting](https://dl.acm.org/doi/10.1109/TIFS.2023.3340917) - TIFS
+
+[Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
+
+[Decentralized Threshold Signatures With Dynamically Private Accountability](https://dl.acm.org/doi/10.1109/TIFS.2023.3347968) - TIFS
+
+[Graph-Based Covert Transaction Detection and Protection in Blockchain](https://dl.acm.org/doi/10.1109/TIFS.2023.3347895) - TIFS
+
 [PRBFPT: A Practical Redactable Blockchain Framework With a Public Trapdoor](https://ieeexplore.ieee.org/document/10380599) - TIFS
+
+[Anonymity-Enhancing Multi-Hop Locks for Monero-Enabled Payment Channel Networks](https://dl.acm.org/doi/10.1109/TIFS.2023.3346177) - TIFS
+
+[Division of Regulatory Power: Collaborative Regulation for Privacy-Preserving Blockchains](https://dl.acm.org/doi/10.1109/TIFS.2023.3348268) - TIFS
+
+[Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIFS
 
 [Exploring Unobservable Blockchain-Based Covert Channel for Censorship-Resistant Systems](https://ieeexplore.ieee.org/document/10418190) - TIFS
 
@@ -94,11 +110,21 @@ Included Journals: TDSC, TIFS
 
 [Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIFS
 
+[Accountable and Secure Threshold EdDSA Signature and Its Applications](https://dl.acm.org/doi/10.1109/TIFS.2024.3428848) - TIFS
+
 [FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIFS
 
 [Redactable Blockchain Based on Decentralized Trapdoor Verifiable Delay Functions](https://ieeexplore.ieee.org/document/10605835) - TIFS
 
 [Controlled Redactable Blockchain Based on T-Times Chameleon Hash and Signature](https://ieeexplore.ieee.org/document/10620354) - TIFS
+
+[MaskAuct: Seller-Autonomous Auction With Bidder Anonymity and Bidding Confidentiality](https://dl.acm.org/doi/10.1109/TIFS.2024.3449116) - TIFS
+
+[Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIFS
+
+[Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus](https://ieeexplore.ieee.org/document/10679169) - TIFS 
+
+[Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIFS
 
 **[Scalability]** 
 
@@ -120,6 +146,8 @@ Included Journals: TDSC, TIFS
 
 [monoCash: A Channel-Free Payment Network via Trusted Monotonic Counters](https://ieeexplore.ieee.org/document/10416274) - TDSC
 
+[DeCloak: Enable Secure and Cheap Multi-Party Transactions on Legacy Blockchains by a Minimally Trusted TEE Network](https://dl.acm.org/doi/10.1109/TIFS.2023.3318935) - TIFS
+
 [CHERUBIM: A Secure and Highly Parallel Cross-Shard Consensus Using Quadruple Pipelined Two-Phase Commit for Sharding Blockchains](https://ieeexplore.ieee.org/document/10415090) - TIFS
 
 [Secret Multiple Leaders & Committee Election With Application to Sharding Blockchain](https://ieeexplore.ieee.org/document/10504302) - TIFS
@@ -127,8 +155,6 @@ Included Journals: TDSC, TIFS
 [A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management](https://ieeexplore.ieee.org/document/10539974) - TIFS
 
 [SAMCU: Secure and Anonymous Multi-Channel Updates in Payment Channel Networks](https://ieeexplore.ieee.org/document/10654379) - TIFS
-
-[Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus](https://ieeexplore.ieee.org/document/10679169) - TIFS 
 
 
 **[Security]** 
@@ -247,19 +273,17 @@ Included Journals: TDSC, TIFS
 
 [Privacy-Preserving Anomaly Detection of Encrypted Smart Contract for Blockchain-Based Data Trading](https://ieeexplore.ieee.org/document/10399833) - TDSC
 
+[Optimal Selfish Mining-Based Denial-of-Service Attack](https://dl.acm.org/doi/10.1109/TIFS.2023.3326386) - TIFS
+
 [EVM-Shield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention](https://ieeexplore.ieee.org/document/10380598) - TIFS
 
 [Quantum-Safe Puncturable Signatures With Their Application in Blockchain](https://ieeexplore.ieee.org/document/10388409) - TIFS
 
-[Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIFS
-
-[Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIFS
+[CryptojackingTrap: An Evasion Resilient Nature-Inspired Algorithm to Detect Cryptojacking Malware](https://dl.acm.org/doi/10.1109/TIFS.2024.3353072) - TIFS
 
 [Proof of Finalization: A Self-Fulfilling Function of Blockchain](https://ieeexplore.ieee.org/document/10654323) - TIFS
 
 [Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-Based Large Scale Blockchain With the Aid of Multiple Types of Attacks](https://ieeexplore.ieee.org/document/10644062) - TIFS
-
-[Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIFS
 
 **[Zero-Knowledge Proof]**
 
@@ -288,6 +312,8 @@ Included Journals: TDSC, TIFS
 [From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation](https://www.ndss-symposium.org/ndss-paper/from-interaction-to-independence-zksnarks-for-transparent-and-non-interactive-remote-attestation/) - NDSS
 
 [Ligerolight: Optimized IOP-Based Zero-Knowledge Argument for Blockchain Scalability](https://ieeexplore.ieee.org/document/10328796) - TDSC
+
+[Verifiable Arbitrary Queries With Zero Knowledge Confidentiality in Decentralized Storage](https://dl.acm.org/doi/10.1109/TIFS.2023.3330305) - TIFS
 
 **[Other]**
 
@@ -367,17 +393,25 @@ Included Journals: TDSC, TIFS
 
 [Ensuring State Continuity for Confidential Computing: A Blockchain-Based Approach](https://ieeexplore.ieee.org/document/10480251) - TDSC
 
+[BG: A Modular Treatment of BFT Consensus Toward a Unified Theory of BFT Replication](https://dl.acm.org/doi/10.1109/TIFS.2023.3318943) - TIFS
+
+[SanIdea: Exploiting Secure Blockchain-Based Access Control via Sanitizable Encryption](https://dl.acm.org/doi/10.1109/TIFS.2023.3340066) - TIFS
+
+[Blockchain-Based Dynamic Time-Encapsulated Data Auditing for Outsourcing Storage](https://dl.acm.org/doi/10.1109/TIFS.2023.3338485) - TIFS
+
 [MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIFS
 
 [Blockchain-Based Secure Cross-Domain Data Sharing for Edge-Assisted Industrial Internet of Things](https://ieeexplore.ieee.org/document/10458086) - TIFS
 
 [Libras: A Fair, Secure, Verifiable, and Scalable Outsourcing Computation Scheme Based on Blockchain](https://ieeexplore.ieee.org/document/10535298) - TIFS
 
-[Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIFS
-
 [Blockchain-Based Group Key Management Scheme for IoT With Anonymity of Group Members](https://ieeexplore.ieee.org/document/10557698) - TIFS
 
 [Highly-Secure Yet Efficient Blockchain-Based CRL-Free Key Management Protocol for IoT-Enabled Smart Grid Environments](https://ieeexplore.ieee.org/document/10584500) - TIFS
+
+[Wahoo: A DAG-Based BFT Consensus With Low Latency and Low Communication Overhead](https://dl.acm.org/doi/10.1109/TIFS.2024.3409082) - TIFS
+
+[Fair and Privacy-Preserved Data Trading Protocol by Exploiting Blockchain](https://ieeexplore.ieee.org/document/10522763) - TIFS
 
 [BASUV: A Blockchain-Enabled UAV Authentication Scheme for Internet of Vehicles](https://ieeexplore.ieee.org/document/10685460) - TIFS
 
@@ -385,8 +419,6 @@ Included Journals: TDSC, TIFS
 ### 2023
 
 🔥 ***<span style="color:Red"><u>46</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
-
-34 Papers Accepted by TDSC + 22 Papers Accepted by TIPS
 
 **[Interoperability]** 
 
@@ -435,10 +467,6 @@ Included Journals: TDSC, TIFS
 [Verifiable and Redactable Blockchains With Fully Editing Operations](https://ieeexplore.ieee.org/document/10159153) - TIFS
 
 [TRCT: A Traceable Anonymous Transaction Protocol for Blockchain](https://ieeexplore.ieee.org/document/10185067) - TIFS
-
-[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
-
-[Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
 
 **[Scalability]** 
 
