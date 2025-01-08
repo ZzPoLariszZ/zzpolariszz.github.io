@@ -24,7 +24,6 @@ Specific Conferences: DLT, FC, ICBC, AFT
 Included Journals: TDSC, TIFS
 
 ---
-🌟 : Interest Level
 
 ✅ : Read with Note
 
@@ -37,15 +36,15 @@ Included Journals: TDSC, TIFS
 
 **[Interoperability]**  
 
-🌟🌟🌟 [SoK: Security and Privacy of Blockchain Interoperability](https://ieeexplore.ieee.org/document/10646648) - S&P
+[SoK: Security and Privacy of Blockchain Interoperability](https://ieeexplore.ieee.org/document/10646648) - S&P
 
-🌟🌟🌟 [Sweep-UC: Swapping Coins Privately](https://ieeexplore.ieee.org/document/10646880) - S&P
+[Sweep-UC: Swapping Coins Privately](https://ieeexplore.ieee.org/document/10646880) - S&P
 
-[Atomic and Fair Data Exchange via Blockchain]() - CCS
+[Atomic and Fair Data Exchange via Blockchain](https://dl.acm.org/doi/10.1145/3658644.3690248) - CCS
 
-🌟🌟🌟 [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-yihao) - USENIX
+[zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-yihao) - USENIX
 
-🌟🌟 [Sidechains With Optimally Succinct Proof](https://ieeexplore.ieee.org/document/10301610) - TDSC
+[Sidechains With Optimally Succinct Proof](https://ieeexplore.ieee.org/document/10301610) - TDSC
 
 [IvyRedaction: Enabling Atomic, Consistent and Accountable Cross-Chain Rewriting](https://ieeexplore.ieee.org/document/10342807) - TDSC
 
@@ -53,25 +52,25 @@ Included Journals: TDSC, TIFS
 
 **[Privacy]** 
 
-[Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]() - CCS
+[Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication](https://dl.acm.org/doi/10.1145/3658644.3670323) - CCS
 
-[Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]() - CCS
+[Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets](https://dl.acm.org/doi/10.1145/3658644.3690273) - CCS
 
-[Blind Multi-Signatures for Anonymous Tokens with Decentralized Issuance and Public Verifiability]() - CCS
+[Blind Multi-Signatures for Anonymous Tokens with Decentralized Issuance and Public Verifiability](https://dl.acm.org/doi/10.1145/3658644.3690364) - CCS
 
-🌟🌟 [Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity24/presentation/choudhuri) - USENIX
+[Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity24/presentation/choudhuri) - USENIX
 
-🌟🌟🌟 [GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva) - USENIX
+[GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva) - USENIX
 
-🌟 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
+[Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
-🌟 [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
+[Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
 
-🌟🌟🌟 [Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
+[Unlinkable Policy-Compliant Signatures for Compliant and Decentralized Anonymous Payments](https://petsymposium.org/popets/2024/popets-2024-0115.php) - PETS
 
-🌟🌟🌟 [Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
+[Blockchain Censorship](https://dl.acm.org/doi/10.1145/3589334.3645431) - WWW
 
-🌟🌟🌟 [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs](https://dl.acm.org/doi/10.1145/3589334.3645692) - WWW
+[DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs](https://dl.acm.org/doi/10.1145/3589334.3645692) - WWW
 
 [Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
 
@@ -79,7 +78,7 @@ Included Journals: TDSC, TIFS
 
 [SPCEX: Secure and Privacy-Preserving Cryptocurrency Exchange](https://ieeexplore.ieee.org/document/10398514) - TDSC
 
-🌟🌟🌟 [Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/document/10399884) - TDSC
+[Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/document/10399884) - TDSC
 
 [Solution Probing Attack Against Coin Mixing Based Privacy-Preserving Crowdsourcing Platforms](https://ieeexplore.ieee.org/document/10404041) - TDSC
 
@@ -87,9 +86,9 @@ Included Journals: TDSC, TIFS
 
 [Exploring Unobservable Blockchain-Based Covert Channel for Censorship-Resistant Systems](https://ieeexplore.ieee.org/document/10418190) - TIFS
 
-🌟🌟 [BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIFS
+[BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains](https://ieeexplore.ieee.org/document/10426757) - TIFS
 
-🌟🌟🌟 [Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIFS
+[Privacy-Preserving Cryptocurrency With Threshold Authentication and Regulation](https://ieeexplore.ieee.org/document/10572018) - TIFS
 
 [FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIFS
 
@@ -101,11 +100,11 @@ Included Journals: TDSC, TIFS
 
 [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://ieeexplore.ieee.org/document/10646707) - S&P
 
-🌟 [Sui Lutris: A Blockchain Combining Broadcast and Consensus]() - CCS
+[Sui Lutris: A Blockchain Combining Broadcast and Consensus](https://dl.acm.org/doi/10.1145/3658644.3670286) - CCS
 
-[High-Throughput Three-Party DPFs with Applications to ORAM and Digital Currencies]() - CCS
+[High-Throughput Three-Party DPFs with Applications to ORAM and Digital Currencies](https://dl.acm.org/doi/10.1145/3658644.3670292) - CCS
 
-🌟🌟 [Reckle Trees: Updatable Merkle Batch Proofs with Applications]() - CCS
+[Reckle Trees: Updatable Merkle Batch Proofs with Applications](https://dl.acm.org/doi/10.1145/3658644.3670354) - CCS
 
 [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](https://www.ndss-symposium.org/ndss-paper/front-running-attack-in-sharded-blockchains-and-fair-cross-shard-consensus/) - NDSS
 
@@ -113,7 +112,7 @@ Included Journals: TDSC, TIFS
 
 [Advancing Web 3.0: Making Smart Contracts Smarter on Blockchain](https://dl.acm.org/doi/10.1145/3589334.3645319) - WWW
 
-🌟🌟 [Anonymous Multi-Hop Payment for Payment Channel Networks](https://ieeexplore.ieee.org/document/10083241) - TDSC
+[Anonymous Multi-Hop Payment for Payment Channel Networks](https://ieeexplore.ieee.org/document/10083241) - TDSC
 
 [monoCash: A Channel-Free Payment Network via Trusted Monotonic Counters](https://ieeexplore.ieee.org/document/10416274) - TDSC
 
@@ -132,7 +131,7 @@ Included Journals: TDSC, TIFS
 
 [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](https://ieeexplore.ieee.org/document/10646793) - S&P
 
-🌟🌟 [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://ieeexplore.ieee.org/document/10646605) - S&P
+[Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://ieeexplore.ieee.org/document/10646605) - S&P
 
 [Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://ieeexplore.ieee.org/document/10646826) - S&P
 
@@ -144,7 +143,7 @@ Included Journals: TDSC, TIFS
 
 [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://ieeexplore.ieee.org/document/10646773) - S&P
 
-🌟🌟 [Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://ieeexplore.ieee.org/document/10646813) - S&P
+[Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://ieeexplore.ieee.org/document/10646813) - S&P
 
 [Towards Smart Contract Fuzzing on GPUs](https://ieeexplore.ieee.org/document/10646637) - S&P
 
@@ -158,29 +157,29 @@ Included Journals: TDSC, TIFS
 
 [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://ieeexplore.ieee.org/document/10646739) - S&P
 
-[Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network]() - CCS
+[Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network](https://dl.acm.org/doi/10.1145/3658644.3670315) - CCS
 
-[Blockchain Bribing Attacks and the Efficacy of Counterincentives]() - CCS
+[Blockchain Bribing Attacks and the Efficacy of Counterincentives](https://dl.acm.org/doi/10.1145/3658644.3670330) - CCS
 
-[Defying the Odds: Solana’s Unexpected Resilience in Spite of the Security Challenges Faced by Developers]() - CCS
+[Defying the Odds: Solana’s Unexpected Resilience in Spite of the Security Challenges Faced by Developers](https://dl.acm.org/doi/10.1145/3658644.3670333) - CCS
 
-[Securing Lightning Channels against Rational Miners]() - CCS
+[Securing Lightning Channels against Rational Miners](https://dl.acm.org/doi/10.1145/3658644.3670373) - CCS
 
-🌟🌟 [Characterizing Ethereum Address Poisoning Attack]() - CCS
+[Characterizing Ethereum Address Poisoning Attack](https://dl.acm.org/doi/10.1145/3658644.3690277) - CCS
 
-[Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]() - CCS
+[Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://dl.acm.org/doi/10.1145/3658644.3690329) - CCS
 
-🌟🌟 [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() - CCS
+[TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning](https://dl.acm.org/doi/10.1145/3658644.3690234) - CCS
 
-[fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]() - CCS
+[fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://dl.acm.org/doi/10.1145/3658644.3690243) - CCS
 
-[DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back]() - CCS
+[DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back](https://dl.acm.org/doi/10.1145/3658644.3690256) - CCS
 
-🌟🌟🌟 [Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
+[Speculative Denial-of-Service Attacks In Ethereum](https://www.usenix.org/conference/usenixsecurity24/presentation/yaish) - USENIX
 
 [Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus](https://www.usenix.org/conference/usenixsecurity24/presentation/wei-jianghong) - USENIX
 
-🌟 [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo) - USENIX
+[Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo) - USENIX
 
 [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-tianle) - USENIX
 
@@ -192,7 +191,7 @@ Included Journals: TDSC, TIFS
 
 [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://www.ndss-symposium.org/ndss-paper/abusing-the-ethereum-smart-contract-verification-services-for-fun-and-profit/) - NDSS
 
-🌟🌟 [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/ndss-paper/drainclog-detecting-rogue-accounts-with-illegally-obtained-nfts-using-classifiers-learned-on-graphs/) - NDSS
+[DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/ndss-paper/drainclog-detecting-rogue-accounts-with-illegally-obtained-nfts-using-classifiers-learned-on-graphs/) - NDSS
 
 [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/) - NDSS
 
@@ -202,7 +201,7 @@ Included Journals: TDSC, TIFS
 
 [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://dl.acm.org/doi/10.1145/3597503.3623302) - ICSE
 
-🌟🌟 [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://dl.acm.org/doi/10.1145/3597503.3623318) - ICSE
+[PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph](https://dl.acm.org/doi/10.1145/3597503.3623318) - ICSE
 
 [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3623335) - ICSE
 
@@ -224,7 +223,7 @@ Included Journals: TDSC, TIFS
 
 [Verifying Declarative Smart Contracts](https://dl.acm.org/doi/10.1145/3597503.3639203) - ICSE
 
-🌟🌟 [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets](https://dl.acm.org/doi/10.1145/3589334.3645348) - WWW
+[Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets](https://dl.acm.org/doi/10.1145/3589334.3645348) - WWW
 
 [ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain](https://dl.acm.org/doi/10.1145/3589334.3645352) - WWW
 
@@ -248,7 +247,7 @@ Included Journals: TDSC, TIFS
 
 [Quantum-Safe Puncturable Signatures With Their Application in Blockchain](https://ieeexplore.ieee.org/document/10388409) - TIFS
 
-🌟🌟 [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIFS
+[Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIFS
 
 [Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIFS
 
@@ -256,7 +255,7 @@ Included Journals: TDSC, TIFS
 
 [Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-Based Large Scale Blockchain With the Aid of Multiple Types of Attacks](https://ieeexplore.ieee.org/document/10644062) - TIFS
 
-🌟🌟 [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIFS
+[Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://ieeexplore.ieee.org/document/10683794) - TIFS
 
 **[Zero-Knowledge Proof]**
 
@@ -272,13 +271,13 @@ Included Journals: TDSC, TIFS
 
 [Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser](https://ieeexplore.ieee.org/document/10646776) - S&P
 
-[zkPi: Proving Lean Theorems in Zero-Knowledge]() - CCS
+[zkPi: Proving Lean Theorems in Zero-Knowledge](https://dl.acm.org/doi/10.1145/3658644.3670322) - CCS
 
-[Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers]() - CCS
+[Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers](https://dl.acm.org/doi/10.1145/3658644.3670357) - CCS
 
-[Sparrow : Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees]() - CCS
+[Sparrow : Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees](https://dl.acm.org/doi/10.1145/3658644.3690318) - CCS
 
-[zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]() - CCS
+[zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://dl.acm.org/doi/10.1145/3658644.3690356) - CCS
 
 [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://www.usenix.org/conference/usenixsecurity24/presentation/wen) - USENIX
 
@@ -290,11 +289,11 @@ Included Journals: TDSC, TIFS
 
 [Optimal Flexible Consensus and its Application to Ethereum](https://ieeexplore.ieee.org/document/10646887) - S&P
 
-[Nakamoto Consensus under Bounded Processing Capacity]() - CCS
+[Nakamoto Consensus under Bounded Processing Capacity](https://dl.acm.org/doi/10.1145/3658644.3670347) - CCS
 
-[Data Independent Order Policy Enforcement: Limitations and Solutions]() - CCS
+[Data Independent Order Policy Enforcement: Limitations and Solutions](https://dl.acm.org/doi/10.1145/3658644.3670367) - CCS
 
-[Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]() - CCS
+[Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups](https://dl.acm.org/doi/10.1145/3658644.3690259) - CCS
 
 [Sprints: Intermittent Blockchain PoW Mining](https://www.usenix.org/conference/usenixsecurity24/presentation/mirkin) - USENIX
 
@@ -371,15 +370,15 @@ Included Journals: TDSC, TIFS
 
 **[Interoperability]** 
 
-🌟🌟 [LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
+[LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/10.1145/3576915.3623149) - CCS
 
-🌟🌟🌟 [TrustBoost: Boosting Trust among Interoperable Blockchains](https://dl.acm.org/doi/10.1145/3576915.3623080) - CCS
+[TrustBoost: Boosting Trust among Interoperable Blockchains](https://dl.acm.org/doi/10.1145/3576915.3623080) - CCS
 
-🌟🌟🌟 [Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
+[Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/10.1145/3576915.3616612) - CSS
 
-🌟🌟🌟 [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
+[He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) - NDSS
 
-🌟🌟 [Cross-Chain Virtual Payment Channels](https://ieeexplore.ieee.org/document/10138461) - TIFS
+[Cross-Chain Virtual Payment Channels](https://ieeexplore.ieee.org/document/10138461) - TIFS
 
 **[Privacy]**  
 
@@ -389,43 +388,43 @@ Included Journals: TDSC, TIFS
 
 [Revelio: A Network-Level Privacy Attack in the Lightning Network](https://ieeexplore.ieee.org/document/10190502) - EuroS&P
 
-🌟🌟 [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://dl.acm.org/doi/10.1145/3543507.3583537) - WWW
+[Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://dl.acm.org/doi/10.1145/3543507.3583537) - WWW
 
-🌟🌟🌟 [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
+[On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://dl.acm.org/doi/10.1145/3543507.3583217) - WWW
 
-🌟🌟🌟 [UCoin: An Efficient Privacy Preserving Scheme for Cryptocurrencies](https://ieeexplore.ieee.org/document/9627814) - TDSC
+[UCoin: An Efficient Privacy Preserving Scheme for Cryptocurrencies](https://ieeexplore.ieee.org/document/9627814) - TDSC
 
 [HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain](https://ieeexplore.ieee.org/document/9645273) - TDSC
 
-🌟🌟🌟 [Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment](https://ieeexplore.ieee.org/document/9693200) - TDSC
+[Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment](https://ieeexplore.ieee.org/document/9693200) - TDSC
 
-🌟🌟 [SofitMix: A Secure Offchain-Supported Bitcoin-Compatible Mixing Protocol](https://ieeexplore.ieee.org/document/9917298) - TDSC
+[SofitMix: A Secure Offchain-Supported Bitcoin-Compatible Mixing Protocol](https://ieeexplore.ieee.org/document/9917298) - TDSC
 
 [ACA: Anonymous, Confidential and Auditable Transaction Systems for Blockchain](https://ieeexplore.ieee.org/document/9980409) - TDSC
 
-🌟🌟🌟 [Improving Cryptocurrency Crime Detection: CoinJoin Community Detection Approach](https://ieeexplore.ieee.org/document/10023950) - TDSC
+[Improving Cryptocurrency Crime Detection: CoinJoin Community Detection Approach](https://ieeexplore.ieee.org/document/10023950) - TDSC
 
 [Accountable and Fine-Grained Controllable Rewriting in Blockchains](https://ieeexplore.ieee.org/document/9931163) - TIFS
 
 [Wolverine: A Scalable and Transaction-Consistent Redactable Permissionless Blockchain](https://ieeexplore.ieee.org/document/10044703) - TIFS
 
-🌟🌟🌟 [TRacer: Scalable Graph-Based Transaction Tracing for Account-Based Blockchain Trading Systems](https://ieeexplore.ieee.org/document/10098630) - TIFS
+[TRacer: Scalable Graph-Based Transaction Tracing for Account-Based Blockchain Trading Systems](https://ieeexplore.ieee.org/document/10098630) - TIFS
 
-🌟🌟 [MAGO: Maliciously Secure Subgraph Counting on Decentralized Social Graphs](https://ieeexplore.ieee.org/document/10113303) - TIFS
+[MAGO: Maliciously Secure Subgraph Counting on Decentralized Social Graphs](https://ieeexplore.ieee.org/document/10113303) - TIFS
 
 [Verifiable and Redactable Blockchains With Fully Editing Operations](https://ieeexplore.ieee.org/document/10159153) - TIFS
 
-🌟🌟 [TRCT: A Traceable Anonymous Transaction Protocol for Blockchain](https://ieeexplore.ieee.org/document/10185067) - TIFS
+[TRCT: A Traceable Anonymous Transaction Protocol for Blockchain](https://ieeexplore.ieee.org/document/10185067) - TIFS
 
-🌟🌟🌟 [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
+[Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
 
-🌟🌟🌟 [Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
+[Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](https://ieeexplore.ieee.org/document/10371347) - TIFS
 
 **[Scalability]** 
 
 [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://ieeexplore.ieee.org/document/10179427) - S&P
 
-🌟 [POSE: Practical Off-chain Smart Contract Execution](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/) - NDSS
+[POSE: Practical Off-chain Smart Contract Execution](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/) - NDSS
 
 [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/) - NDSS
 
@@ -445,7 +444,7 @@ Included Journals: TDSC, TIFS
 
 [Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://ieeexplore.ieee.org/document/10179426) - S&P
 
-🌟🌟🌟 [SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/document/10179435) - S&P
+[SoK: Decentralized Finance (DeFi) Attacks](https://ieeexplore.ieee.org/document/10179435) - S&P
 
 [Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](https://ieeexplore.ieee.org/document/10179323) - S&P
 
@@ -465,7 +464,7 @@ Included Journals: TDSC, TIFS
 
 [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](https://dl.acm.org/doi/10.1145/3576915.3616677) - CCS
 
-🌟🌟 [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
+[TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/10.1145/3576915.3623210) - CCS
 
 [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://dl.acm.org/doi/10.1145/3576915.3623204) - CCS
 
@@ -477,7 +476,7 @@ Included Journals: TDSC, TIFS
 
 [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell) - USENIX
 
-🌟🌟 [The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) - USENIX
+[The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) - USENIX
 
 [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/ndss-paper/smarter-contracts-detecting-vulnerabilities-in-smart-contracts-with-deep-transfer-learning/) - NDSS
 
@@ -503,7 +502,7 @@ Included Journals: TDSC, TIFS
 
 [Do NFTs' Owners Really Possess their Assets? A First Look at the NFT-to-Asset Connection Fragility](https://dl.acm.org/doi/10.1145/3543507.3583281) - WWW
 
-🌟🌟 [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://dl.acm.org/doi/10.1145/3543507.3583345) - WWW
+[BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://dl.acm.org/doi/10.1145/3543507.3583345) - WWW
 
 [Cross-Modality Mutual Learning for Enhancing Smart Contract Vulnerability Detection on Bytecode](https://dl.acm.org/doi/10.1145/3543507.3583367) - WWW
 
