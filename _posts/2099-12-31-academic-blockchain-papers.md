@@ -62,6 +62,22 @@ Included Journals: TDSC, TIFS
 
 [GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva) - USENIX
 
+[PrivData Network: A Privacy-Preserving On-Chain Data Factory and Trading Market](https://ieeexplore.ieee.org/document/10147243) - TDSC
+
+[SPCEX: Secure and Privacy-Preserving Cryptocurrency Exchange](https://ieeexplore.ieee.org/document/10398514) - TDSC
+
+[Concise RingCT Protocol Based on Linkable Threshold Ring Signature](https://ieeexplore.ieee.org/document/10440486) - TDSC
+
+[Anonymity-Enhancing Multi-Hop Locks for Monero-Enabled Payment Channel Networks](https://dl.acm.org/doi/10.1109/TIFS.2023.3346177) - TIFS
+
+[FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIFS
+
+[MaskAuct: Seller-Autonomous Auction With Bidder Anonymity and Bidding Confidentiality](https://dl.acm.org/doi/10.1109/TIFS.2024.3449116) - TIFS
+
+**[Compliance]**
+
+[Characterizing Ethereum Address Poisoning Attack](https://dl.acm.org/doi/10.1145/3658644.3690277) - CCS
+
 [Pisces: Private and Compliable Cryptocurrency Exchange](https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/) - NDSS
 
 [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/) - NDSS
@@ -74,15 +90,9 @@ Included Journals: TDSC, TIFS
 
 [Monero With Multi-Grained Redaction](https://ieeexplore.ieee.org/document/10057988) - TDSC
 
-[PrivData Network: A Privacy-Preserving On-Chain Data Factory and Trading Market](https://ieeexplore.ieee.org/document/10147243) - TDSC
-
-[SPCEX: Secure and Privacy-Preserving Cryptocurrency Exchange](https://ieeexplore.ieee.org/document/10398514) - TDSC
-
 [Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/document/10399884) - TDSC
 
 [Solution Probing Attack Against Coin Mixing Based Privacy-Preserving Crowdsourcing Platforms](https://ieeexplore.ieee.org/document/10404041) - TDSC
-
-[Concise RingCT Protocol Based on Linkable Threshold Ring Signature](https://ieeexplore.ieee.org/document/10440486) - TDSC
 
 [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning](https://ieeexplore.ieee.org/document/10292691) - TIFS
 
@@ -98,8 +108,6 @@ Included Journals: TDSC, TIFS
 
 [PRBFPT: A Practical Redactable Blockchain Framework With a Public Trapdoor](https://ieeexplore.ieee.org/document/10380599) - TIFS
 
-[Anonymity-Enhancing Multi-Hop Locks for Monero-Enabled Payment Channel Networks](https://dl.acm.org/doi/10.1109/TIFS.2023.3346177) - TIFS
-
 [Division of Regulatory Power: Collaborative Regulation for Privacy-Preserving Blockchains](https://dl.acm.org/doi/10.1109/TIFS.2023.3348268) - TIFS
 
 [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data](https://ieeexplore.ieee.org/document/10415200) - TIFS
@@ -112,13 +120,9 @@ Included Journals: TDSC, TIFS
 
 [Accountable and Secure Threshold EdDSA Signature and Its Applications](https://dl.acm.org/doi/10.1109/TIFS.2024.3428848) - TIFS
 
-[FACOS: Enabling Privacy Protection Through Fine-Grained Access Control With On-Chain and Off-Chain System](https://ieeexplore.ieee.org/document/10596314) - TIFS
-
 [Redactable Blockchain Based on Decentralized Trapdoor Verifiable Delay Functions](https://ieeexplore.ieee.org/document/10605835) - TIFS
 
 [Controlled Redactable Blockchain Based on T-Times Chameleon Hash and Signature](https://ieeexplore.ieee.org/document/10620354) - TIFS
-
-[MaskAuct: Seller-Autonomous Auction With Bidder Anonymity and Bidding Confidentiality](https://dl.acm.org/doi/10.1109/TIFS.2024.3449116) - TIFS
 
 [Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782) - TIFS
 
@@ -194,8 +198,6 @@ Included Journals: TDSC, TIFS
 [Defying the Odds: Solana’s Unexpected Resilience in Spite of the Security Challenges Faced by Developers](https://dl.acm.org/doi/10.1145/3658644.3670333) - CCS
 
 [Securing Lightning Channels against Rational Miners](https://dl.acm.org/doi/10.1145/3658644.3670373) - CCS
-
-[Characterizing Ethereum Address Poisoning Attack](https://dl.acm.org/doi/10.1145/3658644.3690277) - CCS
 
 [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://dl.acm.org/doi/10.1145/3658644.3690329) - CCS
 
