@@ -48,6 +48,8 @@ Included Journals: TDSC, TIFS
 
 [IvyRedaction: Enabling Atomic, Consistent and Accountable Cross-Chain Rewriting](https://ieeexplore.ieee.org/document/10342807) - TDSC
 
+[Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness](https://ieeexplore.ieee.org/document/10420492) - TDSC
+
 [Reinventing Multi-User Authentication Security From Cross-Chain Perspective](https://ieeexplore.ieee.org/document/10683773) - TIFS 
 
 **[Privacy]** 
@@ -81,6 +83,8 @@ Included Journals: TDSC, TIFS
 [Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/document/10399884) - TDSC
 
 [Solution Probing Attack Against Coin Mixing Based Privacy-Preserving Crowdsourcing Platforms](https://ieeexplore.ieee.org/document/10404041) - TDSC
+
+[Concise RingCT Protocol Based on Linkable Threshold Ring Signature](https://ieeexplore.ieee.org/document/10440486) - TDSC
 
 [PRBFPT: A Practical Redactable Blockchain Framework With a Public Trapdoor](https://ieeexplore.ieee.org/document/10380599) - TIFS
 
@@ -346,6 +350,22 @@ Included Journals: TDSC, TIFS
 [A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction](https://ieeexplore.ieee.org/document/10404008) - TDSC
 
 [Blockchain Based Auditable Access Control for Business Processes With Event Driven Policies](https://ieeexplore.ieee.org/document/10411126) - TDSC
+
+[DeGKM: Decentralized Group Key Management for Content Push in Integrated Networks](https://ieeexplore.ieee.org/document/10415492) - TDSC
+
+[A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing Based on Blockchain](https://ieeexplore.ieee.org/document/10443590) - TDSC
+
+[Trusted Hardware-Assisted Leaderless Byzantine Fault Tolerance Consensus](https://ieeexplore.ieee.org/document/10443847) - TDSC
+
+[Refereed Delegation of Computation Using Smart Contracts](https://ieeexplore.ieee.org/document/10458259) - TDSC
+
+[BASS: A Blockchain-Based Asynchronous SignSGD Architecture for Efficient and Secure Federated Learning](https://ieeexplore.ieee.org/document/10463122) - TDSC
+
+[Parallel Byzantine Consensus Based on Hierarchical Architecture and Trusted Hardware](https://ieeexplore.ieee.org/document/10470367) - TDSC
+
+[BWKA: A Blockchain-Based Wide-Area Knowledge Acquisition Ecosystem](https://ieeexplore.ieee.org/document/10480249) - TDSC
+
+[Ensuring State Continuity for Confidential Computing: A Blockchain-Based Approach](https://ieeexplore.ieee.org/document/10480251) - TDSC
 
 [MC-DSC: A Dynamic Secure Resource Configuration Scheme Based on Medical Consortium Blockchain](https://ieeexplore.ieee.org/document/10430099) - TIFS
 
