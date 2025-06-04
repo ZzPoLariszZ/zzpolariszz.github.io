@@ -52,6 +52,12 @@ Included Journals: TDSC, TIFS
 
 [Ring of Gyges: Accountable Anonymous Broadcast via Secret-Shared Shuffle](https://www.ndss-symposium.org/ndss-paper/ring-of-gyges-accountable-anonymous-broadcast-via-secret-shared-shuffle/) - NDSS
 
+[MixBuy: Contingent Payment in the Presence of Coin Mixers](https://petsymposium.org/popets/2025/popets-2025-0036.php) - PETS
+
+[MProve-Nova: A Privacy-Preserving Proof of Reserves Protocol for Monero](https://petsymposium.org/popets/2025/popets-2025-0078.php) - PETS
+
+[Toxic Decoys: A Path to Scaling Privacy-Preserving Cryptocurrencies]() - PETS
+
 **[Compliance]**
 
 [ALPACA: Anonymous Blocklisting with Constant-Sized Updatable Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d123/26hiVkpj356) - S&P
