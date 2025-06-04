@@ -66,6 +66,8 @@ Included Journals: TDSC, TIFS
 
 [MineShark: Cryptomining Traffic Detection at Scale](https://www.ndss-symposium.org/ndss-paper/mineshark-cryptomining-traffic-detection-at-scale/) - NDSS
 
+[Cybersquatting in Web3: The Case of NFT]() - EuroS&P
+
 **[Scalability]** 
 
 [TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a032/21B7Qm2mfeM) - S&P
@@ -112,6 +114,8 @@ Included Journals: TDSC, TIFS
 
 [The Forking Way: When TEEs Meet Consensus](https://www.ndss-symposium.org/ndss-paper/the-forking-way-when-tees-meet-consensus/) - NDSS
 
+[Commitment Attacks on Ethereum’s Reward Mechanism]() - EuroS&P
+
 **[Zero-Knowledge Proof]**
 
 [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers](https://www.ndss-symposium.org/ndss-paper/mtzk-testing-and-exploring-bugs-in-zero-knowledge-zk-compilers/) - NDSS
@@ -133,6 +137,8 @@ Included Journals: TDSC, TIFS
 [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega) - USENIX
 
 [Exploring User Perceptions of Security Auditing in the Web3 Ecosystem](https://www.ndss-symposium.org/ndss-paper/exploring-user-perceptions-of-security-auditing-in-the-web3-ecosystem/) - NDSS
+
+[Best-Possible Unpredictable Proof-of-Stake: An Impossibility and a Practical Design]() - EuroS&P
 
 ---
 ### 2024
