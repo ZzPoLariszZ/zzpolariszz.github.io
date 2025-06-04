@@ -38,6 +38,8 @@ Included Journals: TDSC, TIFS
 
 [Alba: The Dawn of Scalable Bridges for Blockchains](https://www.ndss-symposium.org/ndss-paper/alba-the-dawn-of-scalable-bridges-for-blockchains/) - NDSS
 
+[MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications](https://dl.acm.org/doi/10.1145/3696410.3714867) - WWW
+
 **[Privacy]** 
 
 [Peer2PIR: Private Queries for IPFS](https://www.computer.org/csdl/proceedings-article/sp/2025/223600e068/26hiW14wWek) - S&P
@@ -68,6 +70,12 @@ Included Journals: TDSC, TIFS
 
 [Cybersquatting in Web3: The Case of NFT]() - EuroS&P
 
+[CATALOG: Exploiting Joint Temporal Dependencies for Enhanced Phishing Detection on Ethereum](https://dl.acm.org/doi/10.1145/3696410.3714903) - WWW
+
+[Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos](https://dl.acm.org/doi/10.1145/3696410.3714689) - WWW
+
+[Serial Scammers and Attack of the Clones: How Scammers Coordinate Multiple Rug Pulls on Decentralized Exchanges](https://dl.acm.org/doi/10.1145/3696410.3714919) - WWW
+
 **[Scalability]** 
 
 [TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a032/21B7Qm2mfeM) - S&P
@@ -89,6 +97,8 @@ Included Journals: TDSC, TIFS
 [Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding](https://www.ndss-symposium.org/ndss-paper/manifoldchain-maximizing-blockchain-throughput-via-bandwidth-clustered-sharding/) - NDSS
 
 [Mysticeti: Reaching the Latency Limits with Uncertified DAGs](https://www.ndss-symposium.org/ndss-paper/mysticeti-reaching-the-latency-limits-with-uncertified-dags/) - NDSS
+
+[AERO: Enhancing Sharding Blockchain via Deep Reinforcement Learning for Account Migration](https://dl.acm.org/doi/10.1145/3696410.3714926) - WWW
 
 **[Security]** 
 
@@ -139,6 +149,10 @@ Included Journals: TDSC, TIFS
 [Exploring User Perceptions of Security Auditing in the Web3 Ecosystem](https://www.ndss-symposium.org/ndss-paper/exploring-user-perceptions-of-security-auditing-in-the-web3-ecosystem/) - NDSS
 
 [Best-Possible Unpredictable Proof-of-Stake: An Impossibility and a Practical Design]() - EuroS&P
+
+[FLock: Robust and Privacy-Preserving Federated Learning based on Practical Blockchain State Channels](https://dl.acm.org/doi/10.1145/3696410.3714666) - WWW
+
+[The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams](https://dl.acm.org/doi/10.1145/3696410.3714588) - WWW
 
 ---
 ### 2024
