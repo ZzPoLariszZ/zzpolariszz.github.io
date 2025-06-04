@@ -42,6 +42,12 @@ Included Journals: TDSC, TIFS
 
 [Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a184/26hiTyJTFjG) - S&P
 
+[BulletCT: Towards More Scalable Ring Confidential Transactions With Transparent Setup](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-nan) - USENIX
+
+[Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://www.usenix.org/conference/usenixsecurity25/presentation/heimbach) - USENIX
+
+[Practical Mempool Privacy via One-time Setup Batched Threshold Encryption](https://www.usenix.org/conference/usenixsecurity25/presentation/choudhuri) - USENIX
+
 **[Compliance]**
 
 [ALPACA: Anonymous Blocklisting with Constant-Sized Updatable Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d123/26hiVkpj356) - S&P
@@ -58,6 +64,8 @@ Included Journals: TDSC, TIFS
 
 [Constant latency and finality for dynamically available DAG](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b910/26EkFUoHIRi) - S&P
 
+[Thunderdome: Timelock-Free Rationally-Secure Virtual Channels](https://www.usenix.org/conference/usenixsecurity25/presentation/avarikioti) - USENIX
+
 **[Security]** 
 
 [VITARIT: Paying for Threshold Services on Bitcoin and Friends](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b870/26hiUAx6lKE) - S&P
@@ -65,6 +73,14 @@ Included Journals: TDSC, TIFS
 [Decentralization of Ethereum's Builder Market](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b456/26hiUkhZyfK) - S&P
 
 [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b475/26hiUkWiAIU) - S&P
+
+[Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain](https://www.usenix.org/conference/usenixsecurity25/presentation/zheyuan) - USENIX
+
+[Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-bosi) - USENIX
+
+[BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention](https://www.usenix.org/conference/usenixsecurity25/presentation/bormet) - USENIX
+
+[Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-mingfei) - USENIX
 
 **[Other]**
 
@@ -79,6 +95,12 @@ Included Journals: TDSC, TIFS
 [Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b547/26EkFF9L4Qw) - S&P
 
 [Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b658/26hiUsqoKoo) - S&P
+
+[DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum](https://www.usenix.org/conference/usenixsecurity25/presentation/gu-xiaolan) - USENIX
+
+[PoiSAFL: Scalable Poisoning Attack Framework to Byzantine-resilient Semi-asynchronous Federated Learning](https://www.usenix.org/conference/usenixsecurity25/presentation/pang-xiaoyi) - USENIX
+
+[Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega) - USENIX
 
 ---
 ### 2024
