@@ -36,6 +36,8 @@ Included Journals: TDSC, TIFS
 
 [Warning! The Timeout T Cannot Protect You From Losing Coins PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b566/26EkFFS2v8A) - S&P 
 
+[Alba: The Dawn of Scalable Bridges for Blockchains](https://www.ndss-symposium.org/ndss-paper/alba-the-dawn-of-scalable-bridges-for-blockchains/) - NDSS
+
 **[Privacy]** 
 
 [Peer2PIR: Private Queries for IPFS](https://www.computer.org/csdl/proceedings-article/sp/2025/223600e068/26hiW14wWek) - S&P
@@ -48,9 +50,15 @@ Included Journals: TDSC, TIFS
 
 [Practical Mempool Privacy via One-time Setup Batched Threshold Encryption](https://www.usenix.org/conference/usenixsecurity25/presentation/choudhuri) - USENIX
 
+[Ring of Gyges: Accountable Anonymous Broadcast via Secret-Shared Shuffle](https://www.ndss-symposium.org/ndss-paper/ring-of-gyges-accountable-anonymous-broadcast-via-secret-shared-shuffle/) - NDSS
+
 **[Compliance]**
 
 [ALPACA: Anonymous Blocklisting with Constant-Sized Updatable Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d123/26hiVkpj356) - S&P
+
+[Dissecting Payload-based Transaction Phishing on Ethereum](https://www.ndss-symposium.org/ndss-paper/dissecting-payload-based-transaction-phishing-on-ethereum/) - NDSS
+
+[MineShark: Cryptomining Traffic Detection at Scale](https://www.ndss-symposium.org/ndss-paper/mineshark-cryptomining-traffic-detection-at-scale/) - NDSS
 
 **[Scalability]** 
 
@@ -65,6 +73,14 @@ Included Journals: TDSC, TIFS
 [Constant latency and finality for dynamically available DAG](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b910/26EkFUoHIRi) - S&P
 
 [Thunderdome: Timelock-Free Rationally-Secure Virtual Channels](https://www.usenix.org/conference/usenixsecurity25/presentation/avarikioti) - USENIX
+
+[Horcrux: Synthesize, Split, Shift and Stay Alive; Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments](https://www.ndss-symposium.org/ndss-paper/horcrux-synthesize-split-shift-and-stay-alive-preventing-channel-depletion-via-universal-and-enhanced-multi-hop-payments/) - NDSS
+
+[Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead](https://www.ndss-symposium.org/ndss-paper/kronos-a-secure-and-generic-sharding-blockchain-consensus-with-optimized-overhead/) - NDSS
+
+[Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding](https://www.ndss-symposium.org/ndss-paper/manifoldchain-maximizing-blockchain-throughput-via-bandwidth-clustered-sharding/) - NDSS
+
+[Mysticeti: Reaching the Latency Limits with Uncertified DAGs](https://www.ndss-symposium.org/ndss-paper/mysticeti-reaching-the-latency-limits-with-uncertified-dags/) - NDSS
 
 **[Security]** 
 
@@ -82,6 +98,20 @@ Included Journals: TDSC, TIFS
 
 [Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-mingfei) - USENIX
 
+[Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection](https://www.ndss-symposium.org/ndss-paper/silence-false-alarms-identifying-anti-reentrancy-patterns-on-ethereum-to-refine-smart-contract-reentrancy-detection/) - NDSS
+
+[Eclipse Attacks on Monero's Peer-to-Peer Network](https://www.ndss-symposium.org/ndss-paper/eclipse-attacks-on-moneros-peer-to-peer-network/) - NDSS
+
+[PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://www.ndss-symposium.org/ndss-paper/propertygpt-llm-driven-formal-verification-of-smart-contracts-through-retrieval-augmented-property-generation/) - NDSS
+
+[The Forking Way: When TEEs Meet Consensus](https://www.ndss-symposium.org/ndss-paper/the-forking-way-when-tees-meet-consensus/) - NDSS
+
+**[Zero-Knowledge Proof]**
+
+[MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers](https://www.ndss-symposium.org/ndss-paper/mtzk-testing-and-exploring-bugs-in-zero-knowledge-zk-compilers/) - NDSS
+
+[Siniel: Distributed Privacy-Preserving zkSNARK](https://www.ndss-symposium.org/ndss-paper/siniel-distributed-privacy-preserving-zksnark/) - NDSS
+
 **[Other]**
 
 [Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a042/21B7QvjJ9Ty) - S&P
@@ -94,13 +124,9 @@ Included Journals: TDSC, TIFS
 
 [Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b547/26EkFF9L4Qw) - S&P
 
-[Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b658/26hiUsqoKoo) - S&P
-
-[DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum](https://www.usenix.org/conference/usenixsecurity25/presentation/gu-xiaolan) - USENIX
-
-[PoiSAFL: Scalable Poisoning Attack Framework to Byzantine-resilient Semi-asynchronous Federated Learning](https://www.usenix.org/conference/usenixsecurity25/presentation/pang-xiaoyi) - USENIX
-
 [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega) - USENIX
+
+[Exploring User Perceptions of Security Auditing in the Web3 Ecosystem](https://www.ndss-symposium.org/ndss-paper/exploring-user-perceptions-of-security-auditing-in-the-web3-ecosystem/) - NDSS
 
 ---
 ### 2024
