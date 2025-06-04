@@ -28,6 +28,59 @@ Included Journals: TDSC, TIFS
 ✅ : Read with Note
 
 ---
+### 2025
+
+**[Interoperability]**  
+
+[P2C2T: Preserving the Privacy of Cross-Chain Transfer](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a051/21B7QYE5x8Q) - S&P
+
+[Warning! The Timeout T Cannot Protect You From Losing Coins PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b566/26EkFFS2v8A) - S&P 
+
+**[Privacy]** 
+
+[Peer2PIR: Private Queries for IPFS](https://www.computer.org/csdl/proceedings-article/sp/2025/223600e068/26hiW14wWek) - S&P
+
+[Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a184/26hiTyJTFjG) - S&P
+
+**[Compliance]**
+
+[ALPACA: Anonymous Blocklisting with Constant-Sized Updatable Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d123/26hiVkpj356) - S&P
+
+**[Scalability]** 
+
+[TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a032/21B7Qm2mfeM) - S&P
+
+[Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b947/26EkFVQ7mPC) - S&P
+
+[MicroNova: Folding-based arguments with efficient (on-chain) verification](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b835/26hiUz9nuta) - S&P
+
+[Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b983/26EkFXhOBW0) - S&P
+
+[Constant latency and finality for dynamically available DAG](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b910/26EkFUoHIRi) - S&P
+
+**[Security]** 
+
+[VITARIT: Paying for Threshold Services on Bitcoin and Friends](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b870/26hiUAx6lKE) - S&P
+
+[Decentralization of Ethereum's Builder Market](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b456/26hiUkhZyfK) - S&P
+
+[A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b475/26hiUkWiAIU) - S&P
+
+**[Other]**
+
+[Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a042/21B7QvjJ9Ty) - S&P
+
+[Sailfish: Towards Improving the Latency of DAG-based BFT](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a021/21B7QcFAX6M) - S&P
+
+["Check-Before-you-Solve": Verifiable Time-lock Puzzles](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a053/21B7R0jYIKs) - S&P
+
+[Liquefaction: Privately Liquefying Blockchain Assets](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b437/26hiUjFXiP6) - S&P
+
+[Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b547/26EkFF9L4Qw) - S&P
+
+[Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b658/26hiUsqoKoo) - S&P
+
+---
 ### 2024
 
 🔥 ***<span style="color:Red"><u>73</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
