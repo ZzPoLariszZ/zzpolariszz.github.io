@@ -98,6 +98,8 @@ Included Journals: TDSC, TIFS
 
 [Mysticeti: Reaching the Latency Limits with Uncertified DAGs](https://www.ndss-symposium.org/ndss-paper/mysticeti-reaching-the-latency-limits-with-uncertified-dags/) - NDSS
 
+[An Empirical Study of Proxy Smart Contracts at the Ethereum Ecosystem Scale](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/125/An-Empirical-Study-of-Proxy-Smart-Contracts-at-the-Ethereum-Ecosystem-Scale) - ICSE
+
 [AERO: Enhancing Sharding Blockchain via Deep Reinforcement Learning for Account Migration](https://dl.acm.org/doi/10.1145/3696410.3714926) - WWW
 
 **[Security]** 
@@ -125,6 +127,22 @@ Included Journals: TDSC, TIFS
 [The Forking Way: When TEEs Meet Consensus](https://www.ndss-symposium.org/ndss-paper/the-forking-way-when-tees-meet-consensus/) - NDSS
 
 [Commitment Attacks on Ethereum’s Reward Mechanism]() - EuroS&P
+
+[Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/57/Automated-Test-Generation-For-Smart-Contracts-via-On-Chain-Test-Case-Augmentation-and) - ICSE
+
+[Chord: Towards a Unified Detection of Blockchain Transaction Parallelism Bugs](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/191/Chord-Towards-a-Unified-Detection-of-Blockchain-Transaction-Parallelism-Bugs) - ICSE
+
+[Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/102/Code-Cloning-in-Solidity-Smart-Contracts-Prevalence-Evolution-and-Impact-on-Develo) - ICSE
+
+[Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/33/Combining-Fine-Tuning-and-LLM-based-Agents-for-Intuitive-Smart-Contract-Auditing-with) - ICSE
+
+[Definition and Detection of Centralization Defects in Smart Contracts](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/129/Definition-and-Detection-of-Centralization-Defects-in-Smart-Contracts) - ICSE
+
+[Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/5/Demystifying-and-Detecting-Cryptographic-Defects-in-Ethereum-Smart-Contracts) - ICSE
+
+[Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/92/Enhancing-The-Open-Network-Definition-and-Automated-Detection-of-Smart-Contract-Defe) - ICSE
+
+[FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/76/FairChecker-Detecting-Fund-stealing-Bugs-in-DeFi-Protocols-via-Fairness-Validation) - ICSE
 
 **[Zero-Knowledge Proof]**
 
