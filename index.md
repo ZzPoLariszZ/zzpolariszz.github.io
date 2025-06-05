@@ -10,7 +10,7 @@ related: true
 ## About Me
 
 <p style="font-size: 20px">
-    I am currently a second-year PhD student at the <a href="https://www.birmingham.ac.uk/">University of Birmingham (UoB)</a>, where I am fortunate to be co-supervised by <a href="https://pascal-berrang.de/">Dr. Pascal Berrang</a> and <a href="https://www.cs.bham.ac.uk/~mdr/">Prof. Mark Dermot Ryan</a>. Prior to joining the UoB, I received my Master's degree in Information Security from <a href="https://www.ucl.ac.uk/">University College London (UCL)</a> with Distinction.
+    Now I am a second-year PhD student at the <a href="https://www.birmingham.ac.uk/">University of Birmingham (UoB)</a>, where I am fortunate to be co-supervised by <a href="https://pascal-berrang.de/">Dr. Pascal Berrang</a> and <a href="https://www.cs.bham.ac.uk/~mdr/">Prof. Mark Dermot Ryan</a>. Prior to joining the UoB, I received my Master's degree in Information Security from <a href="https://www.ucl.ac.uk/">University College London (UCL)</a> with Distinction.
 </p>
 
 ## Research Interests
@@ -27,7 +27,7 @@ related: true
 ## Recent News
 
 <ul style="font-size: 20px;">
-    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[02/28/2025]</span></b> &nbsp; <span style="color:red">Funding (£12,656) from <em>Innvote UK, Cyber Security Academic Startup Accelerator Programme Y9</em> (<a href="https://iuk-business-connect.org.uk/programme/cyberasap/">CyberASAP</a>) with Dr. Pascal Berrang as PI</span></li>
+    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[02/28/2025]</span></b> &nbsp; <strong><span style="color:red">Funding (£12,656) from <em>Cyber Security Academic Startup Accelerator Programme Y9</em> (<a href="https://iuk-business-connect.org.uk/programme/cyberasap/">CyberASAP</a>), Innvote UK, UKRI, with Dr. Pascal Berrang as PI</span></strong></li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[02/26/2025]</span></b> &nbsp; Sub-reviewing at Cycle 2 of <em>34th USENIX Security Symposium</em> (<a href="https://www.usenix.org/conference/usenixsecurity25">Security '25</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/20/2025]</span></b> &nbsp; Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (25 Spring)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/13/2025]</span></b> &nbsp; <strong>Now second-year PhD student !!!</strong></li>
@@ -37,7 +37,7 @@ related: true
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[07/05/2024]</span></b> &nbsp; Sub-reviewing at Issue 1 of <em>25th Privacy Enhancing Technologies Symposium</em> (<a href="https://petsymposium.org/cfp25.php">PETS '25</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[04/21/2024]</span></b> &nbsp; Artifact Evaluation Committee at <em>18th USENIX WOOT Conference on Offensive Technologies</em> (<a href="https://www.usenix.org/conference/woot24">WOOT '24</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/15/2024]</span></b> &nbsp; Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (24 Spring)</li>
-    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/08/2024]</span></b> &nbsp; First-year PhD student at <em>University of Birmingham - Centre for Cyber Security and Privacy</em> (<a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">UoB-CCSP</a>)</li>
+    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/08/2024]</span></b> &nbsp; <strong>First-year PhD student at <em>University of Birmingham - Centre for Cyber Security and Privacy</em> (<a href="https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx">UoB-CCSP</a>)</strong></li>
 </ul>
 
 ## Miscellaneous
