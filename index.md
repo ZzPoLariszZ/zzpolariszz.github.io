@@ -27,7 +27,7 @@ related: true
 ## Recent News
 
 <ul style="font-size: 20px;">
-    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[02/28/2025]</span></b> &nbsp; <strong><span style="color:red">Funding (£12,656) from <em>Cyber Security Academic Startup Accelerator Programme Y9</em> (<a href="https://iuk-business-connect.org.uk/programme/cyberasap/">CyberASAP</a>), Innvote UK, UKRI, with Dr. Pascal Berrang as PI</span></strong></li>
+    <li><b><span style="font-family: 'Courier New', Courier, monospace;">[02/28/2025]</span></b> &nbsp; <strong><span style="color:red">Funding (£12,656) from <em>Cyber Security Academic Startup Accelerator Programme Y9</em> (<a href="https://iuk-business-connect.org.uk/programme/cyberasap/">CyberASAP</a>), Innvote UK, UKRI, with Dr. Pascal Berrang as Principal Investigator (PI)</span></strong></li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[02/26/2025]</span></b> &nbsp; Sub-reviewing at Cycle 2 of <em>34th USENIX Security Symposium</em> (<a href="https://www.usenix.org/conference/usenixsecurity25">Security '25</a>)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/20/2025]</span></b> &nbsp; Post Graduate Teaching Assistant (PGTA) for Module <em>Security & Networks</em> (25 Spring)</li>
     <li><b><span style="font-family: 'Courier New', Courier, monospace;">[01/13/2025]</span></b> &nbsp; <strong>Now second-year PhD student !!!</strong></li>
