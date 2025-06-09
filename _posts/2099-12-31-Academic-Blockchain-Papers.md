@@ -565,7 +565,7 @@ Included Journals: TDSC, TIFS
 ---
 ### 2023
 
-🔥 ***<span style="color:Red"><u>46</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
+🔥 ***<span style="color:Red"><u>47</u> Papers Accepted by Top 4 Conferences (S&P, CCS, USENIX, NDSS)</span>*** 🔥
 
 **[Interoperability]** 
 
@@ -582,6 +582,8 @@ Included Journals: TDSC, TIFS
 **[Privacy]**  
 
 [Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage](https://dl.acm.org/doi/10.1145/3576915.3623094) - CCS
+
+[Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://www.usenix.org/conference/usenixsecurity23/presentation/cernera) - USENIX
 
 [Act Natural: Exchanging Private Messages on Public Blockchains](https://ieeexplore.ieee.org/document/10190519) - EuroS&P
 
