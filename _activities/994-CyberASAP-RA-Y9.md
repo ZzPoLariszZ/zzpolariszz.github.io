@@ -7,6 +7,6 @@ read_time: true
 toc: true
 ---
 
-Cyber Security Academic Startup Accelerator Programme Y9 supported by Innovate UK
+Cyber Security Academic Startup Accelerator Programme Y9 funded by Innovate UK
 
 <!--more-->
