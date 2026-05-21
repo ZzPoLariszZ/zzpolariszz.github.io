@@ -7,7 +7,7 @@ read_time: true
 toc: true
 ---
 
-Accepted at the ACM Web Conference 2026 (WWW '26)
+Endong Liu, Mark Ryan, Liyi Zhou, Pascal Berrang
 
 <!--more-->
 
